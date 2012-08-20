@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Block>
+  <Text ID="0">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}What shall we make?{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}What shall we make?{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}What to make...?{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}So! What shall we make?{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Right! What shall we make?{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}Well, what will it be?{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Well, what will it be?{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}Hmm... What will it be?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}Right. What shall we make?{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}What shall I make?{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:30}Okay! So, what shall we make?{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Right, what shall I make?{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Well, what shall I go for...?{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}What to make...?{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}So, what shall we make?{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}What to make...?{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:30}Well! What will it be?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}Well? Which is it to be...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}Right! What will it be?{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:30}Right! What's it to be?{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}What to make...?{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Right, what shall I make?{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:30}So, what shall we make?{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}What to choose...?{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Alrighty! What should we make...?{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}What would be best?{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Well, what'll it be?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}Right... What shall we make?{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}What shall I make?{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Hmm, what to make...?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}So, what shall we make?{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:30}Right then... What shall we make?{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}What to make...?{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:30}So, what shall we make?{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Right! What shall we make?{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}Well, what will it be?{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}What shall we make...?{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:30}Oh man, I don't know what to do!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}Right. What shall we make?{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}Right. What shall we make?{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}Right! What shall we make?{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}Right. What shall we make?{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}So, what shall we make?{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}Right! What's it gonna be?{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}Right! What's it gonna be?{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}Right. What shall we make?{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}Right. What shall we put together here?{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}Right. What shall we make?{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}Right. What shall we make?{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}Oh... Wh-What shall I make?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}Right. What shall we make?{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}Right. What shall we make?{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}Let me see... What shall we make?{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}Right! What's it gonna be?{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}Right! What's it gonna be?{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}What shall we make?{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}Right. What shall we make, then?{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}Right, what shall we make here?{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}Time to choose.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}Which to choose...?{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}Right, which is it to be?{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}Right. What shall we make?{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}Hmm, what's it to be, then?{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}Right then, what shall we make?{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}Right! What shall we create?{End}
+    {C1}{End}
+  </Text>
+  <Text ID="1">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}Oh! I'm feeling more powerful!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}Oh! I'm feeling more powerful!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}Ahhh, this is the stuff... Power!{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}Amazing! I suddenly feel a lot stronger!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Yee-hah! I'm feeling a good deal stronger!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}I feel stronger...{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Ha! I'm feeling stronger.{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}Oh, it seems as though I've become a little more capable.{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}I'm positively brimming with newfound strength.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Well! I'm feeling more powerful...{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}Hey! I'm feeling a lot stronger!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}I'm feeling a lot stronger!{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Haha! I'm feeling stronger.{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}My strength has been further augmented.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Ohh, I'm feeling more powerful! Powerful, I say!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Ha! This is pretty good...{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:30}Well! Not bad. {End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}My strength has grown... {End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}Oh! I seem to have grown stronger...{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Hey, that's pretty good!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}My strength has grown. {End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}I seem to have grown more powerful...{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}Hey, I'm feeling a lot more powerful!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}I feel more strength...{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Yee-hah! I'm gettin' more powerful!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:33}Excellent! I feel great power!{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Hey, this feels good...{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:33}I feel a new source of power welling up within me!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}I feel a new strength within me.{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Yeah! I'm feeling mighty stoked up!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}Well, well... This feels pretty good, I must say!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:30}I feel like I've grown more powerful!{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}I feel more powerful than ever.{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:30}I'm feeling a new strength!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Now this feels good!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}Well, I seem to have grown stronger still.{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}Right! I'm feeling fighting fit!{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:30}Yeah! Look who's getting more powerful!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}Well well, I seem to have grown more powerful...{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}I'm brimming with power!{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}I'm overflowing with newfound strength!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}Seems I have improved myself.{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}I've never felt this powerful!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}I've never felt this powerful!{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}I've grown even stronger, I reckon!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}I'm brimming with power!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}Well, well... It seems as though I have improved somewhat.{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}It seems I have reached new heights.{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}Looks like my strength has been boosted!{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}It seems like I've grown more p-powerful...maybe...{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}Well, well. It seems one's abilities can still improve, even at this age...{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}Yes! I've never felt as powerful as I do now!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}Hm? It seems as though I've grown a little more powerful!{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}Huh? I'm feeling even better than usual...{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}Huh? I feel like I might have got a bit smarter... No, perhaps not.{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}Oh... It seems as though I have grown a little more powerful.{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}Ooh, I've never felt this powerful before!{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}I feel a new power rising from within.{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}I grow stronger.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}My strength has grown... {End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}I'm feeling stronger than ever!{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}I feel my strength surging...{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}Wow, yeah! This feels great!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}Well now! I'm feeling a lot more powerful suddenly!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}Wow! I'm buzzing with power...just like a generator...{End}
+    {C1}{End}
+  </Text>
+  <Text ID="2">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}Do your best, {Poke}{C1}!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}Do your best, {Poke}{C1}!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}Come, {Poke}{C1}.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}Go get 'em, {Poke}{C1}!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Yeah! Let's go get 'em, {Poke}{C1}!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}We're off, {Poke}{C1}.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Come along, {Poke}{C1}.{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}Right, {Poke}{C1}. Let's go!{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}Let us proceed, {Poke}{C1}.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Let's go, {Poke}{C1}...{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:30}Let's give it everything, {Poke}{C1}!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Right, {Poke}{C1}. Let's venture forth!{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}We're off, {Poke}{C1}.{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}Come, {Poke}{C1}.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Come, {Poke}{C1}! It is time to train!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}We're off, {Poke}{C1}.{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:30}Let's go, {Poke}{C1}.{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}Come, {Poke}{C1}. We must go.{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}Right, {Poke}{C1}. Let's go!{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Right, let's get going, {Poke}{C1}!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}Come, {Poke}{C1}.{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Shall we go, {Poke}{C1}?{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:30}Let's go, {Poke}{C1}!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Let's go, {Poke}{C1}.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Here we go! Give it everything, {Poke}{C1}!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}We're off, {Poke}{C1}!{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}We're off, {Poke}{C1}.{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30} {Poke}{C1}! We're off!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}It is time to go, {Poke}{C1}.{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Let's get going, {Poke}{C1}!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}Shall we go, {Poke}{C1}?{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:30}Let's do what we can, {Poke}{C1}!{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}We're off, {Poke}{C1}!{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:30}Let's go, {Poke}{C1}!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Let's do this thing, {Poke}{C1}!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}We're off, {Poke}{C1}.{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}Right! Do your worst, {Poke}{C1}!{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:30}Let's show 'em, {Poke}{C1}!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}Let's go, shall we, {Poke}{C1}?{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}Let us go, {Poke}{C1}!{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}Okay! Let's set off, {Poke}{C1}!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}Let's go, {Poke}{C1}!{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}Right! Let's go, {Poke}{C1}!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}Right! Let's go, {Poke}{C1}!{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}Righto, {Poke}{C1}! Let's go!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}Right! It's time, {Poke}{C1}!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}Let us set off, {Poke}{C1}!{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}Right! Let's go, {Poke}{C1}!{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}Right! Let's go, {Poke}{C1}!{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}L-Let's give it a g-go, {Poke}{C1}!{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}Well, I suppose we should set off, {Poke}{C1}!{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}Right! Let's go, {Poke}{C1}!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}Let's set forth, {Poke}{C1}!{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}Forward march, {Poke}{C1}!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}Okay! Let's take off, {Poke}{C1}!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}Let us head off, {Poke}{C1}!{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}Right! Let's go, {Poke}{C1}!{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}Well, shall we go, {Poke}{C1}?{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}Come, {Poke}{C1}!{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}! We move...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}Right! We'll go, shall we, {Poke}{C1}?{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}Right. Come along, {Poke}{C1}.{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}Okay! Let's go, little {Poke}{C1}!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}Right, {Poke}{C1}. Let's make a move, shall we!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}Right! Let's move and shake, {Poke}{C1}!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="3">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}Which one would you like, {Poke}{C1}?{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}Which one would you like, {Poke}{C1}?{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}Choose one, {Poke}{C1}. It doesn't matter which.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}Which do you like the look of, {Poke}{C1}?{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Gotta eat well to succeed, {Poke}{C1}!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}Choose one, {Poke}{C1}.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Choose one, {Poke}{C1}.{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}Which do you like the look of, {Poke}{C1}?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}Make a selection, {Poke}{C1}.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Which will it be, {Poke}{C1}?{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:30}So! Which do you like the look of, {Poke}{C1}?{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Well, {Poke}{C1}. Which is it to be?{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Make your choice, {Poke}{C1}.{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}Pick one, {Poke}{C1}.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}I'll choose one for you, {Poke}{C1}!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Eat up, {Poke}{C1}.{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:30}I'll choose for you, shall I, {Poke}{C1}?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}You must choose, {Poke}{C1}...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}Which do you like the look of, {Poke}{C1}?{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Which'll it be, {Poke}{C1}?{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}Well, {Poke}{C1}? Make your choice.{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Which do you feel like, {Poke}{C1}?{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:30}Now eat it all up like a good little Pokémon, {Poke}{C1}!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Which would you like, {Poke}{C1}? {End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Time to tuck in, {Poke}{C1}!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}Which would you like, {Poke}{C1}?{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Which is it to be, {Poke}{C1}?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}Which will it be, {Poke}{C1}?{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}I'll choose for you, shall I, {Poke}{C1}?{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Time to tuck in, {Poke}{C1}!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}Which does my little {Poke}{C1} fancy?{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:30}Which would you like, {Poke}{C1}?{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}Well, {Poke}{C1}? Make your choice.{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:30}Which do you like the look of, {Poke}{C1}?{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Take whichever one you want, {Poke}{C1}!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}Make your choice, {Poke}{C1}.{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}Which'll it be, {Poke}{C1}?{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:30}Eat it up good, {Poke}{C1}!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}Which is it to be, {Poke}{C1}?{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}Which do you like the look of, {Poke}{C1}?{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}Choose, {Poke}{C1}!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}Which do you like the look of, {Poke}{C1}?{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}Which do you fancy, {Poke}{C1}?{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}Which'll you go for, {Poke}{C1}?{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}Dinnertime, {Poke}{C1}!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}Which is it to be, {Poke}{C1}?{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}I shall choose for you, {Poke}{C1}.{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}Which is it to be, {Poke}{C1}?{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}Which is it to be, {Poke}{C1}?{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}Um... Wh-Which do you want, {Poke}{C1}?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}Now, young'un, I want you to eat it all up. Understand, {Poke}{C1}?{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}Which is it to be, {Poke}{C1}?{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}Which is most appealing to you, {Poke}{C1}?{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}Which'll it be, {Poke}{C1}?{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}Eat up, {Poke}{C1}!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}Which one would you like, {Poke}{C1}?{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}Well, which is it to be, {Poke}{C1}?{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}Which is it going to be, {Poke}{C1}?{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}Choose, {Poke}{C1}.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}You must choose, {Poke}{C1}...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}Which would you like, {Poke}{C1}?{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}Which is it to be, {Poke}{C1}?{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}Which one would you like, {Poke}{C1}?{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}Now, {Poke}{C1}! You're to eat it all up, okay?{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}I shall choose for you, {Poke}{C1}!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="4">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}Right, let's get started!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}Okay, let's get started!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}{Color:31}Nobunaga{Color:33} will not tolerate anything but the utmost effort from all concerned. {End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}Right! Let's get started!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Gold, gold, gold! Right, let's dig up as much as we can!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}So, we begin.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}So, let's begin.{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}Right, let's make a start, shall we?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}Let us begin.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Let us begin!{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:30}All right, let's look as hard as we can!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Right! We'll put everything we have into this search.{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Let's begin. {End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}We shall begin.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}I want so much! The more gold the better!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Let's hurry up and start.{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:30}Right, let's begin!{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}So, we shall begin...?{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}Right, let's start searching, shall we?{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Okay! Let's get cracking!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}Let us begin. {End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}So, let us begin.{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:30}So this is the place to look, right?{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Let us begin.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}All right! Let's find as much as we can!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}Right, let us begin.{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Let's make a start, shall we?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}Let us begin. {End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}So! Let's begin!{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Okeydokey! Let's get looking!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}Right, let's make a start.{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:30}Right, let's begin.{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}Let us begin. {End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:30}Let's get looking!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Right, let's get cracking!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}Hmm, our hands are going to get dirty...{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}Right, let's get started!{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:30}Let's hurry up and start!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}Well, let's begin.{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}Let us begin.{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}All right! Let's make a start!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}Let's begin, shall we?{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}Let's begin, shall we?{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}Shall we make a start?{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}Righto! Let's get hunting!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}Time to start!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}We must not let even the smallest speck escape our notice...{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}Let's make a start...{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}Let's begin!{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}O-Okay... L-Let's try, shall we?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}Well, let's begin.{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}Let's make a start!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}Let's make a start. {End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}Right! Let's get started straightaway!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}Right! Let's find every last speck!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}Let us make a start...{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}All of this―here for us! It wouldn't do to go holding ourselves back now, would it? {End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}Well, let's begin.{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}Let us begin. {End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}We begin...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}We'll begin, shall we?!{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}Time to start.{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}Okay! Let's try and find as much as we possibly can!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}Right! Let's make a start!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}On your marks, get set...GO!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="5">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}So, which will it be?{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}So, which will it be?{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}Which to choose...?{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}Right, which is it to be...?{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Right, what's it to be?{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}Well... Which will it be?{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Well, which should we choose?{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}Hmm, which should I choose?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}Which is best, I wonder?{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Hm, which to choose...{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:30}Hmmm, what shall we go for?{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Say, what shall I do?{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Well, what would be the wise choice...?{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}Which to choose...?{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Hmm... Which should I pick?{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Hm... Which will it be?{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:30}Hmm, which would be the wise choice?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}Hmm. What will it be...?{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}What's best, I wonder...{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Right! What's it to be?{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}What to do...?{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Well, which one will it be?{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:30}Hmm... Which shall I choose?{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}I must make a choice...{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Man, I can't decide... Which should I go for...?{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}Right... What would be the smart choice?{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Hmm... Which to choose...{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}I just don't know which to choose...{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Which one should I select?{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Hmm... Which should I go for?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}Which to choose...? Which to choose...?{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:30}Which is best, I wonder?{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}What to do...?{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:30}So, which one is it to be?{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Well, now this is a tough choice...{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}Well, which shall I choose?{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}Hmm... Which to choose?{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:30}I hate makin' decisions...{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}Which is best, I wonder?{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}Which to choose...?{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}Well, what should I do...?{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}Which to choose, I wonder...{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}Decisions, decisions...{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}Which to choose...?{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}Hmm... I don't know which one to choose...{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}Which should I choose...?{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}Well, now... Which to choose...?{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}Right. Which will it be...?{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}Right. Which to choose?{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}R-Right... Wh-Which would be best?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}Which is best, I wonder?{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}Right. Which will it be...?{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}These decisions are so vexing...{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}Hmm... I'm not good at things like this...{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}Hmm... Which should I go for...?{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}So, which one is it to be?{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}Right. Which will it be?{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}Which one is it to be?{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}A difficult choice...{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}Which to choose...?{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}Hmm... Which will it be?{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}Hm, which to choose...?{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}Right. Which will it be...?{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}Well now, which is best, I wonder...{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}Eeny, meeny, miny, mo...{End}
+    {C1}{End}
+  </Text>
+  <Text ID="6">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}This is a perfect time to form a link!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}This is a perfect chance to form a link!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}Hehe... Very well. Let us go and fetch them.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}This is a great time to form a link!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}This is definitely a chance to link!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}A fine opportunity to link.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}A fine opportunity. Now is the time to form a link. {End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}This is a good opportunity. Let's take a look, shall we? {End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}This is a good opportunity. Let us attempt to form a link.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}This is a good opportunity, I tell you. Find yourself a Pokémon to link with.{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:30}Hey! How's this for a great chance! I'm going to find a new friend to link up with!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}We must make the most of this opportunity to form a link. {End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}A great opportunity! There's no time to waste!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}A fine opportunity. This is the time to form a link. {End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}This is such a great opportunity to form a link!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}C'mon... No harm in trying, is there?{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:30}A fine opportunity. Let us go and take a look, shall we?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}This is our chance. Let's set forth...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}Now, here's a good opportunity. We must try and form a link!{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}This could be a good chance, you know! Well, there's no harm in trying, anyway.{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}A fine opportunity. There's no time to waste. {End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}A great opportunity. This is a chance to form a link.{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:30}Hey, if this isn't a great chance! Let's go right away!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}A fine opportunity. We must go.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Hey hey! This might be a brilliant chance to make a link, no?{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}A fine opportunity! Time to form a link.{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}This is a great chance! Time to link, methinks!{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}A great opportunity! It would not be right to waste any more time.{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}A wonderful opportunity. Let us go and form a new link.{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}This is a great chance to make a link!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}What a chance! Let's go and say hello!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:30}This is a good opportunity! Time to form a link, I think!{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}A fine opportunity. There's no time to waste. {End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:30}I think this is a wonderful opportunity to form a link!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Well then! No time to waste!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}This is a timely opportunity. Let's go straightaway.{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}This is a good chance. Let's go and link!{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Hey! Hey, this is our chance! Let's go, right now!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}Well I say, this is a good opportunity... Let's get linking!{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}This is a good opportunity! Let us try and form a link.{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}All right! This is a once-in-a-lifetime opportunity! Let's get moving!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}This is a good opportunity! Let's try and form a link.{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}This is a great chance! Let's try and form a link...{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}This is a great chance! Let's try and form a link...{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}This means we should head off straightaway, right?{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}This is a good opportunity! Let's try and link...{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}This is an excellent opportunity for us! We must set forth immediately.{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}A good opportunity! We must endeavor to form a link.{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}We can't miss this opportunity! Let's go right away...{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}This is a g-good opportunity...I think... I g-guess we should go straightaway? Yes?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}Well I say, this is a good opportunity... I think we should try and make a link!{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}What a great opportunity! Let's head off right away!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}This is an excellent opportunity! We must form a link at all costs!{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}Well, we got nothin' to lose! Let's head off!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}Hey, this is our chance! Let's head off!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}An excellent opportunity! I think we should definitely seize it if we can. {End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}Oh, a fine opportunity. We simply must try and form a link...{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}Well, this is a terrific opportunity... I think we should try and make a link!{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}A fine chance. We must move.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}We must not let this one pass us by... Come.{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}This is a great chance. We'll leave straightaway!{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}An excellent opportunity. Let's leave immediately. {End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}What a great opportunity! Let's head off right away!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}Well I say, this looks like a great chance... I think we should go right away!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}This is a fine opportunity! We'll link, link, link, before you can blink!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="7">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:32}Oh, that's a shame... You can't link with that kind of Pokémon until you can get to {Area}{C1}...{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:32}Oh, that's a shame... You can't link with that kind of Pokémon until you can get to {Area}{C1}...{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}Hehe... No. Until you can reach {Area}{C1}, no {Poke}{C1} will be yours.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}But... But you can't link with that kind of Pokémon until you can get to {Area}{C1}...{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:32}Argh, too bad! To link with that kind of Pokémon you gotta be able to get to {Area}{C1}...{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}However... To link with that kind of Pokémon, you must first be able to get to {Area}{C1}.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}And yet... You can't link with that kind of Pokémon until {Area}{C1} is within reach...{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:32}Oh, what a shame... You can't link with that kind of Pokémon until you can get to {Area}{C1}...{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:32}It is a pity, but you can't link with that kind of Pokémon until you can get to {Area}{C1}...{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Dear me, dear me... You first have to be able to get to {Area}{C1} in order to link with that kind of Pokémon...{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:32}Aww, that's a blow... To link with that kind of Pokémon, you have to be able to get to {Area}{C1}...{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}A pity! You have to find your way to {Area}{C1} to go on a {Poke}{C1} hunt.{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}But... To link with that kind of Pokémon, you need to first get to {Area}{C1}.{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}And yet... To link with that kind of Pokémon, you must first be able to reach {Area}{C1}.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:32}Oh dear, oh dear... You first have to be able to get to {Area}{C1} to link with that kind of Pokémon...{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}But... To link with that sort of Pokémon, you must first be able to reach {Area}{C1}.{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Hm, that's a shame... To link with Pokémon of that sort, you need to be able to get to {Area}{C1}.{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}And yet... To link with Pokémon like that, one must first get to {Area}{C1}.{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:32}Oh, what a shame... You have to be able to get to {Area}{C1} before you can hope to link with Pokémon of that kind.{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:32}What a blow! We first have to be able to get to {Area}{C1} in order to link with that kind of Pokémon.{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}But to link with that kind of Pokémon, we must first be able to reach {Area}{C1}...{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:31}What a shame... To be able to link with that kind of Pokémon, you need to first get to {Area}{C1}.{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:32}It's such a pity! But we can't link with Pokémon like that until we can get to {Area}{C1}...{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}However... To link with Pokémon of that kind, one must first reach {Area}{C1}.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}That's just too bad... To link with Pokémon of that sort, you need to be able to get to {Area}{C1}...{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:32}Pity... We have to first get to {Area}{C1} before we can link with that kind of Pokémon... {End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}But... We just can't link with Pokémon of that kind until we reach {Area}{C1}...{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}But... To link with that sort of Pokémon, we would first have to get to {Area}{C1}.{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Oh, what a great shame... To link with Pokémon of that kind, you must first be able to reach {Area}{C1}...{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}But it's no good... To link with that kind of Pokémon, you gotta get to {Area}{C1} first...{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}What a shame... To link with that kind of Pokémon, you need to be able to get to {Area}{C1}...{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:32}Oh, what a shame... You need to be able to get to {Area}{C1} before you can link with that kind of Pokémon...{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}But you can't link with that kind of Pokémon until you can get to {Area}{C1}...{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:32}It's such a shame... But you can't link with that kind of Pokémon until you can get to {Area}{C1}...{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Argh, too bad! You can't link with that kind of Pokémon until you can get to {Area}{C1}...{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}But... To be able to link with that kind of Pokémon, you need to first get to {Area}{C1}.{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}But to link with that kind of Pokémon, you need to first get to {Area}{C1}, you know...{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:30}Hey, but you know... There's no use trying to link with that kind of Pokémon until you can reach {Area}{C1}, is there...{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:32}Well, that's a shame! You can't link with that kind of Pokémon until you can get to {Area}{C1}...{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:32}Oh, what a shame... You can't link with that kind of Pokémon until you can get to {Area}{C1}...{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:32}Oh no! You can't link with that kind of Pokémon until you can get to {Area}{C1}, you know!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:32}Oh, what a shame... You can't link with that kind of Pokémon until you can get to {Area}{C1}...{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:32}You can't link with that kind of Pokémon until you can get to {Area}{C1}, though. More's the pity...{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:32}You can't link with that kind of Pokémon until you can get to {Area}{C1}, though... More's the pity...{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:32}Oh no... You can't link with that kind of Pokémon until you can get to {Area}{C1}...{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:32}Oh, what a shame... You can't link with that kind of Pokémon until you can get to {Area}{C1}...{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:32}Oh, what a shame... You can't link with that kind of Pokémon until you can get to {Area}{C1}...{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:32}Oh, what a shame... You can't link with that kind of Pokémon until you can get to {Area}{C1}, though...{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:32}You can't link with that kind of Pokémon until you can get to {Area}{C1}, though... What a shame!{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:32}Oh, what a sh-shame! B-But we can't link with that kind of P-Pokémon until we can get to {Area}{C1}, c-can we...{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:32}What a shame! We can't link with that kind of Pokémon until we can get to {Area}{C1}, can we now...{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:32}Oh, what a shame... You can't link with that kind of Pokémon until you can get to {Area}{C1}...{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:32}Oh, what a shame... You can't link with that kind of Pokémon until you can get to {Area}{C1}...{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:32}Oh... You can't link with that kind of Pokémon until you can get to {Area}{C1}...{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:32}Argh! You can't link with that kind of Pokémon until you can get to {Area}{C1}!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:32}Oh, what a great shame... One can't link with that kind of Pokémon until one can get to {Area}{C1}, though...{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:32}Oh, what a shame... You just can't link with that kind of Pokémon until you can get to {Area}{C1}...{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:32}What a shame! We can't link with that kind of Pokémon until we can get to {Area}{C1}, can we now...{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:32}You cannot link with that kind of Pokémon until you can reach {Area}{C1}.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:32}And yet... To link with Pokémon like that, we must first get to {Area}{C1}...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:32}That's a shame... You can't link with that kind of Pokémon until you can get to {Area}{C1}...{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:32}That's a pity. But you know you can't link with that kind of Pokémon until you can get to {Area}{C1}...{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:32}Oh no, what a shame! You can't link with that kind of Pokémon until you can get to {Area}{C1}!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:32}What a shame! But we can't link with that kind of Pokémon until we can get to {Area}{C1}.{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:32}Oh, that's a shame and a half! You can't link with that kind of Pokémon until you can get to {Area}{C1}, though... {End}
+    {C1}{End}
+  </Text>
+</Block>

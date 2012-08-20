@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Block>
+  <Text ID="0">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}Okay, so...I just press this button?{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}Right, so...I just press this button?{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}This one...yes?{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}Do I just push this button?{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Huh? I just push this button?{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}This button, yes?{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}So... I must push this button?{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}Okay... So I need to push this button?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}So I simply push this button, yes?{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}So... I press this button?{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:30}Okay, so...I just press this button, right?{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Which? This? This is the button to push?{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}So... I have to push this button?{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}Press this button...?{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}So I just push this button?{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}What? Press this button?{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:30}So, I have to push this button, you say?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}Press this button...?{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}Right, okay... So I need to push this button?{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Okay, so...I just push this button, yeah?{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}Press this button...?{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}So, I just push this button?{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:30}Okay, so...do I just push this button?{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Press this button?{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}I just push this button? Is that right?{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}Right, so I've just got to push this button?{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}So... I have to push this button?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}So... I have to push this button?{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}I am supposed to press this button?{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}I just press this button? That right?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}Do I just press this button?{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:30}Okay... So I just press this button, yes?{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}Press this button...?{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:30}So... Do I just press this button?{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Huh? So, I just push this button?{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}I press this?{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}I just push this button, you say?{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:30}Hm? Which do I press?{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}Right... So I just push this button, is that correct?{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}Very well... So I simply press this button, yes?{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}Right! So I need to push this button, yes?{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}Right... So I just need to push this button, yes?{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}Um... So I just need to push this button, yes?{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}Um... So I just need to press this button, yes?{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}Um... So I just need to press this button, yes?{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}Okay... So I just have to push this button?{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}So... I just need to push this button, yes?{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}Right, then... So I just have to press this button?{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}Hmm... So I just have to press this button?{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}R-Right, then... So I just have to push this button? R-Right?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}Right... So I just have to push this button, is that right?{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}Right, then... So I just have to push this button?{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}So I simply press this button, is that right?{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}Wait, which button was I supposed to push again?{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}Right... I gotta push this button, yeah?{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}Right, then... So I just need to press this button?{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}Right, then... So I just have to press this button?{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}Oh dear... I'm not so good with these fancy contraptions... {End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}Push this button?{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}Push this button...?{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}So this is the button to push, is it?{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}So I just push this button?{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}Okay then... So I just have to push this button?{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}Let me get this straight... I just have to push this button, is that right?{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}Now, let me get this straight... I just need to press this button, yes?{End}
+    {C1}{End}
+  </Text>
+  <Text ID="1">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}Let's go!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}Let's go!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}Forward.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}Okay! Let's go!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Can't wait to see who I'm gonna meet!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}Come.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}We shall succeed, whomever our enemies may be.{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}Let's hope we encounter someone new!{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}Let us set off.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Time for a bit of fun, I think.{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:30}Who are we gonna meet today, I wonder! It's so exciting!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Shall we set off?{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Onward!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}Let us enjoy this battle.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Time for some fun, I say!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}C'mon, let's go.{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Will this be enjoyable, I wonder?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}Let's have some fun...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}Right, shall we head off then?{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Off, off, off we go!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}Let us depart. {End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}What kind of encounter is awaiting us, I wonder?{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:30}I wonder what's waiting for us!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}...We go.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Come on! Let's go, already!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}Forward!{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}I get this feeling like...I'm gonna meet someone really great, you know...{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}We must venture forth!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Let's go.{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Okay! Let's go, go, go!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}Best foot forward!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:30}Let's set off!{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}Right, we're off!{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:30}We must step forth!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Who're we gonna run into, I wonder...{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}Let's set off. {End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}Let's hit the road!{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:30}Now we're talking! It's fighting time!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}Let's set off, shall we...?{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}Let us begin.{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}Right! Let's make a move!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}It is time to test our might.{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}Right! Let's go!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}Right! Let's go!{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}Righto! Let's go!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}Okay! Let's get going.{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}Well, let us set forth...{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}Right! Let's get going.{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}Right, let's get going.{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}O-Okay... Let's get g-going...shall we?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}Let's set off, shall we...?{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}Right! Let's get going!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}Let us set forth!{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}Okay! Let's go!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}Right on. Let's go!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}Right! Let us depart. {End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}Right! Let's get going...{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}Let's set off, shall we...?{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}Begin.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}We move...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}Let's go right away!{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}Let's get going.{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}Right! Let's hit the road!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}Let's give it a whirl!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}To battle, my dear friend!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="2">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:31}Wow, we're getting to know a fair few people! We should keep on like this and find as many allies as we can. Isn't that right, {Poke}{C1}?{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:31}We've got quite a lot of Warriors in our ranks now! We should keep on like this and find as many allies as we can. Isn't that right, {Poke}{C1}?{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}The army has grown... Yet it will still not suffice. Isn't that so, {Poke}{C1}?{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:31}It looks like we've picked up an ally or two! Let's keep going this way and make lots and lots of allies! That's a good idea, isn't it, {Poke}{C1}?{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:31}Hey, looks like we've picked up an ally or two! Let's just see how many more we can find! Right, {Poke}{C1}?{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}We are slowly finding allies for ourselves... But this is still not enough to resist the tides of history. Let's go, {Poke}{C1}!{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}More allies, I see. But this is still not enough. We still have a long way to go, {Poke}{C1}!{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:31}Our circle of allies is expanding, but we've still got to make a big effort to find plenty more. I'm relying on you too, {Poke}{C1}!{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:31}We are forming a fine collection of allies. But we must do our best to grow ever stronger to allow us to find even more. Come, let us go, {Poke}{C1}.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}We're building up our band of Warriors, but we've still got a long way to go. Grit your teeth, {Poke}{C1}! We're in this for the long haul.{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}Wow, we're doing pretty well at finding allies! It'd be a real blast if we could find even more! Don't you think, {Poke}{C1}?{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Our band of allies is growing! But we'd do better still if we had even more, believe me. Your help will be needed for that, {Poke}{C1}!{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Hey, we've picked up some allies! But there's still a lot of work to do... More, more, we need more! C'mon, {Poke}{C1}!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}More allies, I see. But the real work still lies ahead of us. I know you agree, {Poke}{C1}.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}We're finding more glorious friends! But we've still got a long way to go. Don't we, {Poke}{C1}!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:31}We're building up our group of allies... But we gotta keep at it―the more aggressively the better! We've still got far to go, {Poke}{C1}.{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Hm! I see our army has grown somewhat. But it is still too small by far. Is that not so, {Poke}{C1}?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}Our army has grown, but not nearly enough... There is still much work to be done, {Poke}{C1}.{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:31}We're building up a good few allies, that's for sure. But we're still only halfway there. We must stay diligent! Isn't that right, {Poke}{C1}!{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Hey, we're getting to know quite a few people now! Let's try and find some more allies, eh, {Poke}{C1}? Without trying too hard, of course.{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}Our army has grown a little in size. Still, that is no reason to rest on our laurels. Isn't that right, {Poke}{C1}?{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Well, our army's definitely gotten larger... But we can't stop now. Isn't that right, {Poke}{C1}?{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}Hey, we're doing well building up our allies! But we still need lots more! I'm gonna need your help on this one too, {Poke}{C1}!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Our army is growing. {Poke}{C1} is delighted.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:31}Hey hey, it looks like we've picked up a friend or two! Let's see how many more we can make, {Poke}{C1}!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}We are starting to gather together a good group of allies, but we must build further! Come on, {Poke}{C1}―we must be absolute in our devotion!{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Hey, we've picked ourselves up quite a few allies. But there's still a lot of work to do... We need more! C'mon, {Poke}{C1}!{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:31}Our band of allies is growing! And it will continue to do so, as long as we act in the name of truth and honor. Truth and honor, {Poke}{C1}!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}People are starting to flock to us! So long as we continue to show love to people, we shall not have any problems finding more companions. Isn't that right, {Poke}{C1}?{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:31}Hey hey, it looks like we've picked up a friend or two! Now we're headed in the right direction, eh, {Poke}{C1}?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:31}Well, well... Our collection of allies is coming along nicely! Won't it be fun to spend time with all these people, {Poke}{C1}?{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}We are slowly starting to build a fine group of allies! We mustn't stop now... I'm counting on your help, {Poke}{C1}!{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}Our army has grown a little in size... We must devote ourselves to developing it still further! Isn't that right, {Poke}{C1}?{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}It looks like we've picked up an ally or two! Let's keep going this way and find as many more as we can! With you by my side, {Poke}{C1}, I know we can do it!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Well, we're picking up an ally or two, aren't we! But the real battle begins now! Let's try and get as many as we can, {Poke}{C1}!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}We're gradually finding more allies, but we still need a whole lot more... We've got to keep working, {Poke}{C1}!{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:31}We're not doing too badly with finding allies... But I've still gotta build myself up so I can find some more. Isn't that so, {Poke}{C1}?{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Hey, we've got ourselves a few allies! I'm gonna see how many more I can get us! You're gonna help, right, {Poke}{C1}?{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:31}We are finding allies... But we must do our utmost to find still more. Isn't that right, {Poke}{C1}?{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:31}We are starting to acquire quite a few allies... Let us see if we can't find even more! {Poke}{C1}, we are counting on you too!{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:31}Hey, we're finding some allies! But we still need to work at finding more! We'll need your help in this too, {Poke}{C1}!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:31}Our army grows apace, doesn't it... But we must grow larger still! {Poke}{C1}, we'll be needing your help as well! {End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:31}Hey, we're doing well at expanding our forces... But let's see if we can't find even more! {Poke}{C1}, let's try our very hardest!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:31}Our army's growing nicely... But we need to make it greater still! {Poke}{C1}, it's all up to you!{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:31}Hey, is it just me, or has our army grown? Let's see how many more we can find! You in, {Poke}{C1}?{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:31}Our army grows all the time! What's that, {Poke}{C1}? You want to help us grow even larger?{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:31}Our army has grown a little in size... But it is still nowhere near large enough. {Poke}{C1}, your help will be needed in searching for more recruits.{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:31}Our army's size has increased a little! We must find more Warriors to make it even larger! Your help will be needed too, {Poke}{C1}!{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:31}Our army has grown a little, I'd say! Let's do our very best to find more Warriors so we can make it even larger, {Poke}{C1}!{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:31}W-We've found some allies, it seems... We should try and find m-more... Sh-Shouldn't we, {Poke}{C1}?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:31}We are not doing badly at finding allies... But we can't be satisfied yet. Isn't that right, {Poke}{C1}?{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:31}Our army's size has increased a little! We must continue to recruit and make it even larger! Isn't that right, {Poke}{C1}!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:31}We are finding some allies for ourselves... Things will become really jolly when we find a few more. Don't you think, {Poke}{C1}?{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:31}Hey, we're gradually expanding the size of our army! Let's keep it going! You're in, right, {Poke}{C1}?{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:31}Hey, we're gradually picking up allies for our army! Let's go all out and see how many more we can find! You in, {Poke}{C1}?{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:31}Our army's size has increased a little! I'm most looking forward to how lively it will be once it grows larger still. You also, {Poke}{C1}?{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:31}Our army's size has increased of late... We must continue to find Warriors and make it even larger! Your help will be needed too, {Poke}{C1}!{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:31}We are coming along nicely... Just think how lively it will be when we've found a few more allies! Isn't that right, {Poke}{C1}?{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:31}Our band of allies is expanding in size... But we must find more. {Poke}{C1}, your help will also be needed. {End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:31}Our army has grown, but not nearly enough... There is still a long way to go until our army will be sufficiently strong... Your help will be needed, {Poke}{C1}...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:31}Our army's getting bigger, isn't it?! But let's see if we can't find even more allies, hmm? {Poke}{C1}, your help will be needed!{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:31}We are gradually picking up more allies. Let's see how many more we can find. I'll be needing your help too, {Poke}{C1}.{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:31}Our army's size has increased a bit, hasn't it? Just think how much fun it would be if we found lots and lots more allies to have around! Isn't that right, {Poke}{C1}!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:31}Well now, we've found an ally or two, haven't we! We must do our best to find even more! You'll lend a hand, won't you, {Poke}{C1}?{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:31}Our army may have grown, but there is scope for further development. You'll help, right, {Poke}{C1}?{End}
+    {C1}{End}
+  </Text>
+  <Text ID="3">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}Goodness, it's lively over there!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}My word, it's lively over there!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}Such clamor...{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}Wow, it's quite lively over there...{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Hey, it sure is noisy over there...{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}Noise, from over there.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}There would appear to be something happening over there...{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}Oh I say! It's pretty noisy over there.{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}There is a great noise coming from over there. {End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Something is happening over there...{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:34}Hey, it sure is lively over there!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Say, there's a lot of noise coming from over there...{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Hey! What's that noise?{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}Hmmm... A great din...{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Oh I say, it's so lively over there!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}What a racket! What's going on?{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:30}Such noise...{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}Hmm... A great din...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}Oh I say! That's some commotion over there.{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:30}Wow, it's kinda lively over there!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}What a commotion...{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Hey, something is happening over there...{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:30}Goodness, it's lively over there!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Such noise...{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Hey, what's that? That's some real noise!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}Hmm... It's noisy over there...{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Hey! What's that noise?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}Hey! What's that noise?{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Goodness, what a commotion!{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Hey, what's all that commotion about?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}Goodness, it's quite lively over there...{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:30}It isn't half noisy over there...{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}What a commotion...{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:30}Goodness, it's quite lively over there...{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}What's that racket over there?{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}Hm, what's that commotion?{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}Hm, what's all that noise about?{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:30}Wargh, what a racket! What's going on?{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}Well, it isn't half noisy over there...{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}There's a lot of noise coming from over there... {End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}Pretty noisy over there! {End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}There's a lot of noise coming from over there... {End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}There's a lot of noise coming from over there... {End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}There's a lot of noise coming from over there... {End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}Hey, what's that? It's kinda noisy over there...{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}Wow, that's some noise coming from over there... {End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}What on earth is that commotion?{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}What's all that noise coming from over there?{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}What's all that noise coming from over there?{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}Oh dear... What's all that n-noise?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}Well, it isn't half noisy over there...{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}Hey, there's a lot of noise coming from over there!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}Oh, but there's rather a lot of noise coming from over there... {End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}Hey, would you just listen to all that noise from over there...{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}Hey, would you just listen to all that noise from over there...{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}Heavens, what is all that noise coming from over there?{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}Oh, what on earth is all that noise?{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}What's that commotion over there all about?{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}Noise...{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}Hmm... A great noise...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}There's quite a noise coming from over there...{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}There's a lot of noise coming from over there... {End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}Hey, there's a lot of noise coming from over there!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}What's all the commotion about, huh?{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}I hear with my little ear...a big noise from over there! {End}
+    {C1}{End}
+  </Text>
+  <Text ID="4">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:31}Amazing! I feel ready to face this coming year with all my strength! Don't you, {Poke}{C1}?{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:31}Amazing! I feel ready to give the coming year everything I have! Don't you, {Poke}{C1}?{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}Very well. {Color:31}Nobunaga{Color:33} and {Poke}{C1} are destined to be fortunate this year...{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:31}Amazing! Now I'm all set to do my very best in the year to come! You too, {Poke}{C1}?{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:31}Hey! This is pretty neat! I feel like this year's set to be a good'un! You too, {Poke}{C1}?{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}Well, well. Quite a fitting start to the new year, I suppose. Isn't it, {Poke}{C1}?{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Well, this is splendid. The coming year will be a success. I can feel it. You too, {Poke}{C1}?{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:31}Well, isn't this great! The new year looks set to be a great success! Don't you agree, {Poke}{C1}?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:31}This is wonderful. I feel positive about the coming year now. You too, {Poke}{C1}?{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:31}This is a good show. The longer I look, the stronger I feel myself become. You too, {Poke}{C1}?{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}So pretty! This year's gonna be the best ever! Don't you think so, {Poke}{C1}?{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Such beauty! I suddenly feel filled with hope about the new year. You with me, {Poke}{C1}?{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Excellent! I feel good about how this year's gonna turn out, {Poke}{C1}!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}This is pleasant. {Poke}{C1}, let us savor this year's battles together.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Ohh, remarkable! I believe this year will be truly splendid! Don't you, {Poke}{C1}?{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:31}Pretty impressive... Whatever happens this year, let's hang on in there, eh, {Poke}{C1}?{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Well! How nice. I predict the coming year will be a success. Don't you think, {Poke}{C1}?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}Ha, not a bad display. I suppose you and I can spend another year together, {Poke}{C1}...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:31}Oh, splendid, splendid. The new year looks set to be a great success. I feel it! You too, {Poke}{C1}?{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Hey, this is kinda cool! I suddenly feel like this year could turn out good for me. Don't you reckon, {Poke}{C1}?{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}Well, this is quite pleasant. {Poke}{C1}, let us continue to fight alongside one another this year. {End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:31}Well, this is great. The coming year will be a success. I feel it in my bones. You do too, right, {Poke}{C1}?{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}This is wonderful! I feel like I have the strength to do my very best this year... Don't you, {Poke}{C1}?{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}This is pleasant. You agree, {Poke}{C1}?{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Hey! This is pretty special! I feel like this year's set to be a good'un! Don't you think, {Poke}{C1}?{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:31}Magnificent! This is fitting for the start of a new year. Isn't it, {Poke}{C1}!{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:31}Well, this is kind of cool. I'm feeling pretty good about how this year is gonna go... You too, {Poke}{C1}?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:31}Oh... Excellent. We should do everything in our power to ensure that peace reigns throughout the year, {Poke}{C1}.{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Well! This is lovely! Let's hope for many more beautiful moments like this in the year to come, {Poke}{C1}.{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}How wonderful! I feel like this year's set to be a winner! You agree, don't you, {Poke}{C1}!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:31}This is the prettiest thing I've seen in a while! I'm feeling all set to do my very best in the year to come! You too, {Poke}{C1}?{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}This is incredible! This year seems set to go well! Do you feel as optimistic as I do, {Poke}{C1}?{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}Well, this is quite a spectacle. A fine start to the new year, wouldn't you say, {Poke}{C1}. {End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}This is marvelous! I'm feeling all set to do my very best in the year to come! How about you, {Poke}{C1}?{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Man, this is neat! I feel like this year's bound to turn out okay now! Don't you reckon, {Poke}{C1}?{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}Hey, this isn't too bad... I guess it's a pretty fitting start to the new year. Isn't that right, {Poke}{C1}?{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:31}Well this is pretty nice! I reckon this year might be a winner! Don't you, {Poke}{C1}?{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Wow... Now this is neat! I feel full of beans, you know? {Poke}{C1}?{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:31}Well, this is splendid. I feel hopeful about the coming year now. You too, {Poke}{C1}?{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:31}This is incredible! I feel quite positive about the coming year now. Don't you, {Poke}{C1}?{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:31}Wow, this is just great! This is going to be a brilliant year! Isn't it, {Poke}{C1}?{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:31}This is fantastic. I feel positive about the coming year now... Let's make it a good one together, {Poke}{C1}.{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:31}Wow, fantastic. I'm feeling pretty positive about the coming year now... Let's make it a good one together, {Poke}{C1}.{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:31}Hey, that's really pretty. I'm feeling pretty positive about the coming year now... Let's make it a good one together, {Poke}{C1}.{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:31}Whoa, this is the best! I reckon this year's gonna be a good'un! Don't you agree, {Poke}{C1}!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:31}What's that, {Poke}{C1}? You think this is beautiful? I know. It makes me feel really positive about the year to come!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:31}This sort of event is nice, once in a while... I feel quite positive about the coming year now. Don't you, {Poke}{C1}?{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:31}Well now! This is beautiful! I'm feeling really good about the coming year now. You too, {Poke}{C1}?{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:31}Well this is fantastic! If this doesn't bode well for the coming year, I don't know what does. Eh, {Poke}{C1}?{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:31}G-Gosh! This is so n-nice! I feel...good...about this year... You too, {Poke}{C1}?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:31}Well, this is quite a spectacle! I suddenly feel like I've got enough energy to keep going strong for another year. And you, {Poke}{C1}?{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:31}This sure is pretty! I'm feeling really good about the coming year now. You too, {Poke}{C1}?{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:31}How beautiful this is! I feel filled with optimism about the coming year now. Don't you, {Poke}{C1}?{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:31}This is a lotta fun! I reckon this year's gonna be a good'un! Isn't it, {Poke}{C1}!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:31}Man, this is great! I think I'm gonna try and make this year a good one, you know, {Poke}{C1}!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:31}Well now! This is most impressive! I'm feeling very positive about the coming year now. You also, {Poke}{C1}?{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:31}Well, this is actually rather nice! I'm feeling good about the coming year now... You too, {Poke}{C1}?{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:31}Well, this is quite tremendous! I suddenly feel like I've got the energy to make this year an excellent one. You too, {Poke}{C1}?{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:31}A fine spectacle. I feel optimistic for the coming year, {Poke}{C1}.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:31}...Excellent. I'm feeling in fine form, {Poke}{C1}...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:31}This is lovely! Don't you feel full of optimism about the coming year now, {Poke}{C1}?{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:31}Well, this is nice. I'm feeling quite good about the coming year now. You too, {Poke}{C1}?{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:31}Wow! How pretty this is! I'm so excited about this coming year now! You are too, aren't you, little {Poke}{C1}?{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:31}Oh, how lovely! This is enough to keep me going strong for the whole year! You too, {Poke}{C1}?{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:31}Ho! This is tip-top with a cherry on top! This year is going to be a winner! I'm not wrong, am I, {Poke}{C1}?{End}
+    {C1}{End}
+  </Text>
+  <Text ID="5">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}I'd really like to go on a training trip to help me strengthen my bond with {Poke}{C1}. Would that be okay?{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}I'd really like to go on a training trip to help me strengthen my bond with {Poke}{C1}. Would that be acceptable?{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}{Color:31}Nobunaga{Color:33} shall venture on a short trip to train {Poke}{C1}.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}Actually...I was thinking that I'd like to go on a training trip to strengthen my bond with {Poke}{C1}. Would that be all right?{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}So... I was kinda thinking that I'd like to go on a training trip to strengthen my bond with {Poke}{C1}. Sound okay to you?{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}I'd like to go on a training trip to help build up {Poke}{C1}'s strength.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}It is my wish to go on a training trip in order to strengthen my bond with {Poke}{C1}. Do I have your permission?{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}Actually, I'd really like to go on a training trip in order to strengthen my bond with {Poke}{C1}. What do you think of the idea?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}The truth is, I'd really like to go on a training trip in order to strengthen my bond with {Poke}{C1}. Would that be possible?{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}I would like to go on a training trip, to help build up {Poke}{C1}'s strength...{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:30}Okay, so the thing is...I was thinking that I'd like to go on a training trip to strengthen my bond with {Poke}{C1}. Would that be okay?{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}I was thinking it would be a good idea to go on a training trip. You know, to strengthen my bond with {Poke}{C1}...{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Please hear {Color:31}Masamune{Color:33}'s request. I would like to embark upon a training trip in order to strengthen my bond with {Poke}{C1}.{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}It is my fervent wish to go on a training trip with {Poke}{C1}. Do I have your permission?{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}I'd really like to go on a training trip to help build up {Poke}{C1}'s strength... Can I? Can I?{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Right! I'm off on a trip to strengthen my bond with {Poke}{C1}.{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:30}Might I be allowed to take a little training trip to get a bit closer to {Poke}{C1}?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}I'm headed to other lands to build up {Poke}{C1}'s strength...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}Actually, I was thinking that I'd like to go on a training trip in order to build up {Poke}{C1}'s strength a bit...{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}So, the thing is...I'd kinda like to go on a training trip to help me strengthen my bond with {Poke}{C1}. Can I? Please?{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}I wish to strengthen {Poke}{C1}. Will you permit us to take a trip?{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}It is my wish to go on a training trip with {Poke}{C1}. But you already knew that, didn't you?{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:30}I'd really like to go on a training trip to get a bit closer to {Poke}{C1}. Would that be okay?{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}A training trip with {Poke}{C1}... Would you permit it?{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Yeah, so...I was kinda thinking that I'd like to go on a training trip to get closer to {Poke}{C1}. That okay with you?{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}Would it be okay to set out on a training trip so that {Poke}{C1} and I might become closer?{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}I'd like to take a little trip in order to strengthen my bond with {Poke}{C1}. That's okay with you, right?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}I would like to embark on a training voyage in order to strengthen my bond with {Poke}{C1}. May I have your permission to do so?{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Might I be allowed to take a little training trip in order to strengthen the connection between {Poke}{C1} and I?{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Guess what! I was thinking that I'd like to go on a training trip to get closer to {Poke}{C1}. Can I? Pretty please?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}I've been thinking how very much I'd like to go on a training trip to strengthen my bond with {Poke}{C1}...{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:30}The truth is, I'd really like to go on a training trip in order to strengthen my bond with {Poke}{C1}. Would that be possible?{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}I wish to train {Poke}{C1} up a bit. Will you permit us to take a journey?{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:30}Would you mind very much if I went on a training trip to strengthen my bond with {Poke}{C1}?{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}So... I was kinda thinking that I'd like to go on a training trip to strengthen my bond with {Poke}{C1}. That's okay with you, right?{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}I would like to take a trip in order to train up {Poke}{C1} a bit. Do I have your permission?{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}I'd quite like to take a trip in order to train up {Poke}{C1} a little. Would that be okay?{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:30}I'm takin' off on a trip to train up {Poke}{C1}! 'Sokay, right?{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}The truth is, I'd really like to go on a training trip in order to strengthen my bond with {Poke}{C1}. Would that be possible?{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}The truth is, I would like to go on a training trip in order to strengthen my bond with {Poke}{C1}. Would that be at all possible?{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}You know, I'd really like to go on a training trip in order to strengthen my bond with {Poke}{C1}! Will you let me?!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}The truth is, I'd like to strengthen my bond with {Poke}{C1}, and I thought a training trip might help. Would that be at all possible?{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}Thing is, I'd like to strengthen my bond with {Poke}{C1}, and I was thinking a training trip might be just what's needed. May I?{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}Y'know, I'd like to strengthen my bond with {Poke}{C1}, and I was thinking a training trip might be just what's needed. That's okay, right?{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}Y'know, I'd kinda like to strengthen my bond with {Poke}{C1}, so I thought I'd try going on a training trip. You okay with that?{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}What's that, {Poke}{C1}? You want to go on a training trip with me? I don't know―I'd have to get permission...{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}I'm planning on taking a trip with the aim of building up {Poke}{C1}'s strength. Would that be acceptable to you?{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}Actually, I'd rather like to take {Poke}{C1} with me on a training trip so as to strengthen our bond. Would that be possible?{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}I'm keen to strengthen the bond between {Poke}{C1} and me, so I was thinking of going on a training trip, just the two of us. Would that be all right?{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}Um... The th-thing is...I'd like to get closer to {Poke}{C1}... So I was th-thinking of taking a t-training t-trip... M-May I...p-please?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}The truth is, I'd really like to go on a training trip in order to strengthen my bond with {Poke}{C1}. Is that okay with you?{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}Actually, I'd rather like to take {Poke}{C1} with me on a training trip so as to strengthen our bond. May I have your permission? Please!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}Actually, I'd rather like to go on a training trip in order to strengthen my bond with {Poke}{C1}. Would you mind very much my doing so?{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}Y'know, I'd kinda like to get {Poke}{C1} a bit stronger, so I thought I'd go on a training trip. You're okay with that, right?{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}You know, I'd kinda like to build up {Poke}{C1}'s strength a bit, so I thought I'd head off on a training trip. Do you mind?{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}Actually, I'd rather like to take {Poke}{C1} with me on a training trip so as to strengthen our bond. Would that be possible?{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}Actually, I'd like to take {Poke}{C1} with me on a training trip, so we can get a bit closer. Would you mind terribly?{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}In truth, I'd really like to go on a training trip in order to strengthen my bond with {Poke}{C1}. Would you mind? {End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}I wish to embark on a training trip to strengthen my bond with {Poke}{C1}. Do I have your permission?{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}I would like to take {Poke}{C1} on a training trip to develop the bond between us... May I have your permission...?{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}I was thinking a training trip to strengthen my bond with {Poke}{C1} might be a good idea. If I were to ask for your permission...could I have it?{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}I think it would be a good idea to take {Poke}{C1} on a training trip to strengthen our bond. Would that be possible?{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}You know, I'd really really like to go on a training trip, so I can get closer to little {Poke}{C1}! Can I? Please?{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}You know, I'd quite like to get a bit closer to {Poke}{C1}, and I was thinking a training trip might be just the thing. That would be okay, right?{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}Y'know, I'd like to get closer to {Poke}{C1}, so I was thinking of going on a little training trip à deux. That's okay, right?{End}
+    {C1}{End}
+  </Text>
+  <Text ID="6">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:31}Thank you so much! I'll set off right away!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:31}Thank you so much! I'll be off at once!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}Very well...{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:31}Thank you so much! I'll be back soon!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:31}Hey, thanks! All right! I'm off!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}Yes, it's for the best. I'll leave immediately.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}I am grateful to you. I shall return. {End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:31}Thanks a lot. I'll be back!{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:31}Thank you very much. I shall take my leave.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:31}Oh, good. Well, I'm off then. {End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}Wow, thanks! You're so nice!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Thank you! Well, I'll be off, then. {End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}What a wonderful decision you've made! I shall take my leave immediately!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}I shall return imminently. {End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Oh, hooray! Well, no time to waste!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:31}Hey, thanks. Right, I'm off. {End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Many thanks. I shall return. {End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}I'll be back, at some point. I don't know yet when...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}I'm most indebted to you. I shall be on my way, in that case.{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Thank you very much! Right, I'll set off straightaway!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}I am most indebted to you. {End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Thank you very much. You won't be disappointed. {End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}Wow, that makes me super happy! Okay, I'm off!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Understood.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:31}Hey, thanks so much! See you later, pal!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:31}Thank you very much. I shall return soon. {End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Right, I'm off then! Sorry to leave you on your own and all that!{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:31}I am delighted. I shall take my leave immediately!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}My heartfelt thanks. I shall take my leave. {End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:31}Hey, thanks so much! Later!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:31}You've made my day! Thanks! I'll head off straightaway...{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}Thank you very much! I shall take my leave immediately!{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}I am most indebted. {End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}Thank you so much! I'll be back soon!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Great! All right, I'm off!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}I am extremely grateful.{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:31}Well, thanks very much! I'll be off then...{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Wow! This is my lucky day!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:31}Thank you very much. I shall take my leave.{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:31}Thank you very much! I shall set off straightaway.{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:31}Thanks so much! I'll leave at once!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:31}Thank you very much! I'll set off straightaway.{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:31}Thank you very much! I'll set off straightaway!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:31}Thanks very much! I'll set off straightaway!{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:31}Thanks very much! Righto! I'll set off straightaway!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:31}Thank you very much! I'll set off straightaway.{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:31}A wise decision! I'm grateful to you. {End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:31}Thank you very much! I'll set off straightaway.{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:31}Thank you very much! I'll leave right away!{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:31}Oh! Th-Thank you very much!{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:31}Well, thank you kindly. I shall take my leave.{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:31}Thanks very much! I'll set off straightaway!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:31}Thank you very much! I'll set off straightaway.{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:31}Thanks very much! Right, mainsail to the wind!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:31}Thanks very much! I'll set off straightaway!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:31}Thank you very much! I shall set off immediately.{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:31}Thank you so much! I'll set off straightaway.{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:31}Well, thank you kindly. I shall take my leave, then...{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:31}Thank you very much. I take my leave.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:31}Thank you... I'll take my leave now... {End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:31}Thank you very much. I'll set off without delay!{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:31}Thank you very much. I'll set off straightaway.{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:31}Hooray! Thank you so much! {End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:31}Thank you! I'll be seeing you soon...{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:31}Splendid! I shall be gone before you can say Pokémon!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="7">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:32}Oh, I see... Well, that's a shame.{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:32}Oh, I see... Well, never mind...{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}So be it.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:33}Oh, okay. I understand.{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:32}Well, that's one big shame.{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}Oh... Fine.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}I see.{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:32}Oh, okay... That's disappointing. {End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:32}Ah. I understand. {End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}I see... That's a pity.{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:32}Ohhh, okay. That's kinda disappointing, you know...{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Oh... I see.{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Argh! If you insist... I suppose not everyone can see as clearly as I can. {End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}I see...{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:32}Ohh, I see... How terribly unfortunate...{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}I guess it's just tough luck for me then, right? {End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}I see. Something of a disappointment, I must say.{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}Hmm... You have a spine, I see.{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:32}As you wish...{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:32}I'm not allowed to? Hmm, that's a real shame.{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}I thought you would say that.{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:31}I see. I shall obey your wishes.{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:32}Ohh... That's so disappointing! {End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Understood.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:32}Well, that's no fun...{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:32}Oh, I see... Well, that's a pity.{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Well, well. Nothing I can do about it, I guess...{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}As you wish.{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}I see.{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:32}Oh, right... Never mind then...{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:32}Oh, really...? That's a pity. {End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:32}Ahh, that's a shame... But I understand, of course...{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}Understood. {End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:32}I understand...{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Well, that's a real shame.{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}But...but... Never mind. I understand.{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:33}I see. {End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:32}Huh. Really...{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:32}Ah... I understand, of course.{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:32}Oh, I see... Well, that's a shame.{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:32}I see... Such a shame.{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:32}Oh, right... Well, that's a shame.{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:32}Oh... Well, that's disappointing...{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:32}Oh... Well, that's disappointing...{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:32}Oh, really... Well, that's disappointing...{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:32}I'm sorry... I shouldn't have got your hopes up.{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:32}Oh. Well I sincerely hope that your decision proves wise...{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:32}I do not agree, but I understand your decision.{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:32}Oh... Well, that's a real pity...{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:32}O-Oh... Well, n-never mind...{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:32}Ah, that's how it is, is it...? I understand... {End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:32}If you say so...{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:32}Oh, I see... How disappointing...{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:32}Really...? That sure is a shame... {End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:32}Oh, really... You're kind of mean, aren't you?{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:32}Oh, I see. Well, that's a pity...{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:32}Oh, right... Such a pity...{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:32}Ah, that's how it is, is it...? I understand... {End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:32}I see.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:32}Oh...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:32}Such a pity... It would have been fun...{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:32}Oh. Well, that's a pity.{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:32}Ohh... How can you be so heartless...?{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:32}Ah, that's how it is, is it...? Well, that's a shame...{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:32}You are cruel and unjust!{End}
+    {C1}{End}
+  </Text>
+</Block>

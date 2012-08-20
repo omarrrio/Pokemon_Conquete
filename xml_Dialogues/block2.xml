@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Block>
+  <Text ID="0">{C1}{Color:31}Kai{Color:33}'s story, {Color:32}Simply the Best{Color:33}, has been unlocked!{End}</Text>
+  <Text ID="1">{C1}{Color:31}Masanori{Color:33}'s story, {Color:32}Not Worth Fighting Over... 3{Color:33}, has been unlocked!{End}</Text>
+  <Text ID="2">{C1}{Color:31}Ranmaru{Color:33}'s story, {Color:32}A Fate Born of Beauty{Color:33}, has been unlocked!{End}</Text>
+  <Text ID="3">{C1}{Color:31}Keiji{Color:33}'s story, {Color:32}The Free Spirit's Path{Color:33}, has been unlocked!{End}</Text>
+  <Text ID="4">{Name}{C1}'s story, {Color:32}Two Heroes of Ransei{Color:33}, has been unlocked!{End}</Text>
+  <Text ID="5">{C1}Play data is corrupted. Attempting to restore play data...{End}</Text>
+  <Text ID="6">{C1}Gallery data is corrupted. Attempting to restore Gallery data...{End}</Text>
+  <Text ID="7">{C1}The save data is corrupted. Attempting to restore save data...{End}</Text>
+  <Text ID="8">{C1}Gallery data is corrupted and will be reformatted.{End}</Text>
+  <Text ID="9">
+    {C1}Reformatting Gallery data…
+    {C1}Do not turn off the power or touch the Game Card.{End}
+  </Text>
+  <Text ID="a">{C1}A Warrior can enter {Color:32}locations{Color:33} like the Shop or the Ponigiri Shop and leave again without buying or selling anything. In such a case, they will not use up their turn.{End}</Text>
+  <Text ID="b">{C1}Do some {Color:32}training{Color:33} to strengthen the bond between Warriors and Pokémon. {End}</Text>
+  <Text ID="c">{C1}Go on a {Color:32}search{Color:33} to find Warriors and Pokémon to become your allies.{End}</Text>
+  <Text ID="d">{C1}Gather gold and invest in locations in order to {Color:32}develop{Color:33} your army and castles. {End}</Text>
+  <Text ID="e">{C1}{Color:32}Develop{Color:33} your army by raising the Energy of its Pokémon and finding gold. {End}</Text>
+  <Text ID="f">{C1}Stop {Color:32}delegating{Color:33} to a particular Warrior that you have previously assigned tasks to.{End}</Text>
+  <Text ID="10">{C1}Do not {Color:32}delegate{Color:33} to a particular Warrior after all.{End}</Text>
+  <Text ID="11">{C1}All{End}</Text>
+  <Text ID="12">{C1}Allied Warriors{End}</Text>
+  <Text ID="13">{C1}Enemy Warriors{End}</Text>
+  <Text ID="14">{C1}Free Warriors{End}</Text>
+  <Text ID="15">{C1}Sort by place{End}</Text>
+  <Text ID="16">{C1}Sort by Warrior Gallery order{End}</Text>
+  <Text ID="17">{C1}Sort by Warrior name{End}</Text>
+  <Text ID="18">{C1}Sort by Pokémon Gallery order{End}</Text>
+  <Text ID="19">{C1}Sort by Pokémon name{End}</Text>
+  <Text ID="1a">{C1}Sort by strength{End}</Text>
+  <Text ID="1b">{C1}Search by type{End}</Text>
+  <Text ID="1c">
+    {C1}Filter by type. You can select a maximum of two types.
+    {C1}{Color:32}○{Color:33} = super effective
+    {C1}{Color:32}△{Color:33} = not very effective
+    {C1}{Color:32}×{Color:33} = no effect
+    {C1}{Color:31}Blue{Color:33} = damage to opponent
+    {C1}{Color:30}Red{Color:33} = damage to yourself{End}
+  </Text>
+  <Text ID="1d">{Name2}{C1} has left the army.{End}</Text>
+  <Text ID="1e">{Name2}{C1} and the others have left the army.{End}</Text>
+  <Text ID="1f">{C1}Select Story{End}</Text>
+  <Text ID="20">{C1}You recruited a Warrior who has already been added to the Gallery. Information from your previous encounter will be carried over.{End}</Text>
+  <Text ID="21">{C1}Unfortunately, you have failed to accomplish your mission.{End}</Text>
+  <Text ID="22">{C1}You are now able to play Okuni's story, {Color:32}A Date with Destiny{Color:33}. {Color:30}This story becomes available for play only once you have cleared the game.{Color:33}{End}</Text>
+  <Text ID="23">{C1}You are now able to play Ranmaru's story, {Color:32}A Fate Born of Beauty{Color:33}. {Color:30}This story becomes available for play only once you have cleared the game.{Color:33}{End}</Text>
+  <Text ID="24">{C1}Gallery{End}</Text>
+  <Text ID="25">{C1}Pokémon{End}</Text>
+  <Text ID="26">{C1}Warriors{End}</Text>
+  <Text ID="27">{C1}Number found{End}</Text>
+  <Text ID="28">{C1}Number in Gallery{End}</Text>
+  <Text ID="29">{C1}Number in Gallery{End}</Text>
+  <Text ID="2a">{C1}Sort by order in Gallery{End}</Text>
+  <Text ID="2b">{C1}Sort by Pokédex No.{End}</Text>
+  <Text ID="2c">{C1}Sort by name{End}</Text>
+  <Text ID="2d">{C1}Sort by order in Gallery{End}</Text>
+  <Text ID="2e">{C1}Stories{End}</Text>
+  <Text ID="2f">{C1}Use wireless features to battle others via local wireless or download data over Nintendo Wi-Fi Connection.{End}</Text>
+  <Text ID="30">{C1}Select {Color:32}Host{Color:33} to fight using any Warriors from the Gallery on a battlefield that you have selected and using the link settings you have chosen. Select {Color:32}Join{Color:33} to fight using any Warriors from the Gallery with the link settings and battlefield chosen by another player. {End}</Text>
+  <Text ID="31">{C1}The rules of the game will be set once all the players have assembled.{End}</Text>
+  <Text ID="32">{C1}Waiting...{End}</Text>
+  <Text ID="33">{C1}Each team can contain up to two players. When there are fewer than four players, the CPU will fill up the missing places.{End}</Text>
+  <Text ID="34">{C1}Choose your team.{End}</Text>
+  <Text ID="35">{C1}Choose a kingdom, then select a battlefield.{End}</Text>
+  <Text ID="36">{C1}Are you sure you want to do battle in {Area}{C1}?{End}</Text>
+  <Text ID="37">{C1}Select the Warriors you wish to send into battle. The Pokémon they are currently with can be changed.{End}</Text>
+  <Text ID="38">{C1}Choose Warriors for the CPU to fight with. The Pokémon they are currently with can be changed.{End}</Text>
+  <Text ID="39">{C1}Are you sure these are the Warriors you wish to send into battle?{End}</Text>
+  <Text ID="3a">{C1}Begin battle?{End}</Text>
+  <Text ID="3b">{C1}Disconnect?{End}</Text>
+  <Text ID="3c">{C1}You have disconnected. You will now be returned to the Battle menu. {End}</Text>
+  <Text ID="3d">
+    {C1}Searching for friends...
+    {C1}Please wait.{End}
+  </Text>
+  <Text ID="3e">{C1}Friends found! Those with a symbol next to their names are currently seeking help with various stories.{End}</Text>
+  <Text ID="3f">{C1}Please select players.{End}</Text>
+  <Text ID="40">{C1}Please wait. {End}</Text>
+  <Text ID="41">{C1}Waiting for {Color:31}%s{Color:33} to decide...{End}</Text>
+  <Text ID="42">
+    {C1}{Color:31}%s{Color:33} is selecting a battlefield.
+    {C1}Please wait...{End}
+  </Text>
+  <Text ID="43">{C1}A player has disconnected and will be replaced by the CPU.{End}</Text>
+  <Text ID="44">{C1}A communication error has occurred. You will be returned to the Battle menu. {End}</Text>
+  <Text ID="45">{C1}Waiting for another player to join cooperative play...{End}</Text>
+  <Text ID="46">{C1}Found someone to join cooperative play!{End}</Text>
+  <Text ID="47">{C1}The other player is selecting Warriors. Please wait...{End}</Text>
+  <Text ID="48">{C1}Are you sure you want to start cooperative play?{End}</Text>
+  <Text ID="49">{C1}The connection has been terminated. You will be returned to the Battle menu. {End}</Text>
+  <Text ID="4a">{C1}Choose whether to attack or defend.{End}</Text>
+  <Text ID="4b">{C1}{Color:31}%s{Color:33} is choosing a side...{End}</Text>
+  <Text ID="4c">{C1}You will fight on the attacking side.{End}</Text>
+  <Text ID="4d">{C1}You will fight on the defending side.{End}</Text>
+  <Text ID="4e">{C1}Attack{End}</Text>
+  <Text ID="4f">{C1}Defend{End}</Text>
+  <Text ID="50">{C1}Random{End}</Text>
+  <Text ID="51">{C1}%s's wins: {Turns}{C1}.{End}</Text>
+  <Text ID="52">{C1}Sort by strength{End}</Text>
+  <Text ID="53">{C1}Settings{End}</Text>
+  <Text ID="54">{C1}Battle{End}</Text>
+  <Text ID="55">{C1}Start battle{End}</Text>
+  <Text ID="56">{C1}You can start the battle{End}</Text>
+  <Text ID="57">{C1}Waiting for other players to choose their settings...{End}</Text>
+  <Text ID="58">{C1}Received data from all participating players.{End}</Text>
+  <Text ID="59">{C1}Host{End}</Text>
+  <Text ID="5a">{C1}Join{End}</Text>
+  <Text ID="5b">{C1}Waiting for confirmation from %s...{End}</Text>
+  <Text ID="5c">{C1}{Color:31}%s{Color:33} is selecting a battlefield...{End}</Text>
+  <Text ID="5d">{C1}Waiting for confirmation from %s...{End}</Text>
+  <Text ID="5e">{C1}Set in a peaceful rural village, this battlefield can get surprisingly intense. Make wise use of the {Color:32}logs{Color:33} to inflict maximum damage on your enemies!{End}</Text>
+  <Text ID="5f">{C1}If you want a battle that's truly sizzling, look no further than an active volcano with {Color:32}pillars of fire{Color:33} shooting up all over the place! And if it all gets to be too much, relax in the {Color:32}hot springs{Color:33}!{End}</Text>
+  <Text ID="60">{C1}The Warrior who best harnesses the remarkable power of water will decide the victor on this battlefield. Think carefully, and make smart use of the {Color:32}flood gates{Color:33}.{End}</Text>
+  <Text ID="61">{C1}While nonstop electrical currents pulse around you, the army that controls the {Color:32}switches{Color:33} controls the battlefield!{End}</Text>
+  <Text ID="62">{C1}Welcome to the most luscious green labyrinth you've ever seen! But you'll need more than just a green thumb to outwit your enemy on this battlefield filled with {Color:32}vines{Color:33} and {Color:32}strange grass{Color:33}!{End}</Text>
+  <Text ID="63">{C1}Where better to confront your opponent than under a freezing cold sky? Get the better of that slippery {Color:32}ice{Color:33}, and surround your enemy!{End}</Text>
+  <Text ID="64">{C1}This battlefield is for the tough―weaklings will find their heads spinning! Try to protect the {Color:32}banners{Color:33} as you and your enemy both struggle not to fall off the edge of the ring...{End}</Text>
+  <Text ID="65">{C1}In this tricky mansion with no shortage of traps and poison, figure out how the hidden passages work and claim the {Color:32}banners{Color:33} before your opponent manages to!{End}</Text>
+  <Text ID="66">{C1}Journey to a stormy desert that is no stranger to strong {Color:32}gusts of wind{Color:33}! Who will be the one to take control of the three towers, inaccessible even to Flying-type Pokémon?{End}</Text>
+  <Text ID="67">{C1}In a land so high above the clouds it can't even be seen from the earth, use the {Color:32}jump ramps{Color:33} to spring ahead of your opponent!{End}</Text>
+  <Text ID="68">{C1}Experience the thrill of battle on a mysterious floating rock! {Color:32}Warp{Color:33} your way around the battlefield, and claim all the {Color:32}banners{Color:33} as your own.{End}</Text>
+  <Text ID="69">{C1}A Pokémari battle waged in the scenic setting of a delightful traditional garden. Get those {Color:32}Pokémari balls{Color:33} rolling to steal victory from your opponent!{End}</Text>
+  <Text ID="6a">{C1}A strenuous battle fought on the heights of a rocky mountain! As you and your enemy roll {Color:32}rocks{Color:33} at one another, make sure that you're the one who manages to land the crucial hit!{End}</Text>
+  <Text ID="6b">{C1}From suspicious {Color:32}statues{Color:33} to {Color:32}balls of fire{Color:33}, you'll have to accustom yourself to an ever-evolving battlefield in this thrilling match!{End}</Text>
+  <Text ID="6c">{C1}There's no choice but to take on your opponent face-to-face in this one. Be sure to watch out for the changing {Color:32}nodes{Color:33}!{End}</Text>
+  <Text ID="6d">{C1}A dark world of uncertainty and fear... Who knows what awaits you in this hidden battlefield? Consider this your invitation to unbridled chaos...{End}</Text>
+  <Text ID="6e">{C1}In a battlefield brimming with hidden traps, traveling in a straight line will only get you into trouble! Get those {Color:32}cog wheels{Color:33} turning to succeed in this one!{End}</Text>
+  <Text ID="6f">{C1}Unable to connect to Nintendo Wi-Fi Connection. For help, check the software Instruction Booklet or visit support.nintendo.com.{End}</Text>
+  <Text ID="70">{C1}Unable to connect to Nintendo Wi-Fi Connection. For help, check the Nintendo DSi Operations Manual or visit support.nintendo.com.{End}</Text>
+  <Text ID="71">{C1}Either Nintendo Wi-Fi Connection is experiencing high traffic volumes or the service is down. Please try again later. For help, visit support.nintendo.com.{End}</Text>
+  <Text ID="72">{C1}This Nintendo Wi-Fi Connection ID was removed because it was inactive for a long time. For help, visit support.nintendo.com.{End}</Text>
+  <Text ID="73">{C1}This Nintendo Wi-Fi Connection ID was removed because it was inactive for a long time. For help, check the Nintendo DSi Operations Manual or visit support.nintendo.com.{End}</Text>
+  <Text ID="74">{C1}Nintendo Wi-Fi Connection service for this software has been discontinued. Visit support.nintendo.com for a list of current Nintendo Wi-Fi Connection compatible game software.{End}</Text>
+  <Text ID="75">{C1}No access point in range. Please try again when closer to an access point. For help, visit support.nintendo.com.{End}</Text>
+  <Text ID="76">{C1}To use this feature, you must accept the terms of the Nintendo DSi Network Services Agreement in the System Settings.{End}</Text>
+  <Text ID="77">
+    {C1}To use this feature, you must accept the terms of the Nintendo DSi Network Services Agreement in the System Settings.
+    {C1}Would you like to do so now? [Yes / No]{End}
+  </Text>
+  <Text ID="78">{C1}Wireless communications are disabled. Enable wireless communications in the System Settings. {End}</Text>
+  <Text ID="79">{C1}No compatible access point in range. Check your connection settings and try again. For help, visit support.nintendo.com.{End}</Text>
+  <Text ID="7a">{C1}No compatible access point in range. Check your connection settings under the Internet option in the System Settings, and try again. For help, visit support.nintendo.com.{End}</Text>
+  <Text ID="7b">{C1}The access point is busy. Unable to connect. Please try again later. For help, visit support.nintendo.com.{End}</Text>
+  <Text ID="7c">{C1}Unable to connect to Nintendo Wi-Fi Connection. Check your connection settings and try again. For help, visit support.nintendo.com.{End}</Text>
+  <Text ID="7d">{C1}Unable to connect to Nintendo Wi-Fi Connection. Check your connection settings under the Internet option in the System Settings and try again. For help, visit support.nintendo.com.{End}</Text>
+  <Text ID="7e">{C1}There is no response. Either the player has been disconnected or you have been removed from the player's friend roster.{End}</Text>
+  <Text ID="7f">{C1}The player has stopped responding.{End}</Text>
+  <Text ID="80">{C1}There is no response.{End}</Text>
+  <Text ID="81">{C1}Communication error. For help, visit support.nintendo.com.{End}</Text>
+  <Text ID="82">{C1}Download failed. For help, visit support.nintendo.com.{End}</Text>
+  <Text ID="83">{C1}Nintendo Wi-Fi Connection cannot be used because an error has occurred. Turn off the power and try again.{End}</Text>
+  <Text ID="84">{C1}Nintendo Wi-Fi Connection cannot be used because an error has occurred. Reset the system and try again.{End}</Text>
+  <Text ID="85">{C1}Your Wi-Fi User Information may have been erased. Check your Nintendo Wi-Fi Connection setup settings.{End}</Text>
+  <Text ID="86">{C1}Your Wi-Fi User Information may have been erased. Check your connection settings under the Internet option in the System Settings. For help, visit support.nintendo.com.{End}</Text>
+  <Text ID="87">{C1}Connect to Nintendo Wi-Fi Connection?{End}</Text>
+  <Text ID="88">{C1}Nintendo Wi-Fi Connection treats your Nintendo DS Game Card and the system as a set. Save this system's Wi-Fi User Information to this Game Card and connect to Nintendo Wi-Fi Connection?{End}</Text>
+  <Text ID="89">{C1}Nintendo Wi-Fi Connection treats your save data and Nintendo DSi system as a set. Save this Nintendo DSi system's Wi-Fi User Information to this save data and connect to Nintendo Wi-Fi Connection?{End}</Text>
+  <Text ID="8a">{C1}Wi-Fi User Information for this system has been saved to the Game Card. From now on, please use this system to connect to Nintendo Wi-Fi Connection.{End}</Text>
+  <Text ID="8b">{C1}Wi-Fi User Information for this Nintendo DSi system has been saved to the save data. From now on, please use this Nintendo DSi system to connect to Nintendo Wi-Fi Connection.{End}</Text>
+  <Text ID="8c">{C1}Unable to connect to Nintendo Wi-Fi Connection because the Wi-Fi User Information from the system and the Game Card do not match.{End}</Text>
+  <Text ID="8d">{C1}Unable to connect to Nintendo Wi-Fi Connection because the Wi-Fi User Information from the Nintendo DSi system and the save data do not match. {End}</Text>
+  <Text ID="8e">{C1}Update Wi-Fi User Information saved on the Game Card? When you update your Wi-Fi User Information, you will lose all data that was used to connect to Nintendo Wi-Fi Connection.{End}</Text>
+  <Text ID="8f">{C1}Update Wi-Fi User Information saved in the save data? When you update your Wi-Fi User Information, you will lose all data that was used to connect to Nintendo Wi-Fi Connection.{End}</Text>
+  <Text ID="90">{C1}Connect to Nintendo Wi-Fi Connection to update Wi-Fi User Information?{End}</Text>
+  <Text ID="91">
+    {C1}Connecting to Nintendo Wi-Fi Connection...
+    {C1}Please wait a moment...{End}
+  </Text>
+  <Text ID="92">{C1}You cannot use Nintendo Wi-Fi Connection using this user name. Please change your user name.{End}</Text>
+  <Text ID="93">{C1}OK to disconnect from Nintendo Wi-Fi Connection?{End}</Text>
+  <Text ID="94">{C1}Disconnecting from Nintendo Wi-Fi Connection.{End}</Text>
+  <Text ID="95">{C1}You have been disconnected from Nintendo Wi-Fi Connection.{End}</Text>
+  <Text ID="96">{C1}Disconnect and return to the title screen.{End}</Text>
+  <Text ID="97">{C1}No data to download.{End}</Text>
+  <Text ID="98">{C1}Are you sure you want to download {Attack}{C1}?{End}</Text>
+  <Text ID="99">{C1}Downloading...{End}</Text>
+  <Text ID="9a">{C1}Download complete.{End}</Text>
+  <Text ID="9b">{C1}Download canceled.{End}</Text>
+  <Text ID="9c">{C1}Unselected data will not be saved. Proceed?{End}</Text>
+  <Text ID="9d">{C1}Downloaded {Attack}{C1}.{End}</Text>
+  <Text ID="9e">
+    {C1}{Color:32}New story unlocked!{Color:33}
+    {C1}You are now able to play Keiji's story, {Color:32}The Free Spirit's Path{Color:33}.{End}
+  </Text>
+  <Text ID="9f">
+    {C1}{Color:32}New event unlocked!{Color:33}
+    {C1}Become allies with Hideyoshi, and embark on a quest to find Reshiram!{End}
+  </Text>
+  <Text ID="a0">
+    {C1}{Color:32}New event unlocked!{Color:33}
+    {C1}Become allies with Motochika and Motonari, and earn their aid in return!
+    {C1}{Color:30}This event can only occur during the story The Legend of Ransei.{Color:33}{End}
+  </Text>
+  <Text ID="a1">{C1}Link Settings{End}</Text>
+  <Text ID="a2">
+    {C1}The rules for Wireless Battles will now be set. Please select link settings. 
+    {C1}Select a {Color:32}number{Color:33} as the maximum link level allowed in the battle.
+    {C1}If you choose {Color:32}none{Color:33}, Gallery data will be used unchanged. 
+    {C1}{Color:30}You cannot enter a value that exceeds the maximum link level.{Color:33}{End}
+  </Text>
+  <Text ID="a3">
+    {C1}{Color:31}%s{Color:33} is currently selecting the link settings. 
+    {C1}The {Color:32}number{Color:33} they select determines the maximum link level allowed in the battle. 
+    {C1}If {Color:32}none{Color:33} is selected, Gallery data will be used unchanged. 
+    {C1}{Color:30}The number selected cannot exceed the maximum link level.{Color:33}{End}
+  </Text>
+  <Text ID="a4">{C1}The connection was interrupted. You will be returned to the Battle menu. {End}</Text>
+  <Text ID="a5">{C1}The connection was interrupted. You will be returned to the Ransei main map.{End}</Text>
+  <Text ID="a6">{C1}{Color:30}%s{Color:33} is selecting Warriors...{End}</Text>
+  <Text ID="a7">{C1}{Color:31}%s{Color:33} is selecting Warriors...{End}</Text>
+  <Text ID="a8">{C1}Waiting for {Color:31}%s{Color:33} to begin the battle...{End}</Text>
+  <Text ID="a9">
+    {C1}{Color:32}New story unlocked!{Color:33}
+    {C1}You are now able to play Okuni's story, {Color:32}A Date with Destiny{Color:33}.{End}
+  </Text>
+  <Text ID="aa">
+    {C1}{Color:32}New story unlocked!{Color:33}
+    {C1}You are now able to play Ranmaru's story, {Color:32}A Fate Born of Beauty{Color:33}.{End}
+  </Text>
+  <Text ID="ab">{C1}Gives full immunity to all Ground-type moves. {End}</Text>
+  <Text ID="ac">{C1}The Pokémon can climb to high places.{End}</Text>
+  <Text ID="ad">{C1}Increases Range on water.{End}</Text>
+  <Text ID="ae">{C1}Increases Range on ice.{End}</Text>
+  <Text ID="af">{C1}The Pokémon can push an attacking opponent far away with super strength.{End}</Text>
+  <Text ID="b0">{C1}Moves can be used regardless of enemy Abilities. {End}</Text>
+  <Text ID="b1">{C1}Moves can be used regardless of enemy Abilities. {End}</Text>
+  <Text ID="b2">{C1}Moves can be used regardless of enemy Abilities. {End}</Text>
+  <Text ID="b3">{C1}Powers up moves if they become critical hits. {End}</Text>
+  <Text ID="b4">{C1}Reduces damage from supereffective attacks.{End}</Text>
+  <Text ID="b5">{C1}The Pokémon is protected against critical hits. {End}</Text>
+  <Text ID="b6">{C1}The Pokémon is protected against critical hits. {End}</Text>
+  <Text ID="b7">{C1}The Pokémon is protected against 1-hit KO attacks. {End}</Text>
+  <Text ID="b8">{C1}Ignores any stat changes in enemy Pokémon. {End}</Text>
+  <Text ID="b9">{C1}Raises resistance to Fire-type and Ice-type moves.{End}</Text>
+  <Text ID="ba">{C1}The Pokémon is protected from paralysis. {End}</Text>
+  <Text ID="bb">{C1}Prevents the Pokémon from being poisoned. {End}</Text>
+  <Text ID="bc">{C1}Prevents the Pokémon from becoming confused.{End}</Text>
+  <Text ID="bd">{C1}The Pokémon is protected from flinching. {End}</Text>
+  <Text ID="be">{C1}Prevents the Pokémon's stats from being lowered. {End}</Text>
+  <Text ID="bf">{C1}Prevents the Pokémon from losing accuracy. {End}</Text>
+  <Text ID="c0">{C1}Raises Attack if hit by a Fire-type move.{End}</Text>
+  <Text ID="c1">{C1}Restores HP if hit by a Water-type move. {End}</Text>
+  <Text ID="c2">{C1}Restores HP if hit by an Electric-type move. {End}</Text>
+  <Text ID="c3">{C1}Raises Speed if hit by an Electric-type move. {End}</Text>
+  <Text ID="c4">{C1}Absorbs all Electric-type moves to raise Attack. {End}</Text>
+  <Text ID="c5">{C1}The Pokémon can evade moves from its allies.{End}</Text>
+  <Text ID="c6">{C1}The Pokémon can parry direct enemy attacks with claws or blades.{End}</Text>
+  <Text ID="c7">{C1}The Pokémon uses intuition to swiftly evade enemy moves.{End}</Text>
+  <Text ID="c8">{C1}The Pokémon can evade direct attacks and knock opponents off balance.{End}</Text>
+  <Text ID="c9">{C1}Contact with the Pokémon inflicts damage on the attacker. {End}</Text>
+  <Text ID="ca">{C1}Contact with the Pokémon may poison the attacker. {End}</Text>
+  <Text ID="cb">{C1}Contact with the Pokémon may cause paralysis.{End}</Text>
+  <Text ID="cc">{C1}Contact with the Pokémon may burn the attacker. {End}</Text>
+  <Text ID="cd">{C1}Contact with the Pokémon may freeze the attacker. {End}</Text>
+  <Text ID="ce">{C1}Contact with the Pokémon causes the attacker to flinch. {End}</Text>
+  <Text ID="cf">{C1}Raises Attack when HP is low.{End}</Text>
+  <Text ID="d0">{C1}Raises Attack when HP is low.{End}</Text>
+  <Text ID="d1">{C1}Raises Attack when HP is low.{End}</Text>
+  <Text ID="d2">{C1}Raises Attack when HP is low.{End}</Text>
+  <Text ID="d3">{C1}Raises Attack when suffering from a status ailment.{End}</Text>
+  <Text ID="d4">{C1}Raises Attack and Defense when suffering from a status ailment.{End}</Text>
+  <Text ID="d5">{C1}Raises Speed after flinching.{End}</Text>
+  <Text ID="d6">{C1}Raises Attack if hit by a Dark-type move.{End}</Text>
+  <Text ID="d7">{C1}Restores HP while sleeping.{End}</Text>
+  <Text ID="d8">{C1}The Pokémon falls asleep and recovers HP when HP is low.{End}</Text>
+  <Text ID="d9">{C1}Restores HP and raises Attack when HP is low.{End}</Text>
+  <Text ID="da">{C1}Restores HP when the Pokémon is standing in magma.{End}</Text>
+  <Text ID="db">{C1}Restores HP when the Pokémon is standing in water.{End}</Text>
+  <Text ID="dc">{C1}Restores HP when the Pokémon is standing on grass.{End}</Text>
+  <Text ID="dd">{C1}Restores HP when the Pokémon is standing on soil or sand.{End}</Text>
+  <Text ID="de">{C1}Restores HP when the Pokémon is standing in magma, soil, or sand.{End}</Text>
+  <Text ID="df">{C1}Restores the HP of nearby allies.{End}</Text>
+  <Text ID="e0">{C1}Restores HP every turn.{End}</Text>
+  <Text ID="e1">{C1}Restores HP when waiting at the end of a turn.{End}</Text>
+  <Text ID="e2">{C1}The Pokémon may heal its own status ailments.{End}</Text>
+  <Text ID="e3">{C1}The Pokémon may heal an adjacent ally's status ailments.{End}</Text>
+  <Text ID="e4">{C1}The Pokémon may heal an adjacent ally's status ailments.{End}</Text>
+  <Text ID="e5">{C1}The Pokémon can attack adjacent enemies in the confusion of battle.{End}</Text>
+  <Text ID="e6">{C1}The Pokémon can absorb the HP of adjacent enemies.{End}</Text>
+  <Text ID="e7">{C1}The Pokémon protects adjacent allies by taking enemy attacks for them.{End}</Text>
+  <Text ID="e8">{C1}Raises Attack and Defense when their army is struggling.{End}</Text>
+  <Text ID="e9">{C1}Raises Attack and Defense when all other allies have been defeated.{End}</Text>
+  <Text ID="ea">{C1}All moves by the Pokémon and their enemy will be successful.{End}</Text>
+  <Text ID="eb">{C1}The Pokémon can evade enemy moves when on their favorite terrain.{End}</Text>
+  <Text ID="ec">{C1}Strengthens attacks carried out at the start of a turn.{End}</Text>
+  <Text ID="ed">{C1}Raises Attack in proportion to distance moved.{End}</Text>
+  <Text ID="ee">{C1}Raises Attack when several Electric-type Pokémon are together.{End}</Text>
+  <Text ID="ef">{C1}Improves Defense on grass.{End}</Text>
+  <Text ID="f0">{C1}The Pokémon's accuracy is boosted.{End}</Text>
+  <Text ID="f1">{C1}Doubles effectiveness of stats changes.{End}</Text>
+  <Text ID="f2">{C1}Raises Attack for 1 turn after defeating an enemy.{End}</Text>
+  <Text ID="f3">{C1}The Pokémon can move again after defeating an enemy.{End}</Text>
+  <Text ID="f4">{C1}The Pokémon can sing nearby enemies to sleep.{End}</Text>
+</Block>

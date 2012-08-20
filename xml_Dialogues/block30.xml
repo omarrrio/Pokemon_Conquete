@@ -1,0 +1,536 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Block>
+  <Text ID="0">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:31}I will stay totally devoted to the pursuit of truth and wisdom!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:31}I will stay totally devoted to the pursuit of truth and wisdom!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}Hehe... It makes no difference to me.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}I was just doing my duty!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Wow, that feels pretty good!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}I will remain totally devoted to the pursuit of wisdom.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Well, I am clearly the smartest in this army.{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:31}I shall be as devoted to wisdom as I possibly can be!{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:31}I shall always remain devoted to the pursuit of truth.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:31}I will remain totally devoted to the pursuit of truth and wisdom!{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}Wow, that's great! I'll carry on giving it everything I've got. {End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}I still have a long way to go on that count...{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}I'll continue to do the very best that I can!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}I shall continue to serve in the name of justice and honor. {End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}I will remain totally devoted in my pursuit of the wisest wisdom and the truest truth!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Yeah, well. Not a lotta choice with the state of this army, is there? {End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Oh! Well, goodness. Thank you. {End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}Well... Just look at the competition... {End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:31}I am most terribly grateful.{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Well, yeah. Naturally. {End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}I shall continue to serve the land with total devotion.{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}I will stay totally devoted to the pursuit of truth and wisdom!{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}I guess I have learned a thing or two about the world...{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}A ninja's duty.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Yep, that's right! Well, I am a ninja after all...{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:33}I shall remain totally devoted to the pursuit of wisdom!{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Wisdom, eh...? Well, I can live with that...{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:31}I shall remain devoted to the pursuit of the just and the true!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Oh! Really? Me?{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Re-Really? Honestly? Well, thanks a lot!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:31}Well, I say! That's sure put a smile on my face!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}I shall continue to be as devoted to the pursuit of wisdom and truth as I possibly can!{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}I shall continue to strive toward wisdom and truth!{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}I shall endeavor to remain devoted to the pursuit of wisdom and truth!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:34}Man... I never thought I'd be recognized for my wisdom, I must say...{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}Thank you.{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:31}I shall remain devoted to the pursuit of truth and wisdom. {End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:34}Huh? You think I'm wise?! Well, that's...that's great!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:31}I shall continue to devote myself to the pursuit of wisdom!{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:31}I shall continue to be as devoted to the pursuit of truth as I possibly can!{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:31}I'll try to always remain totally devoted to the pursuit of truth!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:31}I shall remain as devoted to the pursuit of truth as I possibly can be!{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:31}I shall remain as devoted to the pursuit of truth as I possibly can be!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:31}I'll remain as devoted to the pursuit of truth as I possibly can be!{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:31}Wisdom? Me?!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:31}I shall remain fully devoted to the pursuit of truth and knowledge!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:31}Well, naturally...{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:31}I shall remain fully devoted to the pursuit of truth and knowledge!{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:31}I shall remain fully devoted to the pursuit of truth and knowledge!{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:31}H-Huh? M-Me?!{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:31}Well! They do say that wisdom comes with experience, after all... {End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:31}I shall remain fully devoted to the pursuit of truth and knowledge!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:31}I shall continue with my studies!{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:31}I'm gonna remain as devoted to the pursuit of truth as possible!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:31}I'll always try and be as wise as I can!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:31}I shall remain fully devoted to the pursuit of truth and knowledge, so long as I live. {End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:31}Well now! I shall try to grow even wiser...{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:31}I shall remain devoted to the pursuit of wisdom!{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:31}I shall remain devoted to the pursuit of truth and wisdom. {End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:31}I shall strive to always pursue wisdom and truth...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:31}I shall stay devoted to the pursuit of wisdom!{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:31}I shall strive to always pursue wisdom and truth.{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:31}I'm gonna study real hard from now on!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:31}Well, I think I've still got a fair bit of studying to do... {End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:31}Yeah! You can count on my wisdom...and I don't mean my teeth!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="1">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:31}What an honor!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:31}What an honor!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}Hehe... Fine.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:31}I just can't believe it! Thank you so much!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:31}Now that―that is an honor!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}Well... Very good.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:34}Y-You find me...charismatic?{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:31}I feel a bit bashful, I must say...{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:31}Well, this is truly a great honor.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:34}Ho, this is unexpected...{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}Wow, thanks a lot! I'll carry on giving it everything I've got. {End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Well, now! That is an honor. {End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}That is a great honor!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}Oh. Me?{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Ohh! Well! I'm not immune to your charms either! {End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Yeah, yeah. Think flattery will get you everywhere, right?{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Well, well. Can't complain. {End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}Ha... Drawn in by my charms?{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:31}I am unworthy of such praise.{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Well, this is an honor! Really!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}I am most honored. {End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}I am most honored. {End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:30}Hmm? But I don't feel like I'm very charming, you know... {End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:34}There must be some mistake.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Fallen for me, have you?! Watch out―you might get burned...{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:34}M-Me? Really? Well, that's...that's a great honor!{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:31}Yup, so you understand why the women just can't keep away, eh?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:31}That is a great honor!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Oh goodness... You must be teasing me... {End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:31}Yes! That means I'm the cutest? Right?!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:31}Oh heavens! I'm blushing!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}Charismatic? M-Me? Well, what can I say? This is truly a great honor.{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}You honor me.{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:34}Ch-Charismatic? Well! Thank you...{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Oh, you've got a soft spot for me, have you?{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}I don't really know what you mean, but...thanks, I guess. {End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:31}Well... I'm delighted... {End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Oh! I guess it must be this hairstyle that does it, right?{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:31}Well, this is truly a great honor.{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:31}Well, this is truly a great honor.{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:31}This is an honor indeed!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:31}Well, this is truly a great honor.{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:31}Well, this is truly a great honor!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:31}But of course! {End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:31}Whoa! Well, that's an honor and no mistake!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:31}Well, this is truly a great honor!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:31}Well, naturally...{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:31}Well now, this is a great honor!{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:31}This is an honor indeed!{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:31}H-Huh? M-Me?!{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:31}Well, this is truly a great honor.{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:31}What a great honor!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:31}Oh! Well, this is truly a great honor.{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:31}It's an honor!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:31}This is an honor for me!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:31}I am most honored. {End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:31}Well now, this is just such a great honor!{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:31}Well, I feel very honored... {End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:31}This is a tremendous honor. {End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:31}This is an honor...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:31}A great honor indeed!{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:31}This is a great honor for me.{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:31}Wow! Thanks so much!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:31}Well, now! I don't know what to say... {End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:31}Well, that goes without saying! But you went and said it!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="2">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:31}Thank you very much! Isn't this a happy moment, {Poke}{C1}?{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:31}Thank you very much! Isn't this a happy moment, {Poke}{C1}?{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}Hehe... Is that so, {Poke}{C1}?{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:31}Hehee, it looks like {Poke}{C1} is happy too!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:31}Hey, you've made my day. {Poke}{C1}'s too!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}This is a happy occasion, {Poke}{C1}.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Well, well. {Poke}{C1} is happy about it too.{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:31}I'm very grateful. How about you, {Poke}{C1}?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:31}A joyful event. Wouldn't you say, {Poke}{C1}?{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:31}Not bad, not bad at all... Is it, {Poke}{C1}?{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}Wow, thanks! That's great news, isn't it, {Poke}{C1}?{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}We're most grateful. Aren't we, {Poke}{C1}?{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}You humble me! {Poke}{C1} feels the same!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}{Poke}{C1} is pleased by this development.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Such a delight! Don't you agree, {Poke}{C1}?{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Well, well... What do you say to that, {Poke}{C1}?{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Well, well. We thank you, don't we, {Poke}{C1}?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}Isn't this amusing, {Poke}{C1}?{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:31}What a wonderful honor! Isn't it, {Poke}{C1}?{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}That's really made my day! Yours too, right, {Poke}{C1}?{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}We are indebted to you. Are we not, {Poke}{C1}?{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}This is a great day... {Poke}{C1} agrees, I'm sure!{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}Thank you very much! I'm so happy, {Poke}{C1}!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}This is an honor. Isn't it, {Poke}{C1}?{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Man, now this is something to be grateful for! {Poke}{C1}'s happy too!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:31}This is a most happy occasion for both {Poke}{C1} and myself. {End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}A great honor, this is! Isn't that right, {Poke}{C1}?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:31}Never has there been a happier day! {Poke}{C1} shares my gratitude!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}This is most delightful. Isn't it, {Poke}{C1}?{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Hey, thanks! {Poke}{C1} is over the moon as well!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:31}Well, good heavens! {Poke}{C1} is just as happy as I am!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}A joyful event! Wouldn't you say, {Poke}{C1}?{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}This is a most joyous occasion. Isn't it, {Poke}{C1}?{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}What a splendid honor! Isn't it, {Poke}{C1}!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}This is a really great honor. Isn't it, {Poke}{C1}!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}It seems that {Poke}{C1} is delighted by the news.{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:31}A great honor! Isn't it, {Poke}{C1}?{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Hey, {Poke}{C1}! I think this means we're the cream of the crop!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:31}Well, isn't this just tremendous, {Poke}{C1}?{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:31}A joyful event! Wouldn't you say, {Poke}{C1}?{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:31}What a great occasion! Isn't it, {Poke}{C1}?!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:31}What a happy occasion! Isn't it, {Poke}{C1}?{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:31}What a happy occasion! Eh, {Poke}{C1}?{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:31}This is a great moment! Eh, {Poke}{C1}?{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:31}This is a great moment! Eh, {Poke}{C1}?{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:31}What's that, {Poke}{C1}? You're as proud as I am?{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:31}What a terrific occasion! Isn't it, {Poke}{C1}?{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:31}What a wonderful occasion this is! Isn't it, {Poke}{C1}?{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:31}My goodness, what a happy day! Isn't it, {Poke}{C1}?{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:31}H-Huh? M-Me?! Th-This is u-unexpected... Isn't it, {Poke}{C1}?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:31}Well, isn't this just marvelous, {Poke}{C1}?{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:31}I am so happy! Are you happy too, {Poke}{C1}?{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:31}What a wonderful thing! Wouldn't you say, {Poke}{C1}?{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:31}This is a great honor! Eh, {Poke}{C1}?{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:31}This is great! Eh, {Poke}{C1}?{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:31}This is a most splendid occasion. Wouldn't you say, {Poke}{C1}?{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:31}Such a wonderful occasion! Isn't it just, {Poke}{C1}?{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:31}Well, aren't you just thrilled, {Poke}{C1}?{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:31}This is most welcome. Isn't it, {Poke}{C1}?{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:31}A great occasion... Is it not, {Poke}{C1}?{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:31}Aren't you moved, {Poke}{C1}? I know I am!{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:31}You honor us... Isn't that so, {Poke}{C1}?{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:31}Wow, this is so cool! Little {Poke}{C1} thinks so too, don't you!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:31}Oh, I feel ever so grateful. Don't you, {Poke}{C1}?{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:31}Well it stands to reason that it would come to this... Eh, {Poke}{C1}?{End}
+    {C1}{End}
+  </Text>
+  <Text ID="3">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:31}Carry on giving it all you've got, guys, for the sake of your allies!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:31}Carry on giving it all you've got, everyone, for the sake of your allies!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}You must not so much as pause for breath, as long as you remain in the service of {Color:31}Nobunaga{Color:33}.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}I want to ask you all to stay as devoted as you have been, so that we can make our army even stronger!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:31}Hey, guys! Let's join forces and give this army everything we've got!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}I shall respond to your hard work and devotion.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Everyone! Entrust this army with all the strength you have!{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:31}Everyone, I'm counting on you to give this army everything you've got. Understood?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}I'm counting on you all to make this army the superior force that it can be. {End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:31}I ask you to carry on serving our glorious army with all of your strength.{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}Hey, guys! I'm trusting you to carry on giving this army your full support!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}I want you all to know, I'm relying on you to invest all your strength in this army!{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}You must all continue to support me in the future!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}I implore you to devote yourselves to this army with all you have. {End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Carry on giving our fabulous army all you've got!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}We've still got a long way to go... Don't go getting complacent now. {End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}I expect your continued devotion!{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}Let us continue to show the world just how strong we really are...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:31}I'm counting on you all, you know.{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Everyone! I really hope you carry on giving this army all you've got!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}I ask for your continued devotion to this army. {End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Rest assured, your presence in this army is most valued. {End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}Together, let's make this army even better than it is already!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}I ask for your continued devotion.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:31}Hey, guys! Give it everything you've got!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:33}Together, let's make this the best army that we can!{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}I'm counting on you guys! This army needs you!{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:31}Our army relies on your faithful and honorable service!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}You must continue to support the army with all the love in your hearts!{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}I'm counting on you guys to keep this army great!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:31}I ask for everyone's understanding and compassion!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}I'm counting on you all to help make this army the best around!{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}I ask for your continued perseverance in making this army even greater. {End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}I ask you for your continued devotion to our glorious army!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Hey, guys! I'm counting on you to help make this army the best it can be! {End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}I'm relying on your support in making this army as strong as it can possibly be. {End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}I'm relying on your help with this army...{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Right! Keep on going this way, guys, and we'll be the best the world has ever seen!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="4">{C1}{End}</Text>
+  <Text ID="5">{C1}{End}</Text>
+  <Text ID="6">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}I'd like to meet lots of different kinds of Pokémon! Would it be all right to take a little trip?{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}I'd like to meet lots of different kinds of Pokémon! Would it be all right to take a little trip?{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}I must find Pokémon with greater power. It is time for {Color:31}Nobunaga{Color:33} to take an excursion.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}I'd still like to try meeting lots of different kinds of Pokémon! Would it be all right to take a little trip?{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Thing is, I'd still like to try meeting lots of different kinds of Pokémon! Okay if I take off on a little trip?{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}I want to become familiar with more Pokémon. Will you allow me to take a trip?{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}I would like to find some more Pokémon. Will you allow me to take a trip?{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}I'd quite like to meet some Pokémon from other kingdoms. Do you mind if I make a little trip?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}I would most like to get to meet all kinds of Pokémon... Would it trouble you if I were to take a short trip?{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}I'd like to meet some better, stronger Pokémon. So I was thinking of taking a trip...{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}Hey, you know what? I wish I could meet some new Pokémon... Would it be all right to take a little trip? Please?{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Say, I'd quite like to meet some Pokémon from other nations. It'd be all right if I took a trip, wouldn't it?{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}There's something I want to ask you. Would you allow me to go on a little journey to meet some new Pokémon?{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}I am thinking of taking a trip in order to meet some stronger Pokémon. {End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}I'd so like to meet some more Pokémon. Would you let me take the tiniest of little trips?{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}I wanna meet some new Pokémon. It's okay to take a little trip, right?{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:30}It would please me greatly if I could meet some more Pokémon. Would you permit me a little trip?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}I'm leaving for a while. I wish to encounter some stronger Pokémon...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}Actually...I'd quite like to try meeting some more Pokémon. Would you mind if I went on a little trip?{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}I'd still like to try meeting lots of different kinds of Pokémon, you know... Am I allowed to take a little trip?{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}I would like to meet some more Pokémon. I wish to ask for your permission to take a trip.{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}I would really like to meet some different kinds of Pokémon. Will you allow me to take a trip?{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}I'd still like to try meeting lots of different kinds of Pokémon, you know? Would it be all right to take a little trip?{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Permit me a trip so that I might see some more Pokémon.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Y'know, the thing is...I'd still like to try meeting lots of different kinds of Pokémon... It'd be okay if I took a little trip, right?{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}You know, I really crave the chance to meet some different kinds of Pokémon. Would you permit me a little trip in order to do so?{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Thing is, I'd like to meet some more Pokémon. You don't mind if I go off on a little trip, do you?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}I have been thinking how much I would like to meet some new Pokémon. May I have your permission to take a little trip?{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}It would most please me to meet some more Pokémon. Would you permit me a little trip?{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Y'know, the thing is...I'd kinda like to try meeting lots of different kinds of Pokémon... Can I take a little trip? Pretty please?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}You know, there are so many more Pokémon I'd like to meet... Would you mind if I took a little trip?{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:30}I'd like to become familiar with some more kinds of Pokémon... Would you mind if I were to go on a little trip?{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}I would like to ask for your permission to take a trip in order to find some new Pokémon.{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:30}It is my wish to meet some different kinds of Pokémon. Would you object if I took a little trip?{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Thing is, I'd like to try to meet some different kinds of Pokémon! It's okay to take a little trip, right?{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}There's a request I'd like to make of you. Would you allow me to set out on a trip to meet some new Pokémon?{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}I'm really keen to meet some new Pokémon. Would you allow me to take a trip?{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:30}Y'know, I've been thinking... I wanna meet some new Pokémon. You don't mind if I take a little trip, right?{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}I would like to try to meet all kinds of Pokémon... Would it trouble you if I were to take a little trip?{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}There are so many types of Pokémon I would like to meet... Would you mind my taking off on a little trip?{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}One of my dreams is to meet as many new Pokémon as I can. Would you mind if I took a little trip? Please!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}It's my most fervent wish to meet some new kinds of Pokémon... Would it be okay to set out on a bit of a trip to try and encounter some?{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}You know, I'd really like to meet some new kinds of Pokémon... Would you object if I took a little trip?{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}Y'know, I'd really like to meet some new kinds of Pokémon... It's okay with you if I take a little trip, right?{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}The thing is...I'd like to meet some new kinds of Pokémon... It's okay with you if I take a little trip, right?{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}I'd so much like to meet some different kinds of Pokémon... Would you object to my taking a little trip?{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}It is my greatest wish to meet some new kinds of Pokémon... Would you mind my taking a little trip?{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}I'd very much like to meet some different kinds of Pokémon... Would it be permissible to take a little trip?{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}I'd very much like to meet some different kinds of Pokémon! Would it be acceptable to you if I were to take a little trip?{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}Um... I-I'd like to m-meet some different kinds of P-Pokémon... M-May I take a little t-trip...p-please?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}You know, I would so like to meet some different kinds of Pokémon... Would it be acceptable to take a small trip?{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}I'd really like to meet some different kinds of Pokémon, you know... Would you mind very much my taking a little trip?{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}Actually, I would rather like to get to meet all kinds of Pokémon... Would it be acceptable if I took off on a little trip?{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}Y'know, I'd like to meet some new kinds of Pokémon... You wouldn't mind if I took a little trip, right?{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}You know, I'd like to meet some new kinds of Pokémon... It'd be okay with you if I took a little trip, right?{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}I would very much like to meet some different kinds of Pokémon... Would you permit my taking a little trip?{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}I'd so much like to meet some different kinds of Pokémon... Would you approve of my taking a little trip?{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}I've been thinking of late how much I'd like to meet some different kinds of Pokémon... Would it trouble you if I were to take a little trip?{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}I would like to meet more Pokémon... May I take a trip?{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}I'd like to take a trip to meet some more Pokémon... Will you give me permission...?{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}I would like to get familiar with some new kinds of Pokémon. Is it okay if I take a little trip?{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}I would like very much to meet some different kinds of Pokémon. Would you permit me a short trip in order to do so?{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}I'd really, really like to meet some different kinds of Pokémon! Would you mind my taking a little trip? Please?!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}I would rather like to meet some different kinds of Pokémon... It would be okay with you if I took a little trip, wouldn't it?{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}You know, I'd like to try meeting some new kinds of Pokémon... Would you mind terribly if I took a little trip?{End}
+    {C1}{End}
+  </Text>
+  <Text ID="7">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}I've just returned from my trip. What an adventure that was! And while I was away, I was lucky enough to meet {Poke}{C1}!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}I've just returned from my trip. And while I was away on my adventure, I was lucky enough to meet {Poke}{C1}!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}{Color:31}Nobunaga{Color:33} has returned. And he has brought {Poke}{C1} with him.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}I've just got back! That was such a brilliant trip! And I was lucky enough to meet {Poke}{C1}!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:31}Hey, I'm back! Miss me? That sure was a great trip! And I met {Poke}{C1} along the way!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}I've returned. I brought {Poke}{C1} with me.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}I've returned. And look―I've brought {Poke}{C1} with me.{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:31}I just got back. What a great journey that was! And look, I met {Poke}{C1}.{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:31}I have returned. The trip was excellent. And along the way I encountered {Poke}{C1}.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:31}Well, I'm back. Quite a trip it was, let me tell you! And while I was away, I met {Poke}{C1}!{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}Hey, I'm back! How've you been without me? That was such a great trip. And look, I met {Poke}{C1}!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}I just arrived back. That was quite an adventure. And look! I met {Poke}{C1} while I was away.{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}I've returned from my adventure. Look! I met {Poke}{C1} on the way!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}I have returned from a fine trip. From here on, I shall relish battle alongside {Poke}{C1}.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}I'm back! Quite a trip, let me tell you! And while I was away, I met {Poke}{C1}!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:31}Hey, I'm back. It wasn't a bad trip. Plus I met {Poke}{C1} along the way.{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}I'm back. A simply marvelous vacation it was, I assure you. And look! I met {Poke}{C1}.{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}I have returned in triumph. Look... This is {Poke}{C1}...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:31}I have just arrived back. What an adventure that was! And look, I met {Poke}{C1} while I was away.{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}I'm back! That was a pretty great trip! And I was lucky enough to meet {Poke}{C1}!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}I have just returned. The trip was an excellent experience for me. I have brought {Poke}{C1} back to join us.{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}I've just returned from a most rewarding journey. Look, I met {Poke}{C1} on the way.{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}Hey, I'm back! What a journey that was! And I was lucky enough to meet {Poke}{C1}!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}I have returned. I bring with me this {Poke}{C1}.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Hey, I'm back! Did you miss me? I had a great time! And I had the luck to run into {Poke}{C1}!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:31}I've returned from a fantastic voyage. Oh, and I brought {Poke}{C1} with me.{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:31}Yup, I'm back. I had a real good time. And I met {Poke}{C1} into the bargain!{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:31}I've just returned. What an excellent adventure that was. {Poke}{C1} and I have become the firmest of friends!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}I've just returned. It was a simply delightful voyage. And look! We have a new companion with which to share our love: {Poke}{C1}!{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Hey, I'm back! That was such a great trip, you know! And I had the luck to meet {Poke}{C1}!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}I've just got back! That was the best journey I've been on in a long time! And I was even lucky enough to meet {Poke}{C1}!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}I've just got back! It was such a wonderful voyage! And along the way I encountered {Poke}{C1}.{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}I have just returned from a highly rewarding journey. I encountered {Poke}{C1} along the way.{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}I've just returned from my time away. It was truly wonderful. And I was lucky enough to meet {Poke}{C1}!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Hey, I'm back! That was the journey of a lifetime! Just how I hoped it would be. And look, I met {Poke}{C1}!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}I've just got back home. It wasn't a bad trip at all. I brought {Poke}{C1} back with me!{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:31}I've just got back home. I learned a lot, let me tell you! And along the way I met {Poke}{C1}!{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Hey, I'm back! That was a real great trip! Even better for meeting {Poke}{C1} on the way!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:31}Well, I have returned! That was a most excellent voyage. And along the way, I encountered {Poke}{C1}.{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}I have just returned from a most excellent journey. And along the way, I encountered {Poke}{C1}!{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}I have just this second returned! What a profitable journey it was! Along the way, I encountered {Poke}{C1}!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}I have just returned. The trip was exceptional! And while I was away, I met {Poke}{C1}!{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}I'm back! That was one excellent trip, let me tell you! And while I was away, I met {Poke}{C1}!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}I've just got back! That was one excellent trip, let me tell you! And I met {Poke}{C1}! I think we'll be friends for life!{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}I'm just back! I had some incredible adventures! And I even met {Poke}{C1}!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}What's that? You want me to introduce you? Of course! This is {Poke}{C1}―we met on my trip!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}I have just returned. My travels were most enlightening! And while I was away, I met {Poke}{C1}!{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}I have just returned from a most gratifying trip. And would you look at whom I encountered along the way! {Poke}{C1}!{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}I have just returned from a most rewarding journey! And I just so happened to meet {Poke}{C1} along the way! {End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}I've just got b-back! It was a g-good trip for me... A-Actually, I made friends with {Poke}{C1}...{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}Well, I'm back! I can't tell you what a great trip that was! And along the way I encountered {Poke}{C1}!{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}I'm just back from my trip! I had so much fun, and guess who I met along the way! {Poke}{C1}!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}I have just returned. It was so nice to be able to let my hair down. And while I was away, I encountered {Poke}{C1}!{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}I just got back from my Pokémon quest. It was a success, too! Check out {Poke}{C1} here!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}Yoo-hoo, I just got back from my trip! I had real fun, you know! And I brought {Poke}{C1} back with me!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}I have just returned. What a marvelous journey that was! And would you look at who I encountered along the way! {Poke}{C1}!{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}I have just returned from a most marvelous trip. And just look at who I met on the way...{Poke}{C1}!{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}Well, I have returned! I can't tell you how rewarding that was! And along the way, I encountered {Poke}{C1}!{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}I have just returned from my trip. While I was away, I met {Poke}{C1}.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}I have returned... I brought {Poke}{C1} with me...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}I'm back! Well that was a great trip! And while I was away, I became friends with {Poke}{C1}.{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}I have just returned. The trip was excellent, and along the way I had the fortune to meet {Poke}{C1}.{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}Hey, I'm back! I had so much fun, and just look! I made friends with little {Poke}{C1}!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}I'm home! I can't tell you what a great trip that was! And guess what! Along the way I had the luck to meet {Poke}{C1}!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}Yoo-hoo, I'm back! What a tip-top trip that was! Even better for meeting {Poke}{C1}!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="8">
+    {Unk2 P:0}{C1}{NameColor:32}{CharImage:33}|02,51,64{C1}'s army has grown more powerful. Soon it'll be time to take them on!{End}
+    {Unk2 P:1}{C1}{NameColor:32}{CharImage:33}|02,51,64{C1}'s army has grown stronger. Soon it'll be time to take them on!{End}
+    {Unk2 P:2}{C1}{NameColor:32}{CharImage:30}Hmm... It would seem that |02,51,64{C1} has grown stronger.{End}
+    {Unk2 P:3}{C1}{NameColor:32}{CharImage:33}|02,51,64{C1}'s army has grown more powerful... I suppose we should do something about it soon.{End}
+    {Unk2 P:4}{C1}{NameColor:32}{CharImage:34}Huh? When did |02,51,64{C1}'s army get that strong?! Guess we'd better sort it out...{End}
+    {Unk2 P:5}{C1}{NameColor:32}{CharImage:30}The strength of |02,51,64{C1}'s army... Well, fine! We must fight them; there's nothing else for it.{End}
+    {Unk2 P:6}{C1}{NameColor:32}{CharImage:30}|02,51,64{C1}'s army is not doing badly, I see... But they still are no match for us. Let us crush them at once!{End}
+    {Unk2 P:7}{C1}{NameColor:32}{CharImage:30}|02,51,64{C1}'s army is coming along... We can't let things go on in this way for much longer...{End}
+    {Unk2 P:8}{C1}{NameColor:32}{CharImage:34}What? But this is dangerous for us. We must launch an attack on |02,51,64{C1}'s army. There is no time to spare...{End}
+    {Unk2 P:9}{C1}{NameColor:32}{CharImage:30}Hmm... Seems |02,51,64{C1}'s army has grown powerful. They could make for a dangerous enemy.{End}
+    {Unk2 P:10}{C1}{NameColor:32}{CharImage:34}Hey, so it looks like |02,51,64{C1}'s army has got bigger all of a sudden, huh... {End}
+    {Unk2 P:11}{C1}{NameColor:32}{CharImage:30}It could be dangerous for us if we don't do something about |02,51,64{C1}'s army soon...{End}
+    {Unk2 P:12}{C1}{NameColor:32}{CharImage:30}Gah, |02,51,64{C1}'s army keeps getting stronger... Guess we'll have to take them on soon. {End}
+    {Unk2 P:13}{C1}{NameColor:32}{CharImage:30}The strength of |02,51,64{C1}'s army... This will make for an invigorating battle. {End}
+    {Unk2 P:14}{C1}{NameColor:32}{CharImage:34}Ohh, now this is dangerous! We must crush |02,51,64{C1}'s army with the utmost speed!{End}
+    {Unk2 P:15}{C1}{NameColor:32}{CharImage:31}Hey, the |02,51,64{C1} army's doing well for itself... Ain't it high time we thought about stamping them out?{End}
+    {Unk2 P:16}{C1}{NameColor:32}{CharImage:31}|02,51,64{C1}'s army is growing by the minute! Isn't it about time to have some fun with them?{End}
+    {Unk2 P:17}{C1}{NameColor:32}{CharImage:31}|02,51,64{C1}'s army now, eh...? Interesting.{End}
+    {Unk2 P:18}{C1}{NameColor:32}{CharImage:33}The power that |02,51,64{C1}'s army has built up is no laughing matter... It's high time to do something about it!{End}
+    {Unk2 P:19}{C1}{NameColor:32}{CharImage:31}Wow, |02,51,64{C1}'s army's sure got bigger... Big enough to stamp out, I'd say!{End}
+    {Unk2 P:20}{C1}{NameColor:32}{CharImage:30}|02,51,64{C1}'s army... Let us extinguish them without further ado.{End}
+    {Unk2 P:21}{C1}{NameColor:32}{CharImage:30}Something tells me that soon enough we will have to see off |02,51,64{C1}'s army...{End}
+    {Unk2 P:22}{C1}{NameColor:32}{CharImage:34}|02,51,64{C1}'s army is getting to be really first rate! Guess we've gotta do something about it...{End}
+    {Unk2 P:23}{C1}{NameColor:32}{CharImage:30}|02,51,64{C1}'s army has grown strong. They must be dealt with.{End}
+    {Unk2 P:24}{C1}{NameColor:32}{CharImage:30}Whoa, looks like |02,51,64{C1}'s army has been building itself up, huh? Guess we've no choice but to crush 'em!{End}
+    {Unk2 P:25}{C1}{NameColor:32}{CharImage:33}The strength of the |02,51,64{C1} army... We've got to do something about it...{End}
+    {Unk2 P:26}{C1}{NameColor:32}{CharImage:30}Hey, |02,51,64{C1}'s army's really coming along... High time we took them down a notch, I reckon!{End}
+    {Unk2 P:27}{C1}{NameColor:32}{CharImage:33}Hm, |02,51,64{C1}'s army keeps getting stronger... Their selfish progress must be stopped by our love of honor!{End}
+    {Unk2 P:28}{C1}{NameColor:32}{CharImage:30}We can no longer overlook the growth of |02,51,64{C1}'s army... Let us fight them...with love, of course...{End}
+    {Unk2 P:29}{C1}{NameColor:32}{CharImage:30}Nah, this isn't looking too good... I think it's about time we took down |02,51,64{C1}'s army!{End}
+    {Unk2 P:30}{C1}{NameColor:32}{CharImage:31}Heavens above, |02,51,64{C1}'s army is putting on a fine display these days... How great it would be if we beat them!{End}
+    {Unk2 P:31}{C1}{NameColor:32}{CharImage:33}|02,51,64{C1}'s army just keeps growing and growing... We better prepare ourselves for attack...immediately!{End}
+    {Unk2 P:32}{C1}{NameColor:32}{CharImage:30}|02,51,64{C1}'s army is growing to formidable proportions... Let us take this opportunity to display our strength on the battlefield!{End}
+    {Unk2 P:33}{C1}{NameColor:32}{CharImage:33}We mustn't allow |02,51,64{C1}'s army to grow any more powerful. Let's prepare for battle!{End}
+    {Unk2 P:34}{C1}{NameColor:32}{CharImage:34}Man, the guys in |02,51,64{C1}'s army are getting a bit too big for their boots... Better put them in their place, eh?{End}
+    {Unk2 P:35}{C1}{NameColor:32}{CharImage:30}Well, well, |02,51,64{C1}'s army is becoming quite something... I don't think we can afford to overlook it any longer.{End}
+    {Unk2 P:36}{C1}{NameColor:32}{CharImage:33}|02,51,64{C1}'s army, eh? I suppose we'll have to face them, for the safety of our own troops.{End}
+    {Unk2 P:37}{C1}{NameColor:32}{CharImage:34}Whoa, |02,51,64{C1}'s army's getting stronger by the second... Let's take 'em down! {End}
+    {C1}{End}
+  </Text>
+  <Text ID="9">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}I haven't been involved in any battles recently...{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}I really miss the battlefield. I haven't fought in so long...{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}How long has it been since {Color:31}Nobunaga{Color:33} went into battle...?{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}I haven't been involved in any battles recently, have I?{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Not been doing any battling myself of late...{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}How long it seems since I went into battle...{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}It is so long since I've fought... I hope I'm not growing rusty.{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:34}Come to think of it, I haven't been in battle for quite a while now. {End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}It's been a good while since I've been in battle. I shall be getting out of practice...{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Not much battling recently... I daresay I'll be getting rusty at this rate!{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:30}Hey! I haven't done much battling lately, you know... I'm gonna get out of practice!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Say, I haven't been in battle for quite a while now. Heaven forbid I've gotten rusty...{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Gah, it's so long since I've fought... Hope I haven't lost it...{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}It is regrettably long since I've entered into battle...{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}No battles for me recently... I have been practicing Pokémari every day, though!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Come to think of it, it's ages since I've been in battle...{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}So long since I've fought... I do so long for a bit of excitement...{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}I've been in no battles at all of late... Life just grows duller and duller.{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}I haven't been in battle for quite a while now. Goodness, I'll be getting rusty... {End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:30}Come to think of it, I haven't really seen much of the battlefield recently.{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}I haven't battled at all of late...{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Actually, I haven't been in battle much recently, come to think of it...{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:30}I haven't been fighting at all recently... I'm gonna forget how to do it at this rate!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}How long since my last battle...?{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Man, I've not been into battle for ages... I'll lose the knack at this rate!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}It seems like a long time since I fought a battle...{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Boy, it's so long since I've fought... I'll lose my edge at this rate...{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}It's a long time since I went into battle... I'm starting to feel a bit restless.{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Come to think of it... I haven't fought for quite a while now...{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Man, I've not been into battle for ages... My fighting skills will be getting all rusty... {End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}I haven't seen a battle for quite some time now...{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:32}It's been a good while since I've been in battle. I hope I'm not losing my touch...{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}It has been too long since last I fought...{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:32}I haven't been involved in any battles recently. I sincerely fear that I might be getting rusty...{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:34}It's been a long while since I've been in battle... I think I'm forgetting how to do it!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}It feels like a very long time since I last went into battle.{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}It's been so long since I last went into battle... I'll be getting out of practice, I reckon...{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:33}Man, I haven't fought with anyone for so long... I'm dying for a bit of a battle... {End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:32}Well, it's been some while since I've been in battle... I daresay I'll be losing the knack...{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:32}It has been too long since I last savored battle...{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:32}Hey, it's been so long since my last battle! I'll have forgotten how to do it at this rate!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:32}It's been a long while since I've set foot on the battlefield...{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:32}It's been a good while since I've been in battle... I just hope my skills aren't deteriorating in the meantime...{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:32}Life's a bit boring without battles... It's been ages... {End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:32}It seems like years ago that I last went into battle... What if I've forgotten how to do it?{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:32}I can't remember the last battle we were in... It's such a waste...{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:32}It's been a good while since I've been in battle... My brain cells will be shriveling up...{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:32}It's been a good while since I've been in battle... {End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:32}It's been some time since I entered into battle... {End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:32}I haven't been into b-battle for a while...I don't think...{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:32}Well now, it's been some while since I've been in battle... I daresay I'll be losing the knack...{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:32}It's been ages since I went into battle... I hope I haven't forgotten how to do it...{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:32}Goodness, it's been a while since I was in battle...{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:32}I can't even remember the last time I went into battle...{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:32}It's been too long since I've seen the battlefield... It's not fair...{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:32}I must say, it has been a good while since I've seen battle... {End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:32}It's been just so long since I was last in battle...{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:32}Well now, it's been some while since I've been in battle... I hope I remember how to do it...{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:32}I miss the battlefield... I hope I have not lost my touch.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:32}I've been in no battles at all of late... My skills grow rusty...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:32}It's a long time since I've been into battle... I hope that I've not forgotten how to fight, I really do...{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:32}It's been a good while since I've been in battle... I just hope I'm not losing my edge...{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:32}Wow, it's been ages since I went into battle... I kinda miss it, you know...{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:32}Well now, it's been some while since I've been in battle... I'm going to lose the knack, I'm sure!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:32}It's been so long since I was in battle... Just think of all my tremendous talent going to waste... {End}
+    {C1}{End}
+  </Text>
+  <Text ID="a">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:32}...{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:32}...{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}Is that so...?{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:33}...{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Hey, don't be like that, {Color:31}Hanbei{Color:33}...!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}You're asking me?{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:33}Ha!{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}Yes, you're probably right. {End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:32}What can I say...?{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:31}Well, yes...{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:33}Hey! Don't take that tone with me, mister!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Well, now...{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}What did you say?{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}...{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Uh... Indeed.{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}What're you trying to say?{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Grown quite a mouth, haven't we, {Color:31}Hanbei{Color:33}?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}Ha...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:32}Hmm, yes...{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:32}That's the sort of thing I'd say, probably.{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}Do you have a problem of some kind?{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Yes, that sounds about right. {End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:32}Hmm...{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}...{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:32}Hey, that doesn't seem fair...{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:32}...{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}So? What do you intend to do about it?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}I have no words...{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}What are you trying to say?{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:33}Oh cripes... {End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:32}Is it really necessary to say that kind of thing?{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:32}...{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}...{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:32}...{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:34}Huh?{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}What are you saying?{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:33}...{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:33}Whaaaaat?!{End}
+    {C1}{End}
+  </Text>
+</Block>

@@ -1,0 +1,520 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Block>
+  <Text ID="0">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:31}Hooray!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:31}Hooray!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}Excellent.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:31}Wow, congratulations!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:31}Hey! Good job!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}Hm... Interesting. {End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Excellent.{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:31}Well, this is incredible!{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:31}This looks very promising indeed...{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:31}Very good.{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}Wow, that was fantastic! You did great!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Well. This is good news. {End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:31}Hey, not bad!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}That is quite something. {End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Most marvelous! {End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:31}I knew you had it in you.{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}How perfectly wonderful! {End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}Ha... Well done.{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}Excellent.{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Hey, I thought so! Yeah, you look pretty good like that!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}That is quite something. {End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}I always thought you had it in you!{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}You have no idea just how proud I am!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Well done.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:31}Hey! Now we're talkin'!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:31}Wonderful!{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Hey! Looking good!{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:31}Oh! Well, they say that love has the power to transform...{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Well done! I am so proud!{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Hey, you did great! With you by my side, I'll never lose!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}Now this... This has made my day!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}Wow! That was amazing!{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}Well done. {End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}Incredible...!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Ha! Good stuff!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}I'm relying on you, you know. {End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:31}Great! I'm feeling stronger just looking at you...{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Whoa! That's amazing! You're the best!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}Well! This is quite something!{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}This is a very heartening development!{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}Wow! You got even stronger! Amazing!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}Well, that's fantastic!{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}Wow! Excellent!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}Whoa, I like it...{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}Whoa! Whoa, now that's a result!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}Well, well, well!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}Well, this is most impressive. {End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}Well! This is... Well I say!{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}Well, this is some result!{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}W-Wow! {End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}Well! This is just splendid!{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}Wow, this is incredible!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}Oh goodness, how wonderful!{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}Unbelievable!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}Now that's a result!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}Goodness gracious!{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}Oh, now this is simply fantastic...!{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}Oh, now this is a remarkable feat!{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}It is daily devotion and diligence that has made this possible...{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}Yes...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}Oh! This is just great!{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}Incredible!{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}Wow! Well done, you!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}My, would you just look at how much you've grown!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}What a birthday present! And it isn't even my birthday!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="1">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:31}The people must have realized how much we care about them! The Pokémon seem on top of the world!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:31}The people must have realized how much we care about them! The Pokémon seem really happy too!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}Your care for the people is appreciated, it would seem. The Pokémon have also understood...{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:31}Everyone knows just how much we care about them! Even the Pokémon seem happy!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:31}See that? The people have understood how much we care about 'em! Even the Pokémon seem happy!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}It seems they appreciate what we are doing for them. The Pokémon seem pleased as well.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}So...they appreciate us looking out for them. The Pokémon seem rather pleased as well.{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:31}Excellent. It appears they recognize how much we care for them. The Pokémon seem glad, too. {End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:31}Excellent. The people have recognized your goodwill toward them. The Pokémon seem gladdened, too. {End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:31}Ho! Seems they recognize how much you care about them! The Pokémon are on top of the world too.{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}Excellent! They all know just how much we care about them! Even the Pokémon seem happy!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Now this is good news. They feel valued by us, these people. And the Pokémon are heartened, too. {End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}So, the people appreciate how great we are to them. The Pokémon seem pretty pleased as well. {End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}So... The honorable intentions of our army are clear to all. The Pokémon, too, seem impressed. {End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Ohh, how absolutely wonderful! Our people understood that we care about them! And the Pokémon seem just so delighted too!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:31}So... They all appreciate your taking care of 'em, eh? The Pokémon are pretty tickled as well.{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}So...they appreciate our goodwill toward them. The Pokémon seem pretty pleased as well.{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}Ha... So they appreciate what we're doing for them, do they...? The Pokémon seem impressed too...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:31}Great! Our goodwill toward the people has been recognized, I think! The Pokémon seem really pleased too. {End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Hey, they understand how much we care about 'em! The Pokémon seem cheery too!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}So, the people have understood how much we care about them. And the Pokémon appear to be happy as well.{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}So...they understand your kindness toward them. The Pokémon seem pretty pleased as well.{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}Okay! They must have understood how much we care about them! The Pokémon seem on top of the world!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Your kindness is recognized. The Pokémon are also happy.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Man! You see that? They understand how well you're taking care of them! Even the Pokémon seem devoted to you!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:31}Right! This must mean that they appreciate everything we are doing for them... The Pokémon seem pleased as well.{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Boy, would you look at that! I guess they understand how much we care about them, eh? The Pokémon seem pretty pleased as well. {End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:31}Now, this is the power of honor! The people can sense our great love for them! And the Pokémon too are rejoicing!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}How perfectly wonderful! The people have felt your love for them in their hearts! Even the Pokémon are brimming over with good feeling!{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:31}Hey, this is just brilliant! They understand how well you're taking care of them! Even the Pokémon seem on cloud nine!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:31}Well! They seem to really understand how much we care about them! Even the Pokémon seem happy!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}Hey, this is great news! They all sense your goodwill toward them. The Pokémon seem glad, too!{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}So, the people have understood how much we care about them. And the Pokémon appear to be happy as well.{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}Oh, how grand! Your goodwill toward the people has been rewarded! Even the Pokémon seem happy!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Great going! They've understood how much you care about 'em! Even the Pokémon seem happy!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}So, it would seem like they appreciate our goodwill toward them. The Pokémon seem rather pleased as well. {End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:31}Well... It seems like the people appreciate how much we care about them, doesn't it? The Pokémon seem pretty pleased as well. {End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Yes! They know how much we all care about them, eh? The Pokémon are pretty moved too―I can tell!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:31}Well, well... It seems they recognize your kindness toward them. The Pokémon seem glad, too. {End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:31}This means the people have understood the love we have for them. The Pokémon seem glad, too. {End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:31}Look! They've all understood our good intentions toward them! Even the Pokémon seem in great spirits!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:31}This means that the people have understood how much we care about them! And the Pokémon seem glad, too. {End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:31}The people clearly understand that everything you do is for them! The Pokémon seem happy as anything too!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:31}So... Seems like the people appreciate how much we care for them! The Pokémon seem happy as anything!{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:31}Righto! It seems like the people have noticed how much we care about them! The Pokémon are happy about it too!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:31}Great! The people have understood our generosity of spirit toward them. The Pokémon are delighted as well!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:31}This means that the people appreciate your good governance! And the Pokémon also seem heartened.{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:31}Well! I would say this means that the people have recognized our goodwill toward them! The Pokémon seem glad, too. {End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:31}It looks like the people have recognized our goodwill toward them! The Pokémon seem happy too. {End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:31}A-Amazing! The people understand that...we care about them, it seems... The P-Pokémon seem g-glad, too...{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:31}Well, well... It seems they recognize how much we care about them. The Pokémon seem glad, too. {End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:31}This is brilliant news! The people clearly understand just how much we care about them! The Pokémon seem glad, too. {End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:31}Well, well, this means that the people have perceived the love we feel toward them. The Pokémon seem gladdened, too. {End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:31}Hey, look! Sure seems like the people have realized that we care for them! The Pokémon are happy 'bout it too!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:31}Whoa, look! Seems like the people have realized that we care for them! The Pokémon are happy 'bout it too!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:31}Splendid, just splendid. The people have recognized the goodwill that we hold toward them in our hearts! The Pokémon seem gladdened, too. {End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:31}Well now! It looks as though the people understand how much we care for them! The Pokémon are so glad as well, I can just sense it!{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:31}Well, well... It seems they understand how much we care for them, doesn't it! The Pokémon seem mighty glad, too...{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:31}The people feel our love for them. The Pokémon seem pleased.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:31}Oh... They appreciate your governance, it seems... The Pokémon seem content too...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:31}This means that the people have understood our love for them. And the Pokémon seem really pleased too.{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:31}Well, now... The people have grasped how much we care about them. The Pokémon seem perky too. {End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:31}Wow! This is brilliant news! The people have understood how much we love them! The Pokémon seem really happy about it too. {End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:31}Well, that's good, isn't it! The people seem to be appreciating everything we do for them. The Pokémon seem glad, too!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:31}Fantabulous! It seems like the people appreciate how much we care for them! The Pokémon seem happy as anything!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="2">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:32}Oh dear, what a disaster. Everyone seems angry... Even the Pokémon look glum.{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:32}Oh dear, what a disaster. Everyone seems angry... Even the Pokémon look glum.{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}This great anger... The Pokémon feel it too, it seems.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:33}Oh, goodness... Everyone is angry. Even the Pokémon look a bit blue.{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:34}Would ya just look at that... Everyone's fuming! Even the Pokémon seem down. {End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}You can sense everyone's anger... Even the Pokémon seem displeased.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:34}Huh? Everyone is furious! Even the Pokémon seem displeased.{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:32}But... But... Everyone is angry! Even the Pokémon seem annoyed.{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:34}Well I never... Everyone is angry. Even the Pokémon seem annoyed.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Dear me... Everyone is angry... Even the Pokémon look down.{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:34}Aww... Everyone is angry. Even the Pokémon seem down in the mouth.{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Oh deary me. Everyone is so angry! Even the Pokémon seem out of sorts.{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}What?! What is this? Everyone is furious! Even the Pokémon seem angry.{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}Everybody is angered. Even the Pokémon seem displeased.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:32}Ohh! How terrible! Everyone is utterly furious! Even the Pokémon look glum...{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Hey, what's going down?! They're all angry! Even the Pokémon are annoyed.{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Oh goodness, everyone is furious! Even the Pokémon seem unhappy.{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}Hehe... Everyone is angry. Even the Pokémon seem unhappy...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:32}Oh, but what's this now? Everyone is angry! Even the Pokémon seem annoyed...{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:32}Cripes! Everyone is cheesed off... Even the Pokémon look glum.{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}Everybody is angered. Even the Pokémon seem displeased.{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:31}Huh? Everyone is furious! Even the Pokémon seem displeased.{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:32}This is a ca-ta-stro-phe! Everyone seems angry... Even the Pokémon look sad.{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Such anger... I feel pity for the Pokémon.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:33}Man, look at that. I don't think the people like you much... Even the Pokémon are pretty glum...{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:32}Oh, what is this? You can sense everyone's anger... Even the Pokémon seem unhappy.{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:32}Huh, what's going on? Everyone's fuming! Even the Pokémon seem fed up.{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:34}B-But...what is this?! Everyone is furious! Even the Pokémon seem glum...{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Oh goodness, everyone is furious! This is what happens, you see, when there is a lack of love... Even the Pokémon have been negatively affected by this.{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:32}Man, look at that... Everyone's angry! Even the Pokémon are sulking...{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:34}Oh, heavens... Everyone is angry. Even the Pokémon look a bit blue.{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:32}Oh, my... Everyone is angry! Even the Pokémon seem annoyed.{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}Everyone's anger grows by the minute. Even the Pokémon seem displeased.{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:32}Oh goodness, what's to be done...? Everyone is angry. Even the Pokémon look a bit blue, don't they...{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:34}Sheesh, just look at how angry they all look! Even the Pokémon are down in the mouth... {End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}What is going on? Everyone is fuming! Even the Pokémon seem angry.{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:34}What is going on? Everyone is fuming! Even the Pokémon seem angry...{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:34}Hey, what's this?! They're all angry! Even the Pokémon look real annoyed.{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:32}Well, I'll be... Everyone is fuming. Even the Pokémon seem annoyed.{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:32}Well I never... Everyone is angry! Even the Pokémon seem annoyed.{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:32}Just look at that! Everyone is angry! Even the Pokémon seem really down about it!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:32}Oh my goodness... Everyone is fuming, you know! Even the Pokémon seem a bit dejected.{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:32}What is this, now? Everyone is angry! Even the Pokémon seem pretty down in the dumps...{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:32}Whoa, what's going on? Why's everyone so angry? Even the Pokémon seem pretty down in the dumps...{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:32}Whoa, what's going on? Everyone is fuming...? Even the Pokémon seem pretty down in the dumps...{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:32}Well, I never... Everyone is angry! Even the Pokémon are disheartened.{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:32}Oh my goodness... The people are livid! Even the Pokémon seem disheartened!{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:32}Well, I never... Everyone is angry! Even the Pokémon seem disheartened.{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:32}Well, would you look at that... Everyone is angry! Even the Pokémon seem disheartened.{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:32}Oh! Oh... Everyone is s-so angry with us! Oh dear... The Pokémon seem sad too...{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:32}What a state of affairs... Everyone is fuming. Even the Pokémon seem annoyed.{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:32}Dear oh dear... Everyone is fuming! Even the Pokémon seem glum.{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:32}Well I never... Everyone appears to be angered! Even the Pokémon seem disheartened.{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:32}Man, what's going on? Everyone is hopping mad! Even the Pokémon seem out of sorts...{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:32}Whoa, what's going on? Everyone is hopping mad! Even the Pokémon seem out of spirits...{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:32}Oh, now this is most tragic! Everyone is angry! Even the Pokémon seem disheartened.{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:32}Well, I never... Everyone is angry! Even the Pokémon are so glum, I can just tell...{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:32}Well, would you just look at that... Everyone is fuming! Even the Pokémon seem annoyed.{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:32}Everyone is angry. Even the Pokémon seem dejected.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:32}Oh... Everyone is angry... Even the Pokémon seem unhappy...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:32}Oh... Everyone is angry. Even the Pokémon seem dejected...{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:32}It looks to me as though everyone is angry. Even the Pokémon seem disheartened.{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:32}Oh no! Everyone is so angry! Even the Pokémon seem glum.{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:32}Oh deary me! Everyone is angry, it seems! Even the Pokémon seem a bit down in the dumps...{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:32}Catastrophic! Everyone is angry! Even the Pokémon seem down in the dumps...{End}
+    {C1}{End}
+  </Text>
+  <Text ID="3">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:31}Hey, we've found a good few allies now! The Pokémon seem on top of the world!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:31}Hey, we've found quite a few allies now! The Pokémon seem on top of the world!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}{Color:31}Nobunaga{Color:33} sees your army has grown some. The Pokémon are sharing in your delight.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:31}We've got a lot more allies now! The Pokémon seem delighted as well!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:31}Hey, we're doing pretty well in terms of gathering allies! The Pokémon seem to be pretty pleased on that score as well!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}It looks like we've found ourselves some allies... The Pokémon appear pleased as well.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Our circle of allies has grown. Splendid. The Pokémon appear rather pleased as well.{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:31}We're doing well with expanding our group of allies! The Pokémon seem pleased too.{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:31}We're picking up a lot more allies, it seems. The Pokémon are pleased about it too.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:31}Ho! We've got a fine set of Warriors for our army now! The Pokémon seem delighted!{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}Wonderful! We've got a lot more allies now! The Pokémon seem chirpy about it as well!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}We have found many kindred spirits to join us! The Pokémon are pleased too.{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}We have quite a sizeable army these days! The Pokémon seem happy about it too!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}We now have more Warriors in our army. The Pokémon too appear satisfied by this development.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Oh, look! We have so many new chums! The Pokémon seem delighted!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:31}Hey, has our army got to a pretty decent size or what?! See, the Pokémon are happy about it too.{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Our band of allies has grown. How nice. The Pokémon appear satisfied as well.{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}We're getting to have quite a few Warriors in our ranks... The Pokémon seem pleased about it...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:31}Well, well! We're doing pretty good with expanding our group of allies, you know! The Pokémon seem really very happy about it too.{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Hey, we've got quite a big group of allies now! The Pokémon seem to like that!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}We now have more Warriors in our army. The Pokémon, too, appear satisfied by this development.{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Our army has grown pretty large. The Pokémon appear quite pleased as well.{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}Hey, we've got a fine little circle of allies now! The Pokémon seem on top of the world about it!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Our army has grown considerably. The Pokémon are delighted.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Hey, look! We've got loads more allies now! The Pokémon seem to be pretty pleased on that score as well, no?{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:31}We've got ourselves quite a few allies now! The Pokémon obviously appreciate it too!{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Look at the size of our army! The Pokémon sure seem happy to have so many friends!{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:31}The number of Warriors in our army's service has risen! The Pokémon are delighted as well.{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Our band of allies has grown! Behold how pleased the Pokémon appear to be by this.{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:31}Hey! Have you seen how many allies we've got now? The Pokémon seem pleased about it too.{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:31}Oh wow, look how many allies we have now! The Pokémon seem delighted as well!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}Look at all the Warriors we have in our army now! The Pokémon seem pleased about it too!{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}We now have a good few Warriors in our army. The Pokémon too appear well pleased.{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}Just look at how many allies we have now! The Pokémon seem delighted as well!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}I'd say we're doing pretty well in terms of gathering allies! The Pokémon seem to be pretty pleased on that score as well!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}The number of Warriors in our army's service has risen. The Pokémon appear pretty contented as well.{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:31}Well, our army isn't doing badly for numbers these days! The Pokémon appear pretty happy as well.{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Hey, has our army got to a pretty decent size or what?! See, the Pokémon are real happy about it too.{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:31}Well, it seems like our band of allies has reached a respectable size. The Pokémon seem pleased too, I'd say.{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:31}We have a lot more allies these days, haven't we! The Pokémon seem pleased about it too.{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:31}We're picking up lots more allies, by the looks of things! The Pokémon seem pleased about it too.{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:31}We've picked up quite a good group of allies, haven't we! The Pokémon seem pleased about it too.{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:31}Our band of allies is growing larger and larger! The Pokémon are really pleased about it too!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:31}Hey, our band of allies is getting bigger and bigger! The Pokémon are really pleased about it too!{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:31}Hey, our army's pretty big now, you know! The Pokémon seem pleased about it too!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:31}We've got a lot more allies these days, haven't we! The Pokémon seem pleased about it too.{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:31}Our army has grown to quite an impressive size! The Pokémon seem heartened by this development too.{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:31}Well, if our army hasn't grown to a pretty decent size... The Pokémon seem pleased about it too.{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:31}Our army has reached a pretty decent size, hasn't it! The Pokémon seem pleased about it too!{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:31}Our a-army has g-grown...quite a lot! The Pokémon seem p-pleased about it too...I think...{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:31}Goodness, it seems like our little group of allies is flourishing! The Pokémon seem pleased too, I'd say.{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:31}Hey, our army's grown to a pretty decent size! The Pokémon seem pleased about it too.{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:31}Look how many allies we have now! The Pokémon are delighted as well!{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:31}I've never served in an army as large as this one! The Pokémon seem pleased about it too!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:31}Hey, we've got a good few men in our army now, you know! The Pokémon seem pleased about it too!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:31}Well, if our army hasn't grown to a pretty decent size... The Pokémon seem most pleased about it too.{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:31}Well now, if our army hasn't grown to a pretty decent size... The Pokémon are simply delighted about it too, I can just tell...{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:31}Well now, it seems our army is starting to reach a good size! The Pokémon seem pleased too, I'd say.{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:31}Our band of allies has grown to a decent size. The Pokémon seem pleased too.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:31}We have quite a few Warriors in our army, you know... The Pokémon seem pretty happy about it...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:31}Our band of allies has grown to a decent size! The Pokémon are really pleased about it too.{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:31}We have quite a decent number of allies these days. The Pokémon seem pleased about it too.{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:31}Hey, look how many allies we've got now! Quite a lot! The Pokémon are happy about it too!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:31}Well now, it seems like our little group of allies has grown to a fine size! The Pokémon seem pleased too, don't they!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:31}Hey, our army is getting bigger than ever! The Pokémon seem pleased about it too!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="4">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:31}Hey, congratulations! We've got a total of 50 allies! The Pokémon seem really happy to have so many friends around!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:31}Hey, congratulations! We've got a total of 50 allies! The Pokémon seem really happy to have so many friends around!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}You now have 50 Warriors in your army. Even the Pokémon seem gladdened by this.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:31}Wow, congratulations! We've got 50 allies now! The Pokémon seem really happy to be surrounded by friendly faces!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:31}Hey, congratulations! We've reached 50 allies! The Pokémon seem pretty thrilled about it too!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}Fifty allies, now, is it? The Pokémon seem humored by this development too.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}So, we now have some 50 allies! The Pokémon seem to appreciate our strength too.{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:31}Well, congratulations are in order! We've got to a total of 50 allies! The Pokémon are overjoyed as well.{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:31}Excellent news. We've reached a total of 50 allies! The Pokémon are overjoyed to be surrounded by familiar faces.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:31}Ho! We've got to 50 allies! The Pokémon are rejoicing. {End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}Hey, congrats! We've got to 50 allies! The Pokémon seem over the moon with all their new friends!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Well. It seems congratulations are in order. Our army now numbers 50! The Pokémon are celebrating as well.{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}So, our army now numbers 50! Excellent! I reckon the Pokémon are pretty pleased by the fact as well!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}The number of our allies has reached 50. The Pokémon too appear satisfied by this development.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Marvelous! We've got 50 delightful friends now! The Pokémon are rejoicing. {End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:31}What, we've got 50 Warriors already?! Hey, that ain't bad... The Pokémon seem pretty tickled as well.{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}My word, we have as many as 50 allies! The Pokémon seem over the moon.{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}We now have 50 allies, it seems... The Pokémon appear pleased about it too...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:31}Well, I say! We've reached a total of 50 allies, you know! The Pokémon seem overjoyed about it too.{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Wow, congratulations! So, our number of allies has now reached 50! The Pokémon seem super happy to have all these friends as well!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}The number of members in our army has finally reached 50. The Pokémon appear pleased to have found so many friends. {End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Well, our army has reached the grand size of 50! Not that I'd expect anything less of you, of course... The Pokémon seem impressed too.{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}Hey, great news! We've reached 50 allies! The Pokémon seem really happy to have so many friends around all the time!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Our army now numbers 50. The Pokémon are delighted to have new friends.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Congratulations are in order! Fifty allies! The Pokémon seem like they're celebrating too!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:31}Congratulations! You now have 50 allies! The Pokémon seem happy to have more friends around, too. {End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Boy, you're not doing half bad! We've got 50 allies now, you know! The Pokémon seem excited, too.{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:31}This is a genuine cause for celebration! Your army now has a grand total of 50 members! The Pokémon are delighted to have so many companions.{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Heartfelt congratulations! You've made it to 50 allies! Just look how happy the Pokémon are to have so many companions around them.{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Hey, congratulations! I heard we've got to a total of 50 allies... Seems to me the Pokémon are loving having so many friends around!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:31}Well, heavens! What's this I hear about you having 50 allies now? Just look at how delighted the Pokémon are!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}Congratulations are due! You've got an army of 50 Warriors now! The Pokémon are overjoyed to have so many friendly faces around!{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}There are now some 50 Warriors in our army. The Pokémon appear pleased to have so many friends around. {End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}Oh, congratulations! Fifty allies in your army! The Pokémon seem genuinely delighted!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Hey, I heard the news! You've got 50 Warriors in your army! The Pokémon are pleased as anything to have so many pals around. {End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}Congratulations are in order. I have conducted a head count, and you'll be pleased to know that we now have 50 Warriors. The Pokémon seem pleased as well.{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:31}Hey, congratulations! You've got 50 Warriors in your army! The Pokémon are glad to have lots of new friends too.{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Whoa, congrats! Our army's got 50 Warriors already? That's not half bad, you know! The Pokémon seem pretty tickled as well.{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:31}Great news! We've reached a total of 50 allies! The Pokémon are overjoyed as well.{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:31}Congratulations! We have reached a total of 50 allies! The Pokémon are overjoyed as well.{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:31}Congratulations! We've now got 50 allies! The Pokémon are overjoyed to have so many friends around them, too!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:31}Congratulations! We've got 50 allies now! The Pokémon are overjoyed to have so many friends around them.{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:31}Well, congratulations! Did you realize that we've got 50 allies now? With so many friends around, the Pokémon are in their element...{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:31}Well, congratulations! Did you realize that we've got 50 allies now? With so many friends around, the Pokémon are happier than ever!{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:31}Congratulations! Did you realize that we've got 50 allies now! The Pokémon really like having all these friends around...{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:31}Congratulations! We've reached a total of 50 allies! The Pokémon are overjoyed to have so many friends around them.{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:31}Heartfelt congratulations! Our army has reached 50 members! The Pokémon are overjoyed to have so many friendly faces around.{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:31}Congratulations! We've reached a total of 50 allies! The Pokémon are delighted to have all these friends around them... {End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:31}Congratulations! We've reached a total of 50 allies! The Pokémon are delighted to have all these friends around them... {End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:31}Oh, c-congratulations! We've got 50 allies now, haven't we... The Pokémon l-look happy with all these friends around them...I think... {End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:31}Well now, this deserves congratulations! We've reached a total of 50 allies! The Pokémon look very happy as well, I'd say.{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:31}Congratulations! We've reached a total of 50 allies, you know! The Pokémon are so happy to be surrounded by friendly faces... {End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:31}Congratulations! It seems we've reached a total of 50 allies! The Pokémon are overjoyed to be surrounded by those they can trust.{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:31}It's celebration time! Did you realize that we've got 50 allies now? Seems the Pokémon like having all these friends around too...{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:31}Hey, congrats! Our army's reached the grand size of 50! Seems the Pokémon are happy to have all these people around too!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:31}I congratulate you! Our army now numbers 50 members! The Pokémon are delighted to have all these friends around them... {End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:31}Well, congratulations! We've reached a total of 50 allies now! The Pokémon are simply overjoyed to have all these friends around them, I can just tell... {End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:31}Well now, this deserves congratulations! We've got all of 50 members in our army now! The Pokémon look very happy as well, I'd say.{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:31}Congratulations. Did you realize that we now have 50 allies? With so many friends around, the Pokémon are in their element...{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:31}Congratulations... The number of allies in our army has reached 50. The Pokémon seem happy to have so many friends about too...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:31}This deserves congratulations! Did you know that we now have 50 allies? The Pokémon are so happy to have all these friends around... {End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:31}Congratulations. I don't know if you realize, but we've reached a total of 50 allies. The Pokémon are overjoyed as well.{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:31}Hey, congratulations! We've reached a total of 50 allies, you know! The Pokémon look really happy to be surrounded by all these friendly faces... {End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:31}Well now, this deserves congratulations! We've reached a total of 50 allies! The Pokémon look delighted as well, don't they!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:31}Splendid work! Our army has 50 members now! That's...that's half of a hundred! The Pokémon are happy to have so many friends around!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="5">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}Just what are we going to do with all this {Color:32}junk{Color:33}...? {End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}What on earth are we going to do with all this {Color:32}junk{Color:33}...? {End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}{Color:32}Junk{Color:33}, mere {Color:32}junk{Color:33}...{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}Oh... We've got a lot of {Color:32}junk{Color:33}, haven't we...? What should we do with it, I wonder... {End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Oh man, looks like we've picked up a fair bit of {Color:32}junk{Color:33}. What on earth do we do with this stuff?{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}Hm, more {Color:32}junk{Color:33}... Well, no matter.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Ha! More {Color:32}junk{Color:33}! Forever in the way...{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}Oh dear, more {Color:32}junk{Color:33}... If only we could put it to some purpose.{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}There is quite a bit of {Color:32}junk{Color:33} building up.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Oh dear. More {Color:32}junk{Color:33}, I see...{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:30}Aww, no... Look at all this {Color:32}junk{Color:33}...{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}{Color:32}Junk{Color:33}, everywhere I look... Is there nothing we can do with it?{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Gah... More {Color:32}junk{Color:33}! Won't someone do something about it...?{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}More {Color:32}junk{Color:33}. What to do about it? {End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Ohh, more {Color:32}junk{Color:33}... But what remarkable colors... {End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}All this {Color:32}junk{Color:33}. Can't we do something about it? {End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:30}Surrounded by {Color:32}junk{Color:33}! I ask you...{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}Ha... Yet more {Color:32}junk{Color:33}...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}Dear, oh dear, look at all this {Color:32}junk{Color:33}! What's to be done, I wonder...{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:30}There's a lot of {Color:32}junk{Color:33} about... It's kinda getting in the way, don't you think?{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}More {Color:32}junk{Color:33}...{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Oh, more {Color:32}junk{Color:33}... What to do, what to do...?{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:30}Hmm... There's so much {Color:32}junk{Color:33} around... {End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}More {Color:32}junk{Color:33}... It is unnecessary.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Man, what's with all this {Color:32}junk{Color:33}? If only there were something to do with it...{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}More {Color:32}junk{Color:33}... Can't we find some kind of use for it?{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Building up a fine collection of {Color:32}junk{Color:33}, aren't we...{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:34}Oh heavens, more {Color:32}junk{Color:33}... It's not right, I tell you...{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Goodness, so much {Color:32}junk{Color:33}! It isn't very nice, is it...{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Man, what's with all this {Color:32}junk{Color:33}?! Isn't there some way to get rid of it?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}Heavens, I've never seen so much {Color:32}junk{Color:33}... Is there anything to be done about it?{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:30}There's quite a bit of {Color:32}junk{Color:33} building up, wouldn't you say? What do we do with it all?{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}More {Color:32}junk{Color:33}...{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:30}Oh goodness, more {Color:32}junk{Color:33}. Is there not something we can do with it?{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:34}Man, what's with all this {Color:32}junk{Color:33}? Can't we find some use for it?{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}Hm, more {Color:32}junk{Color:33}... Always in the way...{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}Hm, more {Color:32}junk{Color:33}... Isn't there something we can do with this stuff?{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:30}Man, would you just look at all this {Color:32}junk{Color:33}! Actually, it's kinda cool when you look real close...{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}Well well, look at all this {Color:32}junk{Color:33}...{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}What to do with all this {Color:32}junk{Color:33}?{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}Oh my, would you just look at all this {Color:32}junk{Color:33}?!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}Well, would you just look at all this {Color:32}junk{Color:33}! What on earth are we supposed to do with all this?{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}Every time I look, there's more {Color:32}junk{Color:33}! What are we supposed to do with it?{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}Whoa, I've never seen so much {Color:32}junk{Color:33} in one place at one time! What a headache...{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}Whoa... {Color:32}Junk{Color:33} everywhere I look... Isn't there something we can do about this?{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}Look at all this {Color:32}junk{Color:33} we've amassed! It's pretty interesting to look at... {End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}Well, would you just look at all this {Color:32}junk{Color:33}! What is to be done about it?{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}Would you just look at all this {Color:32}junk{Color:33}! Is there anything to be done about it?{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}Look at all this {Color:32}junk{Color:33} we've collected... What shall we do about it?{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}Oh... S-So much {Color:32}junk{Color:33}... Can we d-do anything?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}There's more {Color:32}junk{Color:33} here than I've had hot dinners... What do we do with it?{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}Wow, what a lot of {Color:32}junk{Color:33}! What in the world can we do with it?{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}Well, to think that we'd pick up so much {Color:32}junk{Color:33}! Yet the more one looks, the more interesting it is...{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}So much {Color:32}junk{Color:33}! We should do something about it...{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}Man, this {Color:32}junk{Color:33} is a pain in the neck...{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}Well, this is a fine collection of {Color:32}junk{Color:33}! Is there anything to be done about it?{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}Would you look at all this {Color:32}junk{Color:33}! It's just so unbearable... {End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}There's so much {Color:32}junk{Color:33} around these days! I've no idea what to do about it...{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}We are surrounded by {Color:32}junk{Color:33}. Is there no use we can put it to?{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}Lots of {Color:32}junk{Color:33}... Can't we do something about it...?{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}We've got so much {Color:32}junk{Color:33} now! This is a problem...{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}This {Color:32}junk{Color:33} is forever getting in the way. Can't we find some solution?{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}Wow, can you believe all this {Color:32}junk{Color:33}?! What should we do about it?{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}Well now, what's with all this {Color:32}junk{Color:33}? Can't we find a use for all this, I wonder?{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}Look at all this {Color:32}junk{Color:33}! There's some people who'd go nuts for this, I'm sure... {End}
+    {C1}{End}
+  </Text>
+  <Text ID="6">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}This is a bit sudden, but I've seen what a good job you're all doing, and I'd like to appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}I know this is sudden, but I've seen what a good job you're all doing, and I'd like to appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}You're here. {Color:31}Nobunaga{Color:33} shall make you the Four Guardians of his army.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}Sorry, this is a bit out of the blue... But I've seen how powerful you are, and I'd like to appoint you as the Four Guardians of our army!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Hey there! You guys seem pretty strong... I think I wanna appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}I admire your strength. I think I'll appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}You've served well. I'm impressed by your great strength. I would like to appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}I know this may seem sudden, but I've been bowled over by your performance... I would like to appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}I am in awe of your great might. I would like to appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Your skills in battle impress me... I'd like to appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:30}Sorry to spring this on you guys... But I've seen how hard you're working, and I'd like to appoint you as the Four Guardians of our army!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Well now, I have something to tell you. I am overawed by your talents, and I would like to appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}It is I who summoned you all here. I'm impressed by your performance... I'm thinking of appointing you as the Four Guardians of our army.{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}You displayed not inconsiderable capability. I will thus appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Your skills are very impressive to me, you know! I'd like to appoint you as the Four Guardians of our army!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Yeah... Thing is...I wanna appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:30}Congratulations. In fact, I am so impressed by your performance, I would like to appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}I'm appointing you as the Four Guardians of our army...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}This may seem a bit out of the blue...but I'm most impressed by your talent... And so I'd like to appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:30}Good work, everyone! I'm pretty impressed by your performance, and so I'd like to appoint you as the Four Guardians of this army.{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}Fine work. I have recognized your capability. I would thus like to appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}I know this might come out of the blue, but I couldn't help but notice your talent. I would like to appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:30}Hey, you're here! So! Thing is, I've seen how super powerful you are, and I'd like to appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}I appoint you our army's Four Guardians.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Man, you guys are amazing... I think I wanna appoint you as the Four Guardians of our army!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}I know this is out of the blue... But you have served admirably. I would like to appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Yup, so the thing is...I'm so impressed by you guys that I'm thinking of appointing you as the Four Guardians of our army.{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}Your talents are most valued here! So much so that I have decided to appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}I have been deeply affected by your fantastic performance... And so, I would like to appoint you as the Four Guardians of our army!{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Sorry to take you by surprise, but the truth is I'm so impressed by you that I think I wanna appoint you as the Four Guardians of our army!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:31}Well, hello there, everyone. I'd like to appoint you as the Four Guardians of our army!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:30}Sorry to spring this on you like this, but I'm seriously impressed by your talents. I would like to appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}Fine work. I'm impressed by your talents. I would like to appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:30}I hope you don't find me rude, coming up to you like this. Actually, I'm very impressed by your performance, and I'd like to appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Hey, sorry to spring this on you guys, but I'm really impressed by you... I think I wanna appoint you as the Four Guardians of our army!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}You've worked hard. I'm so impressed by your performance that I'm going to appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}I know this is a bit sudden... Thing is, I'm so impressed by your performance that I've decided to appoint you as the Four Guardians of our army.{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:30}Hey! You're here! Y'know, you guys are real good! And that's why I wanna appoint you as the Four Guardians of our army. You're cool with that, right?{End}
+    {C1}{End}
+  </Text>
+  <Text ID="7">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:31}I'll make full use of my power!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:31}I'll make full use of my power!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}Hehe... Power...{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:34}M-Me? Wow, really?{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:31}Wa-hey! So my power was good for something after all!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}I will continue to use my strength in a way that befits a man like myself.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Well and good. Long may I continue to wield my strength for your cause.{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:34}Well, it's not all that often that I am selected for my strength!{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:31}I shall continue to wield my strength to the best of my ability.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:31}I'll continue to put my power to its fullest use!{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:34}Well yeah, now that you mention it, I guess I am quite powerful!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Well, now! I shall endeavor to keep my strength up. {End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Long may {Color:31}Masamune{Color:33}'s power endure!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}I shall continue to wield my strength as best I can. {End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}I'll continue to put my magnificent power to its full use!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Power, eh...? Well, all right. {End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Power...? Surely I have other qualities more deserving of praise?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}I am the Guardian of Power...?{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:31}If my strength is sufficient for you, then I shall try to use it as best I can!{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:30}Hmm? I usually prefer thinking over fighting, but whatever!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}Hm? Power?{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Well and good. Long may I continue to wield my power to the best of my ability.{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:34}I'm the strongest? That's a bit of a surprise, I gotta tell you!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}My strength is yours.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:34}Huh? Power, huh? You're kidding, right?{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:33}I shall continue to use my power as best I can!{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}And I'm only gonna get better, I promise you!{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:31}My power is the power that comes from truth and honor!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Well, well... I'm sure that there must be others with more power than me...{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Wo-Wow! Thanks! But...power? Really?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:34}Well, heavens! I'm the strongest, you say?{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}Well, if my power is sufficient for you, then...{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}I cannot find the words to express my gratitude.{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}I shall endeavor to always use my power as best as I can!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Yep, that's right! When it comes to power, there's nobody that can beat me!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}Power, you say? Me?{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:31}I shall continue to use my power to protect this army as best as I can. {End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Yes! I'm just gonna keep getting stronger, y'know!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:31}I shall continue to wield my strength to the best of my ability!{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:31}I shall continue to wield my strength to the best of my ability!{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:31}I'll try to always use my power as best I can!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:31}I shall continue to wield my strength to the best of my ability!{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:31}I shall continue to wield my strength to the best of my ability!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:31}I'll continue to use my strength as best I can!{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:31}I'll always fight with all the strength I have!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:31}I shall continue to wield my strength to the best of my ability!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:31}I always rated my mental abilities higher than my power, I must say...{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:31}Oh... I would have thought my wisdom was more valued... {End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:31}Well, there you are... I would have thought my wisdom would be of greater service...{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:31}H-Huh? M-Me?!{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:31}Well! It seems that not everything deteriorates with age, then...{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:31}I hope to grow more and more powerful!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:31}Oh! I'm the strongest, you say? Well!{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:31}I'll always fight with all the strength I have!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:31}I'll always try and be as strong as I can!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:31}My power? Now this is certainly a surprise...{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:31}Well now! I shall try to grow even more powerful...{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:31}I shall continue to put my power to the best use that I can... {End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:31}I shall continue to wield my strength as best I can. {End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:31}I shall strive to grow ever stronger...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:31}I shall continue to wield my strength in your service!{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:31}I shall strive to grow ever stronger.{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:31}I'm just gonna keep getting more and more powerful, you know!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:31}You see! I'm more powerful than I might look, eh!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:31}Yeah! I'll keep going strong!{End}
+    {C1}{End}
+  </Text>
+</Block>

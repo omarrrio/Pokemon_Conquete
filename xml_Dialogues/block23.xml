@@ -1,0 +1,520 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Block>
+  <Text ID="0">
+    {Unk2 P:0}{C1}{NameColor:30}{CharImage:34}Huh? What? Surely not!{End}
+    {Unk2 P:1}{C1}{NameColor:30}{CharImage:34}How on earth...?!{End}
+    {Unk2 P:2}{C1}{NameColor:30}{CharImage:31}Ha... How fitting.{End}
+    {Unk2 P:3}{C1}{NameColor:30}{CharImage:34}Ah! How could this happen...?{End}
+    {Unk2 P:4}{C1}{NameColor:30}{CharImage:32}This is it, huh? I sure never thought it'd end this way...{End}
+    {Unk2 P:5}{C1}{NameColor:30}{CharImage:30}Very well...{End}
+    {Unk2 P:6}{C1}{NameColor:30}{CharImage:34}Huh?!{End}
+    {Unk2 P:7}{C1}{NameColor:30}{CharImage:32}Well, I suppose battle always contains unexpected elements...{End}
+    {Unk2 P:8}{C1}{NameColor:30}{CharImage:32}Such an unfortunate turn...{End}
+    {Unk2 P:9}{C1}{NameColor:30}{CharImage:30}The unexpected! That's what makes the battlefield so exciting...{End}
+    {Unk2 P:10}{C1}{NameColor:30}{CharImage:34}Uh-oh... What a way to go.{End}
+    {Unk2 P:11}{C1}{NameColor:30}{CharImage:30}I don't believe it...{End}
+    {Unk2 P:12}{C1}{NameColor:30}{CharImage:33}Argh...!{End}
+    {Unk2 P:13}{C1}{NameColor:30}{CharImage:33}I see...{End}
+    {Unk2 P:14}{C1}{NameColor:30}{CharImage:34}Ohh... Oh no!{End}
+    {Unk2 P:15}{C1}{NameColor:30}{CharImage:33}Argh! We've been tricked... {End}
+    {Unk2 P:16}{C1}{NameColor:30}{CharImage:31}Well, I enjoy the odd surprise now and then...{End}
+    {Unk2 P:17}{C1}{NameColor:30}{CharImage:31}Ha... How amusing.{End}
+    {Unk2 P:18}{C1}{NameColor:30}{CharImage:32}What's this...?!{End}
+    {Unk2 P:19}{C1}{NameColor:30}{CharImage:32}Why would that happen...?{End}
+    {Unk2 P:20}{C1}{NameColor:30}{CharImage:30}This is but a trifling thing.{End}
+    {Unk2 P:21}{C1}{NameColor:30}{CharImage:30}Oh, what a pain... {End}
+    {Unk2 P:22}{C1}{NameColor:30}{CharImage:34}Oh! What a shock...{End}
+    {Unk2 P:23}{C1}{NameColor:30}{CharImage:30}I will retreat.{End}
+    {Unk2 P:24}{C1}{NameColor:30}{CharImage:30}Whoops!{End}
+    {Unk2 P:25}{C1}{NameColor:30}{CharImage:32}No... I have proven unworthy...{End}
+    {Unk2 P:26}{C1}{NameColor:30}{CharImage:32}I did not see that coming.{End}
+    {Unk2 P:27}{C1}{NameColor:30}{CharImage:34}Oh... How embarrassing... {End}
+    {Unk2 P:28}{C1}{NameColor:30}{CharImage:30}Oh, goodness... To think this could happen...to me... {End}
+    {Unk2 P:29}{C1}{NameColor:30}{CharImage:34}Hey, hold on a moment! That's not fair!{End}
+    {Unk2 P:30}{C1}{NameColor:30}{CharImage:34}Oh! What happened there?{End}
+    {Unk2 P:31}{C1}{NameColor:30}{CharImage:34}No...{End}
+    {Unk2 P:32}{C1}{NameColor:30}{CharImage:30}Hmm...{End}
+    {Unk2 P:33}{C1}{NameColor:30}{CharImage:32}Oh, how embarrassing... {End}
+    {Unk2 P:34}{C1}{NameColor:30}{CharImage:34}Well, you gotta roll with the punches.{End}
+    {Unk2 P:35}{C1}{NameColor:30}{CharImage:32}Did I make some miscalculation?{End}
+    {Unk2 P:36}{C1}{NameColor:30}{CharImage:34}Gah! I messed up...{End}
+    {Unk2 P:37}{C1}{NameColor:30}{CharImage:34}This is how it ends? You got to be kiddin' me. {End}
+    {Unk2 P:100}{C1}{NameColor:30}{CharImage:34}Oh... I can't believe I let this happen... {End}
+    {Unk2 P:101}{C1}{NameColor:30}{CharImage:34}Oh... I have blundered...{End}
+    {Unk2 P:102}{C1}{NameColor:30}{CharImage:34}Huh?! What?! I can't believe I let this happen! {End}
+    {Unk2 P:103}{C1}{NameColor:30}{CharImage:34}Oh... How careless I have been... {End}
+    {Unk2 P:104}{C1}{NameColor:30}{CharImage:34}Over already? I can't believe it...{End}
+    {Unk2 P:105}{C1}{NameColor:30}{CharImage:34}Oops... They caught me off guard...{End}
+    {Unk2 P:106}{C1}{NameColor:30}{CharImage:34}What on earth...?{End}
+    {Unk2 P:107}{C1}{NameColor:30}{CharImage:34}Oh, dear... I can't believe that I allowed this to happen... {End}
+    {Unk2 P:108}{C1}{NameColor:30}{CharImage:34}Oh dear... What a state of affairs...{End}
+    {Unk2 P:109}{C1}{NameColor:30}{CharImage:34}Oh... How careless I was to let this happen... {End}
+    {Unk2 P:110}{C1}{NameColor:30}{CharImage:34}Oh no! How could I have let something like this happen?!{End}
+    {Unk2 P:111}{C1}{NameColor:30}{CharImage:34}Oh... O-Oh no... I m-m-messed it all u-up...{End}
+    {Unk2 P:112}{C1}{NameColor:30}{CharImage:34}Hm... It looks like I wasn't paying enough attention... {End}
+    {Unk2 P:113}{C1}{NameColor:30}{CharImage:32}Argh... Why now?{End}
+    {Unk2 P:114}{C1}{NameColor:30}{CharImage:34}Oh goodness... This is just too much...{End}
+    {Unk2 P:116}{C1}{NameColor:30}{CharImage:34}What?! I should have paid more attention... {End}
+    {Unk2 P:117}{C1}{NameColor:30}{CharImage:34}Huh?! You gotta be kidding, right...?{End}
+    {Unk2 P:118}{C1}{NameColor:30}{CharImage:34}Oh... How careless I've been...{End}
+    {Unk2 P:119}{C1}{NameColor:30}{CharImage:34}Oh... I simply can't believe this has happened... {End}
+    {Unk2 P:121}{C1}{NameColor:30}{CharImage:34}Ho ho... Well that one totally escaped my notice...{End}
+    {Unk2 P:122}{C1}{NameColor:30}{CharImage:34}I bring shame upon my clan.{End}
+    {Unk2 P:123}{C1}{NameColor:30}{CharImage:34}The shame...{End}
+    {Unk2 P:124}{C1}{NameColor:30}{CharImage:34}Oh... This is a pathetic state of affairs, this is... {End}
+    {Unk2 P:125}{C1}{NameColor:30}{CharImage:34}What! Oh, how careless I've been... {End}
+    {Unk2 P:126}{C1}{NameColor:30}{CharImage:34}Oh noooo! How was I supposed to know this was gonna happen?!{End}
+    {Unk2 P:128}{C1}{NameColor:30}{CharImage:34}Oh dear, oh dear... This was all my fault... {End}
+    {Unk2 P:129}{C1}{NameColor:30}{CharImage:34}Oh... This is just too much... {End}
+    {C1}{End}
+  </Text>
+  <Text ID="1">
+    {Unk2 P:0}{C1}{NameColor:30}{CharImage:32}Oh no... How could this have happened?{End}
+    {Unk2 P:1}{C1}{NameColor:30}{CharImage:32}Oh no... How could this have happened?{End}
+    {Unk2 P:2}{C1}{NameColor:30}{CharImage:31}So... {Color:31}Nobunaga{Color:33} is destined to perish in this chaos...{End}
+    {Unk2 P:3}{C1}{NameColor:30}{CharImage:32}So I was of no use, after all...{End}
+    {Unk2 P:4}{C1}{NameColor:30}{CharImage:32}Noooo! My dreams...shattered...{End}
+    {Unk2 P:5}{C1}{NameColor:30}{CharImage:31}Pah... So this is the end for me, is it?{End}
+    {Unk2 P:6}{C1}{NameColor:30}{CharImage:33}The dreams of an entire clan... Crushed!{End}
+    {Unk2 P:7}{C1}{NameColor:30}{CharImage:32}Well, well... So this is the end...{End}
+    {Unk2 P:8}{C1}{NameColor:30}{CharImage:32}So this will be where I draw my last breath...{End}
+    {Unk2 P:9}{C1}{NameColor:30}{CharImage:30}The end, you say? I must be losing my edge...{End}
+    {Unk2 P:10}{C1}{NameColor:30}{CharImage:34}Aww! Now I've gone and done it! {End}
+    {Unk2 P:11}{C1}{NameColor:30}{CharImage:30}I let you down, didn't I...{End}
+    {Unk2 P:12}{C1}{NameColor:30}{CharImage:33}Argh... Now my dreams will never come true...{End}
+    {Unk2 P:13}{C1}{NameColor:30}{CharImage:30}Battle with one's mortal enemy... So this is how it is to end...{End}
+    {Unk2 P:14}{C1}{NameColor:30}{CharImage:34}Ohh, this is the end? Really?{End}
+    {Unk2 P:15}{C1}{NameColor:30}{CharImage:33}Hmph! Nothing ever turns out right, does it... {End}
+    {Unk2 P:16}{C1}{NameColor:30}{CharImage:30}This is the end? Oh, but how dull!{End}
+    {Unk2 P:17}{C1}{NameColor:30}{CharImage:31}Ha. A fitting end for this chaotic world...{End}
+    {Unk2 P:18}{C1}{NameColor:30}{CharImage:32}Oh... I am shamed at failing to live up to your expectations...{End}
+    {Unk2 P:19}{C1}{NameColor:30}{CharImage:32}Oh dear... Things just never go right, do they?{End}
+    {Unk2 P:20}{C1}{NameColor:30}{CharImage:30}My goals remain unfulfilled...{End}
+    {Unk2 P:21}{C1}{NameColor:30}{CharImage:30}So this is it, eh? What on earth will {Color:31}Ginchiyo{Color:33} say?{End}
+    {Unk2 P:22}{C1}{NameColor:30}{CharImage:32}No! How will I ever be able to face my father now...?{End}
+    {Unk2 P:23}{C1}{NameColor:30}{CharImage:30}The weak are destined to disappear.{End}
+    {Unk2 P:24}{C1}{NameColor:30}{CharImage:34}Oh man! No way! I don't believe it...{End}
+    {Unk2 P:25}{C1}{NameColor:30}{CharImage:32}My will wasn't strong enough...{End}
+    {Unk2 P:26}{C1}{NameColor:30}{CharImage:32}Well, well... So this is how it ends, eh...?{End}
+    {Unk2 P:27}{C1}{NameColor:30}{CharImage:34}Oh... To think that my mission on this earth will go unfulfilled...{End}
+    {Unk2 P:28}{C1}{NameColor:30}{CharImage:30}How embarrassing for it to all end in this way...{End}
+    {Unk2 P:29}{C1}{NameColor:30}{CharImage:32}What?! No! This can't be happening!{End}
+    {Unk2 P:30}{C1}{NameColor:30}{CharImage:30}Over... Just like a dream... {End}
+    {Unk2 P:31}{C1}{NameColor:30}{CharImage:32}Now my ambitions will never be realized...{End}
+    {Unk2 P:32}{C1}{NameColor:30}{CharImage:30}I have failed to fulfill my objective...{End}
+    {Unk2 P:33}{C1}{NameColor:30}{CharImage:32}So... My aspirations shall go unfulfilled...{End}
+    {Unk2 P:34}{C1}{NameColor:30}{CharImage:30}Oh, man... I must really be losing my edge... {End}
+    {Unk2 P:35}{C1}{NameColor:30}{CharImage:32}So... Some things even I can't foresee...{End}
+    {Unk2 P:36}{C1}{NameColor:30}{CharImage:33}Gahh... This is the end, is it?{End}
+    {Unk2 P:37}{C1}{NameColor:30}{CharImage:32}Arrghh! You gotta be kidding me...!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="2">
+    {Unk2 P:0}{C1}{NameColor:30}{CharImage:32}I am afraid that I can't accompany you any further. {End}
+    {Unk2 P:1}{C1}{NameColor:30}{CharImage:32}I am afraid that I can't accompany you any further. {End}
+    {Unk2 P:2}{C1}{NameColor:30}{CharImage:31}{Color:31}Nobunaga{Color:33} is the chosen one. He cannot serve you.{End}
+    {Unk2 P:3}{C1}{NameColor:30}{CharImage:32}I can't serve you any longer...{End}
+    {Unk2 P:4}{C1}{NameColor:30}{CharImage:30}Terribly sorry 'n' all, but I'd rather join someone who knows what they're doing!{End}
+    {Unk2 P:5}{C1}{NameColor:30}{CharImage:30}I'm off. There's nothing worth hanging around for here. {End}
+    {Unk2 P:6}{C1}{NameColor:30}{CharImage:30}No, I shan't go with you any longer.{End}
+    {Unk2 P:7}{C1}{NameColor:30}{CharImage:30}It's a real shame to have to tell you, but I can't cooperate with you any longer. {End}
+    {Unk2 P:8}{C1}{NameColor:30}{CharImage:32}I'm afraid I cannot serve you any further.{End}
+    {Unk2 P:9}{C1}{NameColor:30}{CharImage:30}With you, I can't see myself having any fun on the battlefield...{End}
+    {Unk2 P:10}{C1}{NameColor:30}{CharImage:32}It's a real shame, but I can't be with you anymore!{End}
+    {Unk2 P:11}{C1}{NameColor:30}{CharImage:30}I'll try and aim a little higher for myself, if you don't mind. {End}
+    {Unk2 P:12}{C1}{NameColor:30}{CharImage:30}I was always destined to be more than just a measly minion of yours!{End}
+    {Unk2 P:13}{C1}{NameColor:30}{CharImage:30}We shall see one another again on the battlefield. {End}
+    {Unk2 P:14}{C1}{NameColor:30}{CharImage:32}Ohh, it's a real shame! But I just can't go with you anymore, you know!{End}
+    {Unk2 P:15}{C1}{NameColor:30}{CharImage:33}I'm sick of the sight of you. You can do whatever you like, as far as I'm concerned. {End}
+    {Unk2 P:16}{C1}{NameColor:30}{CharImage:31}I'll give you my full attention next time we meet, okay?{End}
+    {Unk2 P:17}{C1}{NameColor:30}{CharImage:30}This is pointless... There is no longer any use for me here.{End}
+    {Unk2 P:18}{C1}{NameColor:30}{CharImage:32}I am so sorry, but from today, we must be apart...{End}
+    {Unk2 P:19}{C1}{NameColor:30}{CharImage:31}Hey, sorry, but...I think it's time I left.{End}
+    {Unk2 P:20}{C1}{NameColor:30}{CharImage:30}I cannot accompany you any longer. {End}
+    {Unk2 P:21}{C1}{NameColor:30}{CharImage:30}The wind doesn't stop too long in one place, you know. {End}
+    {Unk2 P:22}{C1}{NameColor:30}{CharImage:31}I still want to experience a bit more of the world!{End}
+    {Unk2 P:23}{C1}{NameColor:30}{CharImage:30}I must leave you.{End}
+    {Unk2 P:24}{C1}{NameColor:30}{CharImage:30}No point in me hangin' around here, is there?{End}
+    {Unk2 P:25}{C1}{NameColor:30}{CharImage:33}There is no reason for me to remain here any longer. We shall meet again on the battlefield!{End}
+    {Unk2 P:26}{C1}{NameColor:30}{CharImage:31}There are so many beautiful women out there... All waiting for me...{End}
+    {Unk2 P:27}{C1}{NameColor:30}{CharImage:30}I do not sense sufficient righteousness in this army. Accordingly, I take my leave. {End}
+    {Unk2 P:28}{C1}{NameColor:30}{CharImage:30}We can no longer tread the same path. {End}
+    {Unk2 P:29}{C1}{NameColor:30}{CharImage:30}Nah, there's nothing much worth fighting for around here. Sorry!{End}
+    {Unk2 P:30}{C1}{NameColor:30}{CharImage:30}I'm leaving... I don't think you deserve to have me around.{End}
+    {Unk2 P:31}{C1}{NameColor:30}{CharImage:32}I'm afraid I cannot accompany you any longer. {End}
+    {Unk2 P:32}{C1}{NameColor:30}{CharImage:30}We shall meet again on the field of battle.{End}
+    {Unk2 P:33}{C1}{NameColor:30}{CharImage:32}I cannot serve you any longer...{End}
+    {Unk2 P:34}{C1}{NameColor:30}{CharImage:30}I get itchy feet if I stay in one place for too long, you know...{End}
+    {Unk2 P:35}{C1}{NameColor:30}{CharImage:33}I cannot go with you, I'm afraid.{End}
+    {Unk2 P:36}{C1}{NameColor:30}{CharImage:32}I can't follow you any further.{End}
+    {Unk2 P:37}{C1}{NameColor:30}{CharImage:30}I've had enough! I'm done with you! {End}
+    {Unk2 P:100}{C1}{NameColor:30}{CharImage:32}I'm awfully sorry, but I can't accompany you any further.{End}
+    {Unk2 P:101}{C1}{NameColor:30}{CharImage:32}I'm afraid I cannot accompany you any further...{End}
+    {Unk2 P:102}{C1}{NameColor:30}{CharImage:32}I'm afraid I cannot accompany you any further.{End}
+    {Unk2 P:103}{C1}{NameColor:30}{CharImage:32}I'm afraid I cannot accompany you any further...{End}
+    {Unk2 P:104}{C1}{NameColor:30}{CharImage:32}Sorry, but I cannot accompany you any further.{End}
+    {Unk2 P:105}{C1}{NameColor:30}{CharImage:32}Sorry, but I can't do this anymore...{End}
+    {Unk2 P:106}{C1}{NameColor:30}{CharImage:32}Sorry 'n' all, but I've had enough of you.{End}
+    {Unk2 P:107}{C1}{NameColor:30}{CharImage:32}I must leave your service. My apologies.{End}
+    {Unk2 P:108}{C1}{NameColor:30}{CharImage:32}It looks as though I am not the person destined to serve you...{End}
+    {Unk2 P:109}{C1}{NameColor:30}{CharImage:32}I'm terribly sorry, but I cannot accompany you any longer.{End}
+    {Unk2 P:110}{C1}{NameColor:30}{CharImage:32}I'm terribly sorry, but this is as far as I can go.{End}
+    {Unk2 P:111}{C1}{NameColor:30}{CharImage:32}I c-can't follow you any l-longer... I'm s-so s-sorry... {End}
+    {Unk2 P:112}{C1}{NameColor:30}{CharImage:32}I'm terribly sorry, but I've done my dash with you...{End}
+    {Unk2 P:113}{C1}{NameColor:30}{CharImage:32}I've reached the end of my tether with you, I'm afraid.{End}
+    {Unk2 P:114}{C1}{NameColor:30}{CharImage:32}I'm afraid I cannot accompany you any further...{End}
+    {Unk2 P:116}{C1}{NameColor:30}{CharImage:32}Nah, that's it. I wash my hands of you.{End}
+    {Unk2 P:117}{C1}{NameColor:30}{CharImage:32}I can't take this anymore!{End}
+    {Unk2 P:118}{C1}{NameColor:30}{CharImage:32}It pains me to say this, but I can accompany you no longer.{End}
+    {Unk2 P:119}{C1}{NameColor:30}{CharImage:32}I'm terribly sorry. Our time together is at an end.{End}
+    {Unk2 P:121}{C1}{NameColor:30}{CharImage:32}I'm sorry, but this is as far as I can go in good conscience...{End}
+    {Unk2 P:122}{C1}{NameColor:30}{CharImage:32}I can serve you no longer.{End}
+    {Unk2 P:123}{C1}{NameColor:30}{CharImage:32}I cannot follow you...{End}
+    {Unk2 P:124}{C1}{NameColor:30}{CharImage:32}I'm done with you.{End}
+    {Unk2 P:125}{C1}{NameColor:30}{CharImage:32}I can't go with you. My apologies.{End}
+    {Unk2 P:126}{C1}{NameColor:30}{CharImage:32}You and I are done! Sorry! {End}
+    {Unk2 P:128}{C1}{NameColor:30}{CharImage:32}I'm sorry about this, but I can't be with you anymore.{End}
+    {Unk2 P:129}{C1}{NameColor:30}{CharImage:32}Say, I get the feeling that you're not worthy of me anymore... Bye!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="3">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}Thank you so much! You can trust me!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}Thank you so much! You can trust me!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}Pah, very well. {Color:31}Nobunaga{Color:33} will grant your wish...{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}I see. Please take me along with you.{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:31}Okay! Be good to me, won't ya!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}It's me that you want? Very well. {End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Henceforth my strength lies with you. {End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:31}Well... I'm sure I'd regret it if I didn't accept your invitation... {End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:31}Yes, I shall accept your proposition. {End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Yes, I daresay we could have some fun in battle together.{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}Hey, thanks! I'll give it all I've got!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:31}I'm ready to give all I've got alongside you.{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}{Color:31}Masamune{Color:33} is at your service!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}I will respond to your favor on the field of battle.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Thank you! I'll most gladly join you!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}All right. Treat me well, though. {End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Very well... I certainly hope you'll prove worth my effort, though.{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}Fine. Let's see how you fare...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}What a tremendous honor! Everything I have is yours!{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:32}You don't have to look quite so desperate. I'll join you.{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}I am honored...{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Together, let us send the winds of domination blowing across the plains of Ransei!{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}You look like a bright spark! I'll come along with you!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}I will join you.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:31}Yeah, you got good taste! You won't regret it!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}If I can be of service to you, then I graciously accept.{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}At your service!{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}Let us journey together toward the truth!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}How wonderful. I shall accompany you. {End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Thanks a lot! I won't disappoint!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}Ah, would you let me come along with you? Only if it's okay with you, of course...{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}If you're sure it's me you want...then I shall gladly accept your proposition!{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}You desire my service? Very well.{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}Thank you! I shall endeavor to fight with courage so that I bring no shame to your name.{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Excellent! I just hope I don't cause you too much trouble.{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}Very good. {End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}I'm most glad to hear that! Please, use my strength as you see fit!{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Count yourself lucky to have a real man like {Color:31}Masanori{Color:33} at your service!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:31}I'm much obliged to you. I shall gladly go with you. {End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:31}I'm very much obliged to you! I shall gladly join your cause.{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:31}I'm very much obliged to you! I shall gladly join your forces!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:31}I'm very much obliged to you! Please use me as you see fit. {End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:31}I'm very much obliged to you! Please use me however you see fit!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:31}Well, that's great. Thanks a lot!{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:31}Hey, that's great! Use me as much as you can, all right?{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:31}Thank you ever so much! I shall gladly go with you.{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:31}I'm most obliged! Please use me as you see fit. {End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:31}Thank you ever so much! I shall serve you faithfully. {End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:31}You have my thanks! I shall serve you faithfully!{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:31}Th-Thank you! I shall serve you...f-faithfully. {End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:31}Splendid. At your service. {End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:31}This is an honor! Please, make use of my strength!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:31}I'm very much obliged to you! I shall accompany you with great pleasure.{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:31}Hey, that's great! Use my strength as you see fit!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:31}Hey, that's great! You can count on me!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:31}You have my eternal gratitude for extending this olive branch.{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:31}Thank you ever so much! I shall serve you loyally. {End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:31}Excellent, excellent. Please use me as you see fit. {End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:31}Thank you. I shall serve you from the shadows.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:31}Thank you...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:31}That's just great! I will serve you with everything I have!{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:31}Thank you ever so much. I shall fulfill my duty as a ninja by your side. {End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:31}Thank you so much! I'll do my very, very best!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:31}Well, thanks! I'll do my best for you!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:31}Very well! I'll lend you my strength, indeed!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="4">
+    {Unk2 P:0}{C1}{NameColor:30}{CharImage:31}I have formed a link with {Poke}{C1}!{End}
+    {Unk2 P:1}{C1}{NameColor:30}{CharImage:31}I have formed a link with {Poke}{C1}!{End}
+    {Unk2 P:2}{C1}{NameColor:30}{CharImage:30}So, {Poke}{C1}... You are destined to accompany {Color:31}Nobunaga{Color:33}.{End}
+    {Unk2 P:3}{C1}{NameColor:30}{CharImage:30}Come with me, {Poke}{C1}!{End}
+    {Unk2 P:4}{C1}{NameColor:30}{CharImage:30}You're coming with me, {Poke}{C1}? 'Sgo!{End}
+    {Unk2 P:5}{C1}{NameColor:30}{CharImage:30}So {Poke}{C1} has chosen me. Very well.{End}
+    {Unk2 P:6}{C1}{NameColor:30}{CharImage:30}Come with me, {Poke}{C1}.{End}
+    {Unk2 P:7}{C1}{NameColor:30}{CharImage:31}Come with me, {Poke}{C1}.{End}
+    {Unk2 P:8}{C1}{NameColor:30}{CharImage:31}Come, {Poke}{C1}.{End}
+    {Unk2 P:9}{C1}{NameColor:30}{CharImage:30}You're with me, {Poke}{C1}!{End}
+    {Unk2 P:10}{C1}{NameColor:30}{CharImage:31}Aw, you're a cutie! Let's do our best to work together, okay, {Poke}{C1}?{End}
+    {Unk2 P:11}{C1}{NameColor:30}{CharImage:30}Now that I've managed to link with {Poke}{C1}, it's time to get training!{End}
+    {Unk2 P:12}{C1}{NameColor:30}{CharImage:31}Come with me, {Poke}{C1}!{End}
+    {Unk2 P:13}{C1}{NameColor:30}{CharImage:30}Now that I have linked with {Poke}{C1}, the prospect of battle seems more pleasurable.{End}
+    {Unk2 P:14}{C1}{NameColor:30}{CharImage:30}I linked with {Poke}{C1}! Now we'll always be together!{End}
+    {Unk2 P:15}{C1}{NameColor:30}{CharImage:30}{Poke}{C1} and I are linked. No misbehaving now, okay!{End}
+    {Unk2 P:16}{C1}{NameColor:30}{CharImage:31}Come along, {Poke}{C1}. You're my little precious now!{End}
+    {Unk2 P:17}{C1}{NameColor:30}{CharImage:31}I have formed a link with {Poke}{C1}...{End}
+    {Unk2 P:18}{C1}{NameColor:30}{CharImage:31}All right, {Poke}{C1}! Come with me!{End}
+    {Unk2 P:19}{C1}{NameColor:30}{CharImage:31}Yup! I formed a link! C'mon, {Poke}{C1}―let's go!{End}
+    {Unk2 P:20}{C1}{NameColor:30}{CharImage:30}Come, {Poke}{C1}.{End}
+    {Unk2 P:21}{C1}{NameColor:30}{CharImage:30}Coming with me, {Poke}{C1}?{End}
+    {Unk2 P:22}{C1}{NameColor:30}{CharImage:31}So... {Poke}{C1}! I've got high hopes for you!{End}
+    {Unk2 P:23}{C1}{NameColor:30}{CharImage:30}{Poke}{C1} and I are linked.{End}
+    {Unk2 P:24}{C1}{NameColor:30}{CharImage:31}I linked with {Poke}{C1}! Yeah, that's right! Let's hope it goes well!{End}
+    {Unk2 P:25}{C1}{NameColor:30}{CharImage:31}Come with me, {Poke}{C1}.{End}
+    {Unk2 P:26}{C1}{NameColor:30}{CharImage:30}Let's go, {Poke}{C1}!{End}
+    {Unk2 P:27}{C1}{NameColor:30}{CharImage:31}{Poke}{C1} and I are now linked through our love of the just and the good. {End}
+    {Unk2 P:28}{C1}{NameColor:30}{CharImage:30}It seems that {Poke}{C1} sensed the love I felt.{End}
+    {Unk2 P:29}{C1}{NameColor:30}{CharImage:30}I linked with {Poke}{C1}! Let's hope it goes well!{End}
+    {Unk2 P:30}{C1}{NameColor:30}{CharImage:30}Oh, {Poke}{C1}, you're such a cutie! You're coming with me!{End}
+    {Unk2 P:31}{C1}{NameColor:30}{CharImage:31}I've linked with {Poke}{C1}! Right, then! Come along!{End}
+    {Unk2 P:32}{C1}{NameColor:30}{CharImage:30}Come, {Poke}{C1}. You're with me now.{End}
+    {Unk2 P:33}{C1}{NameColor:30}{CharImage:31}Let's do our very best together, {Poke}{C1}!{End}
+    {Unk2 P:34}{C1}{NameColor:30}{CharImage:30}You and I will change the world, {Poke}{C1}!{End}
+    {Unk2 P:35}{C1}{NameColor:30}{CharImage:30}Naturally, I linked with {Poke}{C1}. What Pokémon wouldn't want to be with me?{End}
+    {Unk2 P:36}{C1}{NameColor:30}{CharImage:31}Hey, I linked with {Poke}{C1}! Come on, let's go!{End}
+    {Unk2 P:37}{C1}{NameColor:30}{CharImage:31}Hey, guess what! I linked with {Poke}{C1}!{End}
+    {Unk2 P:100}{C1}{NameColor:30}{CharImage:31}You and I, {Poke}{C1}! We're partners now!{End}
+    {Unk2 P:101}{C1}{NameColor:30}{CharImage:31}I'm looking forward to our time together, {Poke}{C1}!{End}
+    {Unk2 P:102}{C1}{NameColor:30}{CharImage:31}You're coming with me, {Poke}{C1}!{End}
+    {Unk2 P:103}{C1}{NameColor:30}{CharImage:31}Come along with me, {Poke}{C1}!{End}
+    {Unk2 P:104}{C1}{NameColor:30}{CharImage:31}Hey! You're coming with me, right, {Poke}{C1}?{End}
+    {Unk2 P:105}{C1}{NameColor:30}{CharImage:31}Hey, you're coming with me, {Poke}{C1}!{End}
+    {Unk2 P:106}{C1}{NameColor:30}{CharImage:31}Righto! You're coming with me, {Poke}{C1}!{End}
+    {Unk2 P:107}{C1}{NameColor:30}{CharImage:31}What's that, {Poke}{C1}? You want to stay with me?{End}
+    {Unk2 P:108}{C1}{NameColor:30}{CharImage:31}Let's accompany one another, {Poke}{C1}!{End}
+    {Unk2 P:109}{C1}{NameColor:30}{CharImage:31}I'm looking forward to our time together, {Poke}{C1}!{End}
+    {Unk2 P:110}{C1}{NameColor:30}{CharImage:31}You and I will be good together, {Poke}{C1}!{End}
+    {Unk2 P:111}{C1}{NameColor:30}{CharImage:31}I'm c-counting on you...{Poke}{C1}!{End}
+    {Unk2 P:112}{C1}{NameColor:30}{CharImage:31}You and I are a team from now on, {Poke}{C1}.{End}
+    {Unk2 P:113}{C1}{NameColor:30}{CharImage:31}I'm looking forward to our time together, {Poke}{C1}!{End}
+    {Unk2 P:114}{C1}{NameColor:30}{CharImage:31}I'm most looking forward to our time together, {Poke}{C1}!{End}
+    {Unk2 P:116}{C1}{NameColor:30}{CharImage:31}Okay! You're with me, {Poke}{C1}!{End}
+    {Unk2 P:117}{C1}{NameColor:30}{CharImage:31}Okay! You're with me, {Poke}{C1}!{End}
+    {Unk2 P:118}{C1}{NameColor:30}{CharImage:31}Let us go together, {Poke}{C1}!{End}
+    {Unk2 P:119}{C1}{NameColor:30}{CharImage:31}Let's head off together, shall we, {Poke}{C1}?{End}
+    {Unk2 P:121}{C1}{NameColor:30}{CharImage:31}Come along with me, {Poke}{C1}.{End}
+    {Unk2 P:122}{C1}{NameColor:30}{CharImage:31}Follow me, {Poke}{C1}.{End}
+    {Unk2 P:123}{C1}{NameColor:30}{CharImage:31}Stay with me, {Poke}{C1}...{End}
+    {Unk2 P:124}{C1}{NameColor:30}{CharImage:31}I'm counting on you, {Poke}{C1}!{End}
+    {Unk2 P:125}{C1}{NameColor:30}{CharImage:31}You're coming with me, {Poke}{C1}!{End}
+    {Unk2 P:126}{C1}{NameColor:30}{CharImage:31}We're gonna be best friends, little {Poke}{C1}!{End}
+    {Unk2 P:128}{C1}{NameColor:30}{CharImage:31}You'll look after me, won't you, {Poke}{C1}!{End}
+    {Unk2 P:129}{C1}{NameColor:30}{CharImage:31}Ha! It's you and me now, {Poke}{C1}!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="5">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:32}Oh, I'm sorry, {Poke}{C1}...{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:32}I'm so sorry, {Poke}{C1}...{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}This is all part of your fate, {Poke}{C1}...{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:32}I'm so sorry, {Poke}{C1}! I'll never forget you!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:32}Hey, this is just too bad, eh, {Poke}{C1}? I had a good time with you.{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}Pah, {Poke}{C1}... Take good care of yourself.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}It pains me to part with you, {Poke}{C1}. Maybe we will meet again.{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:32}Too bad, {Poke}{C1}... Still, I won't forget you...{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:32}I'm sorry, {Poke}{C1}. Please take good care of yourself. {End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Sorry, {Poke}{C1}! Keep well.{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:32}Hey, I'm sorry, {Poke}{C1}! I had so much fun with you!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Oh, {Poke}{C1}... What a pity...{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Sorry, {Poke}{C1}. I won't ask you to forgive me.{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}It pains me to part with you, {Poke}{C1}. Maybe we will meet again.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:32}Ohh, I'm so so sorry, {Poke}{C1}! Keep well, won't you?{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Sorry, {Poke}{C1}.{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Don't look so sad, {Poke}{C1}. This isn't goodbye forever, you know!{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}It's for the best, {Poke}{C1}...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:32}I'm sorry, {Poke}{C1}... Take good care of yourself.{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:33}I'm so sorry... I know that doesn't make anything better.{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}Farewell, {Poke}{C1}. This is for the good of Ransei.{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}It's too bad, {Poke}{C1}.{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:32}I'm sorry, {Poke}{C1}... I'm pretty cut up about it myself.{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Sorry, {Poke}{C1}...{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Oh, {Poke}{C1}... This is all part of a ninja's duty, you know. {End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:32}I'm sorry, {Poke}{C1}... I shall not forget you...{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:32}Sorry, {Poke}{C1}. We'll meet again. I'm sure of it.{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}Sorry, {Poke}{C1}. But we must do what is right. {End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Parting only makes true love grow stronger... You understand, don't you, {Poke}{C1}?{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Sorry, {Poke}{C1}... Take care, won't you!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:32}Oh, {Poke}{C1}... Try to bear it as best you can!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:32}I'm sorry, {Poke}{C1}... I won't forget you, as long as I live.{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}Farewell, {Poke}{C1}. Keep healthy and strong. {End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:32}I'm so sorry, {Poke}{C1}. Please take care of yourself, won't you...{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Hey, it's tough to leave you, {Poke}{C1}. But we'll see each other again, I'm sure!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:32}Sorry, {Poke}{C1}...{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:32}Sorry, {Poke}{C1}... I had a good time with you, you know.{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:32}Arrgh, this is too bad, {Poke}{C1}. I'm gonna miss ya! Take care of yourself, okay?{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:32}I'm sorry, {Poke}{C1}. Take care of yourself, won't you now...{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:32}I'm sorry, {Poke}{C1}. I shan't forget you easily...{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:32}I'm sorry, {Poke}{C1}! Take care, won't you...{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:32}I'm sorry, {Poke}{C1}. Take care of yourself... {End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:32}I'm sorry, {Poke}{C1}. Take care now!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:32}Sorry, {Poke}{C1}. I won't forget you!{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:32}It's too bad, eh, {Poke}{C1}? Keep well, won't ya!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:32}I'm sorry, {Poke}{C1}... I know I've hurt you.{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:32}I'm sorry, {Poke}{C1}. I shan't forget you...{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:32}I'm sorry, {Poke}{C1}... Take care, won't you...{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:32}I'm sorry, {Poke}{C1}... I'll never forget our time together...{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:32}S-Sorry, {Poke}{C1}... T-Take c-care, w-won't you...{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:32}Oh, I'm sorry, {Poke}{C1}. Don't go forgetting me, will you now?{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:32}I'm sorry, {Poke}{C1}... Take care, won't you...{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:32}I'm sorry, {Poke}{C1}. Please take care of yourself...{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:32}I'm real sorry, {Poke}{C1}. Keep well, won't you...{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:32}I'm sorry, {Poke}{C1}. Keep well, won't you!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:32}I am sorry, {Poke}{C1}... I shall not forget you. {End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:32}I'm so sorry, {Poke}{C1}... Take care, won't you...{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:32}Oh, I'm sorry, {Poke}{C1}. You'll look after yourself, won't you now...{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:32}Forgive me, {Poke}{C1}. Look after yourself.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:32}Sorry, {Poke}{C1}...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:32}I'm sorry, {Poke}{C1}. I won't forget you!{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:32}I'm sorry, {Poke}{C1}... Take care, won't you.{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:32}Sorry, little {Poke}{C1}... Take care, won't you!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:32}Oh, I'm sorry, {Poke}{C1}. Take good care of yourself, please!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:32}Farewell, {Poke}{C1}. Parting is such sweet sorrow...{End}
+    {C1}{End}
+  </Text>
+  <Text ID="6">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:32}That's a real shame.{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:32}What a shame...{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}So you no longer have any need for {Color:31}Nobunaga{Color:33}...{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:32}What a shame... I so wanted to stay with you longer...{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:34}H-Huh? You what? But...why?{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}We are to part ways...? Very well.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:34}Ha! Surely you are not being serious!{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}Oh... I didn't live up to your expectations, eh?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:32}It pains me not to have lived up to your expectations.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}I daresay we shall meet next time on the battlefield!{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:32}I wasn't strong enough for you...? Sorry about that...{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}It's not easy for me to part with you―I'll tell you that for nothing...{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:33}You'll regret this, let me tell you!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}No doubt we shall meet again on the battlefield.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:32}Ohh... Didn't you enjoy playing Pokémari with me?{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Right, right. Thanks for the good times.{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Oh! Are you getting bored of me? Is that it?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}Ha... Scared of me, are you?{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:32}Oh... Did I not live up to your expectations?{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:32}Okay, I got you! See ya!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}Well, well. It seems that we do not think the same way. {End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Oh. Well, I suppose the wind may blow us together again in the future.{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:30}Go on, just say it! You don't want me anymore, right?{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}I shall obey your every command.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Oh. I guess I better start looking for a new job, huh?{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:32}This is all due to my inadequacy... I must become more devoted.{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Really? You're letting a great catch like this go?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:34}You failed to see through to the righteousness in my heart!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}If you do so out of love, then I understand.{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:33}Hey, wait a minute! What's this all about?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:32}Oh, that's awfully mean of you... {End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:32}I'm sorry not to have lived up to your expectations...{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}I'm sorry for not living up to your expectations. {End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:32}I'm so sorry to have disappointed you. I would have wished to serve you longer...{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Oh... Well, thanks for taking good care of me. {End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:34}You... You what?!{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:32}Wh-What? Did I let you down or something?{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:33}You gotta be foolin' around! Are you crazy or something?!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:32}Oh, it pains me to have fallen short of your expectations...{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:32}It grieves me not to have lived up to your expectations...{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:32}Wh-Why?! What did I do wrong?!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:32}It pains me not to have lived up to your expectations...{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:32}Why? I do not understand.{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:32}Okay, got it. Thanks for everything!{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:32}Ha! What did I do...?{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:32}So, I didn't live up to your expectations...{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:32}Oh... I hope that you aren't making an error you will regret...{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:32}Oh... It seems I have disappointed you...{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:32}Oh... I suppose I've still got a lot to learn...{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:32}Oh... Oh... I wasn't of any h-help?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:32}Oh dear... My strength must be declining with age...{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:32}Oh... It seems I have disappointed you...{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:32}Oh, we are to part?{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:32}Okay. Well, thanks for everything. {End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:32}What? Well, your loss...{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:32}Oh... It would appear that I did not live up to your expectations. {End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:32}Oh, right... Well, if you need me again, you know where to find me, don't you!{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:32}Oh, I didn't live up to your expectations, did I...{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:32}I wasn't enough for you... I must try harder in future...{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:32}Oh... I see...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:32}Oh... I'm sorry not to have lived up to your expectations, I really am... {End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:32}Oh... I wasn't strong enough for you, perhaps? {End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:32}Oh! You mean, this is goodbye?{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:32}Oh, right. Well, thanks for everything!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:32}Okay, but don't come crying to me later! You'll regret it, I'm telling you!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="7">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}What would you like me to take care of?{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}What would you like me to do?{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}What do you want {Color:31}Nobunaga{Color:33} to do?{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}What would you like me to focus on?{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Right, what'll I be doing for you?!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}Which will it be?{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Well? What shall I take care of?{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}What would you like me to do for you?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}What would you like me to take care of?{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}What do you want me to do for you?{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:30}What shall I do for you, then?{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Right then! What would you like me to take care of?{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}What shall I take care of?{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}Instruct me.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}What can I take care of for you? Just tell me!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Well? What's it to be?{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:30}What do you wish me to look after?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}Which shall I take care of?{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}What can I do for you?{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}What should I do for you?{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}What shall I do for you?{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}What should I take care of for you?{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:30}What shall I take care of for you?{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Command me.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}What'll I do for ya?{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}What shall I look after for you?{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}What shall I do for you?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}What shall I do for you?{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}What shall I do for you?{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}What can I do for you?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}What should I do for you?{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:30}What can I take care of for you?{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}What shall I do for you?{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:30}What can I take care of for you?{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Right, what'll it be?{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}What can I do for you?{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}What can I do for you?{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:30}Whaddaya want me to do?{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}What shall I take care of for you?{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}What shall I take care of for you?{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}What would you like me to take care of?{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}What can I look after for you?{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}So, what can I do for you?{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}So, what can I do?{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}So, what can I do for you?{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}What do you want me to handle?{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}What can I handle for you?{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}What can I look after for you?{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}What can I look after for you?{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}Wh-What shall I d-do for you?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}What can I do for you?{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}What can I do for you?{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}How can I serve you?{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}So, what can I do for you?{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}So, what can I do for you?{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}What can I take care of for you?{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}Well, what can I do for you?{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}What can I take care of for you?{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}How may I serve?{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}What should I do...?{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}What can I help you with?{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}What shall I take care of for you?{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}Okay, what can I do for you?!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}Alrighty, what shall I do for you?{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}So, what can I do to help you?{End}
+    {C1}{End}
+  </Text>
+</Block>

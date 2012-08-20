@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Block>
+  <Text ID="0">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:33}There's no way we can lose for a third time! This time, victory will be ours!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:33}There's no way we can lose for a third time! This time, victory will be ours!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:33}Three defeats are unacceptable... {Color:31}Nobunaga{Color:33} himself will see to it that the enemy is obliterated this time.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:33}This is our third battle! We've got to win this one! Here goes...!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:33}The third attack, eh...? Now this one I gotta win! Here goes!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}We have met with considerable resistance, but the conflict will end today. Victory will be ours.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Oh, this lot again. Well, we are the stronger side. This time, we shall wipe them out. {End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}Our third trial in the same spot... It's about time to start winning, I think. {End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}Our enemy is certainly capable... But we have no cause to lose any further battles.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}This is the third battle, you know... This time, we must win, at all costs!{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:30}This is our third battle, right? Don't think about the ones we've lost, though! If we concentrate, we can definitely win this one!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}It won't do to keep losing―I'll tell you that for nothing. It's about time we claimed this castle for good! {End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Two defeats is not a problem. What matters is what lies ahead, and what lies ahead is...victory!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:33}Three battles... The time for victory has come.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}This is our third battle! About time for a fabulous victory, I'd say. {End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:33}Gahh, this'll be the third battle here. Let's put an end to this nonsense quickly!{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Oh, I'm bored of the sight of this battlefield. Let's put an end to this, shall we?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}I'm getting bored of this. Let's put an end to it now... {End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:33}This is our third battle here... This time, we must emerge victorious!{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:33}I didn't really mean for it to last this long... Still! Let's bring it to a close. We can't be wasting our time on this kind of thing...{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}The previous two battles were our chance to observe the way our enemy behaves. Now we have no excuse whatsoever to lose this one.{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Three battles on the same field... It seems we'd better start taking it seriously...{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}We've already lost two, you know! That means we gotta win this one!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}This time, we must seize victory.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}We've lost two already... So this one we ab-so-lute-ly must win!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:33}Defeated... Twice... But we must not retreat! Let's prove the strength of our indomitable spirit, once and for all!{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Hmm, two defeats already, eh? I'd better use all my charm to lead us to victory this time!{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:33}Two defeats we have suffered, but we must not give up! True honor knows no enemies! Heaven is on our side!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}This is our third battle... Something tells me that this would be a fitting time to win. {End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}So this is battle number three, right? But I've got a good feeling about it this time!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}Three times is enough for me... I'm going to pull all the stops out this time. {End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:33}This is the third battle we've fought in this kingdom! Our pride will not allow us to lose again!{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}Repulsing our army not just once but twice is no mean feat, but their fun ends here! Now they will see what we are really made of!{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:33}We have already suffered two defeats... Another one is inconceivable!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}This is our third battle here... But this one has got our name on it! Let's take them down in style...{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}So, this is the third battle... Think of all the time we've wasted! This time we'll claim victory! We must!{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:33}Gaahh, defeated twice already... We mustn't lose again! This time...victory will be ours!{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:30}Wait a minute! Isn't this our third battle... Right! This is it! V-I-C-T-O-R-Y! {End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:31}Our third conflict here, eh...? Let's fight this one with fervor, shall we!{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:31}This is our third encounter. We must give this everything we have!{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:31}We can't go on losing like this! Our pride will not allow it!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:31}We can't lose again... We just can't! We must win this time, whatever it takes!{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:31}Third time lucky! This is our chance to seize victory by the horns!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:31}I can't allow us to lose again! This time, victory will be ours!{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:31}Righto! Third time's a charm, right?{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:31}This is getting embarrassing! We must win this time or pay the price!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:31}It would be most humiliating to lose once again... This time, we shall claim victory for ourselves.{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:31}It would be a waste to lose any more. I think this time a victory would be appropriate...{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:31}Our third battle shall prove our superiority, once and for all!{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:31}I-I don't want to lose again... I must t-try harder this time...{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:31}The worst thing we can do is to give up! This is the one, I tell you. This is the one... {End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:31}We can't lose any more battles here! No way! Let's give this one everything we've got!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:31}Our third conflict here... We must make this the breakthrough battle! {End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:31}We're not gonna lose any more! If we don't win this time, I quit!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:31}We can't lose again! This time, we better give it everything!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:31}The third battle... I think this time victory would be a very appropriate result...{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:31}Oh, I really don't think we should lose any more battles... Now is the time to win, I believe...{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:31}We can't afford to lose again! We must focus on winning this one! {End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:31}A defeat would be intolerable. Victory is essential.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:31}We must not keep on losing... Let us try our best to win this one... {End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:31}We mustn't lose any more battles! We have to pull out all the stops!{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:31}We shall not lose again... We cannot! This time we must hold nothing back! {End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:31}We can't lose any more battles here! No way! Let's give this one everything we've got!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:31}We can't afford to lose any more battles, you know! Let's pull out all the stops for this one!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:31}If we lose again now we would just be...losers. And I am anything but a loser!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="1">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:32}Yes, that's right... Where has {Poke}{C1} got to, I wonder... {End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:32}Yes, that's right... Where has {Poke}{C1} got to, I wonder... {End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}{Color:31}Nobunaga{Color:33} has been deserted...{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:32}Yes... Where could little {Poke}{C1} be?{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Yeah... Well, I should let {Poke}{C1} have some space, I guess...{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}Well. He that wants to flee can flee.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}{Poke}{C1} has been gone since this morning... Where could that Pokémon have got to?{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:32}Hmmm... Where on earth has {Poke}{C1} got to, then?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:32}Quite... So where might {Poke}{C1} have got to, I wonder?{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Yes. {Poke}{C1} has been gone since morning, I tell you... {End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:33}Yeah, that's right! That silly {Poke}{C1} has gone off wandering all alone! What a naughty Pokémon!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}That's right. But where on earth has that {Poke}{C1} got to, I ask myself?{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Hmm... Where has that silly {Poke}{C1} got to?{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}{Poke}{C1} has been gone since morning. To where...?{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:32}Ohh, I know! Not here since morning! Where has that {Poke}{C1} got to!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Haven't seen {Poke}{C1} since morning. Where has that Pokémon got to?{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:30}Yes, yes... That {Poke}{C1}. What's to be done, I ask you...?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}{Poke}{C1} has been gone since morning...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:32}Yes, that's right... Where on earth has that {Poke}{C1} got to, then?{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:32}Yeah, that's right... Where has that {Poke}{C1} got to, I wonder?{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}{Poke}{C1} has been gone since morning.{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Hmm. Actually, I haven't seen {Poke}{C1} at all since morning.{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:32}Yeah, that's right... Where on earth has that naughty {Poke}{C1} gone to, I wonder...{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Gone since morning... But where?{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Yep, that's right... {Poke}{C1} hasn't been around since morning. Where could that Pokémon have got to?{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:32}Yes, gone since the morning. Where could {Poke}{C1} be?{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:32}Yup... Where on earth has that {Poke}{C1} run off to?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}Yes, quite... Where could that {Poke}{C1} have got to?{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Yes, yes... Where has that {Poke}{C1} got to?{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:32}Yeah, that's right! Where on earth could {Poke}{C1} have got to?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:32}Yes, {Poke}{C1} has been gone since morning, you know! Where could my little one have got to?{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:32}That's right... Where could {Poke}{C1} have got to?{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}Yes. {Poke}{C1} has been gone since this morning.{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:32}Yes, quite. Where on earth could little {Poke}{C1} have got to?{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Yeah, {Poke}{C1} hasn't been around since morning...{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:32}Gone since morning... Hm. Where on earth could that {Poke}{C1} have got to?{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}Ahhh, where on earth has {Poke}{C1} got to?{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:32}I know! Where could my precious {Poke}{C1} have got to?{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:32}Yes, that's right... Where might that {Poke}{C1} have got to?{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:32}It is indeed just as you say... Just where might that Pokémon have got to?{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:32}Yes... Where on earth could {Poke}{C1} be?{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:32}Yes, that's right... I wonder where that little Pokémon could have run off to.{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:32}Yes, that's right... Where on earth could that {Poke}{C1} have gotten to, I wonder...{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:32}Yeah, that's right... Where on earth could {Poke}{C1} have gone, I ask you...{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:32}Yeah... Where could that {Poke}{C1} have gotten to?{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:32}{Poke}{C1}? Where are you?{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:32}Yes, that's right... I wonder where that Pokémon could have got to?{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:32}Yes, that's right... Where could my {Poke}{C1} have got to?{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:32}Yes, that's right... Where, oh where, has my little {Poke}{C1} gone?{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:32}Y-Yes... M-Maybe {Poke}{C1} d-doesn't like me anymore...{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:32}Yes, that's right... Where in the world could {Poke}{C1} be?{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:32}Yes, that's right... I keep asking myself where on earth {Poke}{C1} could have gone...{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:32}Yes, it's just as you say... Where might that silly {Poke}{C1} have got to?{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:32}Yeah, you're right... {Poke}{C1}, where are you?{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:32}Yeah... Where has that {Poke}{C1} gotten to, I ask you...{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:32}Yes, that's right... Where in the world might {Poke}{C1} have got to, I can't help but ask myself...{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:32}Yes, that's right... Where on earth could {Poke}{C1} possibly be?{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:32}Yes, that's right... Where in the world might that silly {Poke}{C1} have got to, I wonder.{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:32}That is correct. Where is {Poke}{C1}?{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:32}Yes... Where in the world might {Poke}{C1} be...?{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:32}Yes, that's right. I just can't help but worry about where {Poke}{C1} has gone...{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:32}Yes, that's right. I have no idea where {Poke}{C1} is...{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:32}Yes! Honestly, where has little {Poke}{C1} got to?{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:32}Yes, that's right... That {Poke}{C1}'s in for a scolding, let me assure you!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:32}Yes... Vanished off the face of the earth, I tell you... {End}
+    {C1}{End}
+  </Text>
+  <Text ID="2">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}Hey, I was worried! What a relief you're back! Hm? Is this for me?{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}Hey, I was so worried! I'm so glad you're back! Hm? Is this for me?{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}And back, I see. What do you have there?{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:31}Hey! Where were you? Wow, I'm so glad you're back! Hm? This is for me?{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Hey! Back already? Huh? What? This is for me?{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}Back, I see. And this is for me?{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Where on earth did you go? Hm? A gift for me?{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:31}Ah! I was worried. Well, I'm mighty glad you're back. What's that? For me?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:31}You're here. I beg you not to make me worry like that again. What's that there? For me?{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Ho, you're back. Hm? What did you say? This is for me?{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:33}Hey! Where were you? You've got a lecture coming your way, let me tell you! Hm? This is for me?{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Oho! There you are! I was worried! Well, I'm relieved you're back. What's that? For me?{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Hey! What are you looking at me like that for? I was worried about you! Huh? What? This is...for me?{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}So...you're back. Hm? This is for me?{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Ohh, you're back! I was terribly worried! What's this? For me?{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Oi, you can't just go wandering off like that. Huh? What? This is for me?{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}So, you're back. What, this is for me?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}So...you're back. Huh? This is for me?{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}Oh! You're back. What? This is for me, you say?{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Hey! I was worried about you! It's good to have you back. What? This is for me?{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}So...you're back. Hm? This is for me?{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}You're back! Where did you get to? And what's that? For me?{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}There you are! I was beside myself with worry! What? This is for me?{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}You're back... For me?{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Hey, you're back! What? This is for me?{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:31}I was worried, you know! But... No, I'm glad you're back. This is for me, you say?{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Hey! Hey! I was worried about you! Huh? What? This is...for me?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:31}I was most worried! It is good to have you back. Oh? This is...for me?{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}I was out of my mind with worry! Going wandering off like that, I ask you... Oh, but what's that? This is for me? {End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Hey, you! Boy am I glad to see you! You had me panicking! What? This is for me?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}Hey! I was desperately worried! Hm? This is for me?{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}You're here! Please, don't make me worry like that again! What's that there? For me?{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}So...you're back. Hm? This is for me?{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}Oh, I'm so glad you're back! Oh! This is for me?{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:34}Hey! You're back! What? This is for me?{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}Hey! You think it's okay to just go wandering off like that, do you? Huh? What? This is...for me?{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}Well, well! You're back, I see. What? This is for me?{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Hey! I was real worried! I was! Huh? What? This is for me?{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:31}Boy was I worried! Well, I'm glad you're back, that's for sure... What's that there? For me?{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:31}You're back! Please don't make me worry like that again. What's that there? For me?{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:31}Hey, I was worried about you! I'm so glad you're back! What's that there? For me?{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:31}Goodness, I'm so glad you're back! I was terribly worried, you know! What's that there? For me?{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:31}Wow, I'm so glad you're back! I was so worried, you know! What's that there? For me?{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:31}There you are! I'm glad you're back! I was so worried, you know! Hm? That's for me?{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:31}Hey, I was worried about you! Thank heavens you're alive! What's that? Hm? For me?{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:31}Wow, am I pleased to see you! I was worried, you know... What's that there? For me?{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:31}Goodness, I'm so relieved that you're back! Do you have any idea of the worry you caused me?! What's that there? For me?{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:31}I'm most relieved to have you back! I was worried, you know... What's that there? For me?{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:31}I was very worried about you, you know... It's good to have you back. This is for me, you say?{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:31}Oh! You're b-back! I'm r-r-really r-relieved! Oh! This is for m-me?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:31}Well now! I was mighty worried! I'm sure glad you're back, at any rate... What's that there? For me?{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:31}Wow, you're back! I was worried, you know... What's that there? For me?{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:31}Oh, you've returned! Please don't make me worry like that again. What's that there? For me?{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:31}Hey! You're back at last! I was worried! Hm? This is for me, you say?{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:31}Hey! Where've you been? I was worried! What? This is for me?{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:31}I'm most relieved to have you back! I was worried, you know... What's that there? This is for me?{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:31}I'm just so relieved to have you back! I was so worried, you know... What's that there? For me?{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:31}Oh, I was awfully worried! Well, you're back now, and that's what matters, eh... What's that there? For me?{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:31}You are back. I was concerned. Is that for me?{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:31}You're back... That's a relief... What? This is for me?{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:31}Oh, you're back! I was worried about you. What is that there? This is for me?{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:31}I was most concerned. I'm glad that you're back. What's that there? For me?{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:31}Wow, I thought you were never coming back! I was really, really worried, you know... What's that there? This is for me?{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:31}What do you think you were doing?! ...Well, I'm sure glad you're back, at any rate... What's that there? For me?{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:31}Hey! You're back! I was worried out of my mind! Hm? That's for me?{End}
+    {C1}{End}
+  </Text>
+  <Text ID="3">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:34}{Poke}{C1}... I can't help but feel that somehow you're different from other Pokémon. Do you know what I mean?{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:34}{Poke}{C1}... There's just something about you that's different from other Pokémon. Do you know what I mean?{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... {Color:31}Nobunaga{Color:33} feels a power from you that he has not experienced before. Do you feel it too, {Poke}{C1}?{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:34}{Poke}{C1}... I feel something special with you―something different from the other Pokémon... Do you feel it too?{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Hey, {Poke}{C1}! I feel something kinda different with you from how it is with other Pokémon... D'ya feel the same, by any chance?{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... The feeling I have with you is different from that I have experienced with other Pokémon. Do you feel something different too?{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:34}{Poke}{C1}... The feeling I have with you is different from that I have with other Pokémon. Do you feel something similar?{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:34}You know, {Poke}{C1}... I can't help but feel that you're not like other Pokémon. Do you feel something different too?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:34}{Poke}{C1}... I sense something in you that is different from other Pokémon. Do you feel something similar, by any chance?{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... The feeling I have with you is different from that I've had with other Pokémon. Do you know what I mean?{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... The feeling I get with you is different from how it was with other Pokémon, you know! Do you feel it too?{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}I must say, {Poke}{C1}... There's just something about you. I really feel like you and I just fit!{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... I sense something different, something special, about you. Do you know what I mean?{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}This feeling... {Poke}{C1}... Do you feel it too?{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:34}{Poke}{C1}... I can't help but feel that you're somehow different from other Pokémon! Do you know what I mean?{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Hey, {Poke}{C1}... You're kinda different from the other Pokémon I've seen... Do you know what I mean?{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}{Poke}{C1}... The way I feel when I'm with you is unlike any other. Do you feel it too?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... You are different from the other Pokémon... Do you know what I mean?{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... I sense something about you that's different from other Pokémon. Do you know what I mean?{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... There's something about you that's a little bit different from other Pokémon I've met. D'ya get me?{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... I sense something different in you from the other Pokémon I've met... What is it, I wonder...{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}What's that, {Poke}{C1}? You sense something special about me? Well, I sense something special about you too!{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:34}{Poke}{C1}... The feeling I get with you is kinda different from how it was with other Pokémon I've met. Do you know what I mean?{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... You are different from other Pokémon. Do you feel something different about me...?{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Hey, {Poke}{C1}! This feels kinda different than it did with other Pokémon I've met before... D'ya feel the same, by any chance?{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:34}{Poke}{C1}... I feel that there is a bond between you and me, unlike any I have ever felt. Do you feel something too?{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... No Pokémon I've ever met has made me feel this way. Do you sense something different too?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:34}{Poke}{C1}... There's something about you that's different from other Pokémon. Do you feel something special about me?{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... The feeling I have with you is different from anything I've experienced with other Pokémon. Do you feel something different too?{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Hey, {Poke}{C1}! I can't help but feel that you and I are a perfect match... Do you know what I mean?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... You know, something about being with you just feels different―special even... Do you feel it too?{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:34}Oh, {Poke}{C1}... The way I feel about you, it's... I can't describe it. Do you feel something similar, by any chance?{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... I sense something about you that's different from the other Pokémon I've met... Do you feel it too?{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:34}{Poke}{C1}... The feeling I get with you is somehow different from the way I feel when I'm with other Pokémon... Do you understand what I mean?{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:34}Hey, {Poke}{C1}! There's something about you that's different from other Pokémon... Do you catch my drift?{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... There's something about you that's different from other Pokémon. Do you feel the same way about me?{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... There's something about you that's different from the other Pokémon I've met. Do you feel anything...strange?{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:34}Listen, {Poke}{C1}... I dunno how to say this, but I...I feel something special between the two of us, you know.{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}Oh, {Poke}{C1}... I sense something between you and me that I don't feel with other Pokémon. Do you know what I'm talking about?{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}The feeling I have with you is different from how it is with other Pokémon, {Poke}{C1}. Do you feel something similar, by any chance?{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... The feeling I have with you is kinda different from how I feel around other Pokémon! You feel something similar, by any chance?{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}There's something about you, {Poke}{C1}―something special. Do you feel anything similar about me, by any chance?{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}I've never felt this way about a Pokémon before, {Poke}{C1}... Do you feel the same?{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... This feels different from how it was with other Pokémon I met in the past... Know what I mean?{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}...! You seem different from the other Pokémon I've met in the past... I wonder what it is.{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}What's that, {Poke}{C1}? You feel something special between us? So do I!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... I sense something about you that's different from the other Pokémon I've met. Do you feel something similar, by any chance?{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... The feeling I have with you is different from how it was with the other Pokémon I've met. Do you feel something similar, by any chance?{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... There's something about you that's different from the other Pokémon I've met. Do you feel something different too?{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... It's... You're...different from...other Pokémon I've met. D-Do you u-understand what I m-mean?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}Oh, {Poke}{C1}... In my long life I've never met a Pokémon quite like you before... Do you know what I'm talking about?{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... There's something special between you and I. Do you feel something similar, by any chance?{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}The bond I share with you is somehow stronger than with other Pokémon, {Poke}{C1}. Do you know what I mean?{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}! Other Pokémon just can't hold a candle to you... You know what I mean?{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}! This feels different from how it did when I met other Pokémon in the past, you know! Do you understand what I mean?{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... The feeling I have with you is somehow different from how it is with other Pokémon. Do you feel something out of the ordinary also?{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... The feeling I have with you is just so different from how it was with the other Pokémon I've met. Do you feel something different too?{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}I sense something about you that's quite different from other Pokémon, {Poke}{C1}... Do you know what I'm talking about?{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... You are different from other Pokémon... Do you feel the same?{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... With you, I feel something special... Do you feel something too...?{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... This feels quite different from how it felt with other Pokémon I met in the past... Do you feel the same?{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}With you, {Poke}{C1}, I feel something special. You are not like other Pokémon. Do you get the same feeling?{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}Little {Poke}{C1}... There's something about you that's different from the other Pokémon I've met, somehow! Do you know what I mean?{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30} I've not met a Pokémon quite like you before, {Poke}{C1}... Do you feel something different around me, too?{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}! I feel something extra special with you―something different from other Pokémon I met in the past! You know what I mean, right?{End}
+    {C1}{End}
+  </Text>
+  <Text ID="4">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:31}I feel as though I can become stronger if you're around, {Poke}{C1}! Let's be friends!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:31}I feel as if I can become stronger if you're around, {Poke}{C1}! Let's be friends!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}Alongside {Poke}{C1}, {Color:31}Nobunaga{Color:33}'s power is certain to increase... Mwahahaha!{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:31}I feel as though I could become stronger if you're around, {Poke}{C1}! Let's be friends!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:31}I feel as though I could become stronger if you're around, {Poke}{C1}! Let's be friends!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}I will grow stronger if we remain together. And you will too, {Poke}{C1}.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}I will grow stronger if we stay together, and so will you. Let us go together, {Poke}{C1}!{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:31}I feel like we'll have fun if we're together, you know, {Poke}{C1}. I'm counting on you!{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:31}I feel like we will both grow stronger if we are together, {Poke}{C1}.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:31}I feel like battles will be more exciting if you are around, {Poke}{C1}.{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}I feel as though I could become stronger if you're around, {Poke}{C1}! Let's be friends!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}I believe I can grow stronger if I'm around you, {Poke}{C1}! I hope you feel the same.{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:31}If you're with me, I feel like I can soar to even greater heights! You know it too, don't you, {Poke}{C1}! {End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}The prospect of battle will be exciting to me if we are together, {Poke}{C1}.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}I feel like I can be stronger with you around, {Poke}{C1}! I'm counting on you!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:31}I reckon I can keep going and going so long as I'm with you, {Poke}{C1}... I'm relying on you.{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}I believe I will have more fun if you are around, {Poke}{C1}! You're coming with me, right?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}Are you with me, {Poke}{C1}?{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:31}I just know my strength will rise to unforeseen heights if you're around, {Poke}{C1}! I'm counting on you!{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}I feel as though I'd be way more energetic if you were around, {Poke}{C1}! Probably. Anyway, let's be friends!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}Hmm... Come with me, {Poke}{C1}.{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}I feel as though I could become stronger if you're around, {Poke}{C1}. Let's be friends.{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}I feel as though I could become stronger if you're around, {Poke}{C1}! Let's be friends!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... If we remain together, I will be stronger still.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}I feel as though I could do a lot better if you're around, {Poke}{C1}! Let's be friends!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:33}I shall grow stronger if we remain together, I think. I'm counting on you, {Poke}{C1}!{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}If you're with me, I reckon I can grow much, much stronger! We're a team, right, {Poke}{C1}?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:31}When you and I are together, {Poke}{C1}, a land of truth and honor is close at hand!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}I believe the love we share will make us both stronger, {Poke}{C1}! I ask for your help always!{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:31}I feel as though I could grow to be a lot stronger with you around, {Poke}{C1}! Let's be friends!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:31}I think I could do a pretty good job with you by my side, {Poke}{C1}!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}I feel like I can become stronger if you are by my side, {Poke}{C1}! I'm counting on you!{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}I will grow even stronger alongside you, {Poke}{C1}... I know it.{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}I feel as though I could become stronger if you're around, {Poke}{C1}! We must stay together!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}I feel like battles are gonna be way more fun with you around, {Poke}{C1}! I'm counting on you!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}I have a feeling that with you around, {Poke}{C1}, my future will be brighter still!{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:31}I'm sure I'll be much more powerful if you're around, {Poke}{C1}! I'm counting on you!{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Come on! Together, {Poke}{C1}, you and I can be the best!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:31}I feel like I'll be a great deal stronger if we are together, {Poke}{C1}! I'm counting on you...{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:31}I feel like I will be more powerful if we are together, {Poke}{C1}! I know it!{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:31}I know I'll be a lot stronger if you're around, {Poke}{C1}! I'm counting on you!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:31}I just feel like I'll be even stronger when I'm with you, {Poke}{C1}! Let's stay partners!{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:31}I reckon I'll be more powerful if we are together, {Poke}{C1}! You and I have to be together forever!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:31}I reckon I'll be more powerful if we're together, {Poke}{C1}! Promise you'll stay with me!{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:31}Anyway, I reckon I'll be way more powerful if we're together, {Poke}{C1}!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:31}You feel we can be a great team together? So do I, {Poke}{C1}!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:31}I feel as though I shall grow more knowledgeable if we are together, {Poke}{C1}. I'm relying on you. {End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:31}I feel like I shall be able to fight so much more wisely if you are beside me, {Poke}{C1}!{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:31}I feel like I shall be able to act much more wisely if you're around, {Poke}{C1}! We'll make quite a team!{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:31}I th-think I might be s-stronger if you were w-with me, {Poke}{C1}... C-Can we be f-friends?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:31}I feel like I'll be a lot more motivated if you're around, {Poke}{C1}! I'm counting on you.{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:31}I feel like I'll just keep getting stronger and stronger if you're around, {Poke}{C1}!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:31}I feel like we could get so close to one another, {Poke}{C1}!{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:31}Things are just more fun when we're together, {Poke}{C1}!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:31}I reckon I'd be able to cause a lot more trouble if you were around, {Poke}{C1}! Let's be pals.{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:31}I feel like I might be able to grow very close to you, {Poke}{C1}! I pledge to treat you well!{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:31}I feel that I shall grow just so much stronger if you are around me, {Poke}{C1}!{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:31}I feel like I could grow a lot stronger if you were by my side, {Poke}{C1}! I'm counting on you...{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:31}Together, {Poke}{C1}, you and I will be stronger.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:31}I think I could grow stronger with you beside me, {Poke}{C1}...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:31}I think I will grow more powerful if we are together, {Poke}{C1}! I really do!{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:31}I shall be more powerful if we are together, {Poke}{C1}! I'm counting on you. {End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:31}I feel like we could be so, so close, you know, {Poke}{C1}! Let's be best friends!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:31}I reckon I'll be a good deal stronger with you beside me, {Poke}{C1}! I'm counting on you!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:31}I think I'm going to be more powerful if we're together, {Poke}{C1}! Swear you'll stay with me!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="5">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:34}{Poke}{C1}... It's weird, but I sense an even greater strength from you now... Do you get the same feeling?{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:34}{Poke}{C1}... It's weird, but I feel an even stronger power from you now... Do you get the same feeling?{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}{Color:31}Nobunaga{Color:33} feels an even stronger power from you now. Do you feel it too, {Poke}{C1}?{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:34}I sense a greater strength from you now than ever before, {Poke}{C1}... You feel it too―I know it.{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Hey, {Poke}{C1}... I feel even greater strength than I did before... You feel it too, right?{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... Now I feel an even greater power when I am with you... Do you feel it too?{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:34}So now you are {Poke}{C1}? I feel an even greater strength when I am with you now... Do you feel it also?{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:34}You know, {Poke}{C1}... Now I feel an even greater strength when I am around you... Do you feel it too?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... The feeling I have with you is different from what it was before. Do you feel something similar, by any chance?{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}...? I feel an even greater strength within you now... I know you must too.{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}...? I feel an even greater strength than ever before... Do you feel it as well?{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Say, {Poke}{C1}... Now I feel an even greater strength when I am around you... Do you feel it too?{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Hey, {Poke}{C1}... I feel an even greater strength when I'm with you now... Seems like you know what I mean...{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}This feeling... {Poke}{C1}... Do you feel it too?{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... I feel an even greater strength with you now... Do you know what I mean?{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Hey, {Poke}{C1}... There's something about you. I feel like you've grown.{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}So now you are {Poke}{C1}, yes? I feel an even greater strength when I am with you now... Do you feel it also?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... I sense an even greater power from you than before... Do you feel it also?{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... Now I sense an even greater power when I'm with you than I did before. Do you sense it too?{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Now I sense an even greater power than we had before, {Poke}{C1}. You feel it too, right?{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... I sense a greater power than I did before... Do you feel it too?{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... I sense a greater power than I did before... Do you feel it too?{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:34}{Poke}{C1}... It's weird―the feeling I have about you seems to have grown stronger... Do you get the same feeling?{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... I feel a greater strength when I am with you now... Do you feel it also?{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Y'know, since you've turned into {Poke}{C1}, I feel an even stronger power than I did before... D'ya feel it too?{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... Now I feel an even greater strength when I am with you... I know you feel it too.{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:31}Hey, {Poke}{C1}... I feel an even greater strength when I am with you now... You know what I mean, don't you...?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:34}{Poke}{C1}... I feel an even greater strength when I am with you now... Do you know what I mean?{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... I now feel a strength that is even greater than before... Do you feel it also?{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... I now feel an even stronger power when I'm with you... You feel it too, right?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... Something feels different from how it did before, you know... Does it to you, too?{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:34}Oh, {Poke}{C1}... I sense true greatness from you now. Do you feel something similar, by any chance?{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... I sense a greater power in you, in us, than I did before... I see that you feel it too.{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:34}{Poke}{C1}... With you, I feel I can become stronger than ever before... You and I share a special bond.{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:34}{Poke}{C1}... You're even stronger than you were before... It's like this is fate!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}Hey, {Poke}{C1}... You seem even stronger than before. You can feel the bond we have, right?{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}Hey, {Poke}{C1}... I feel an even greater strength when I'm with you now... Do you know what I mean?{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:34}{Poke}{C1}... You're even more incredible than before... It's unbelievable!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}Oh, {Poke}{C1}... I sense a greater, stronger bond between us now... Do you know what I'm saying?{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}The power that I sense from you has grown even stronger now, {Poke}{C1}. Do you feel something similar, by any chance?{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... Now I feel an even stronger power when you're around me! Had you noticed that something had changed, too?{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}The power that I sense from you has grown even stronger, {Poke}{C1}. Do you feel something similar, by any chance?{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}Now I sense an even greater bond between us, {Poke}{C1}. Do you feel the same?{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}I sense an even greater power from you now, {Poke}{C1}... Know what I mean?{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}! I sense something about you now... Know what I mean?{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}What's that, {Poke}{C1}? Now that you've evolved, you feel something special between us? Me too!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}Oh, {Poke}{C1}... The light enshrouding us has grown brighter than ever... Do you feel something similar, by any chance?{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}The power that I feel from you has grown stronger, {Poke}{C1}... Do you feel something similar, by any chance?{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}You've changed, {Poke}{C1}... There's something different about you―something special...{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}I f-feel something even s-stronger n-now, {Poke}{C1}... D-Do you know...what I m-mean?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}There is something about you, {Poke}{C1}... Something very, very special.{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}I sense that the bond between us has grown stronger, {Poke}{C1}... Do you feel something similar, by any chance?{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}I sense that the bond that ties us has grown stronger, {Poke}{C1}... Do you feel something similar, by any chance?{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}Now I know it's true. You and I were meant to be together, {Poke}{C1}!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}I feel this strong power when I'm with you, {Poke}{C1}! Greater than it was before... Know what I mean?{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}I feel like the bond between us has grown even stronger now, {Poke}{C1}. Do you feel something similar, by any chance?{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... The feeling I have with you has grown even stronger... How is it with you?{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}I sense an even stronger force between us now, {Poke}{C1}... Do you understand what I mean?{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}The bond we have has grown stronger, {Poke}{C1}... Do you feel the same?{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... What's between us has changed somehow... Do you sense it too...?{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... I feel a stronger force between us than I did before... Do you feel the same thing?{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}The force between us has grown stronger, {Poke}{C1}... Does it seem that way to you, too?{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}Oh, little {Poke}{C1}... The feeling I have with you has grown stronger! Do you know what I mean?{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}I feel an even stronger link between us now, {Poke}{C1}... Do you feel it too?{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}The special feeling between us has grown stronger, {Poke}{C1}! You know what I mean, right?{End}
+    {C1}{End}
+  </Text>
+  <Text ID="6">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:31}Let's stay friends, {Poke}{C1}!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:31}Let's stay friends, {Poke}{C1}!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}Hehe... Mwahahahaha!{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:31}Let's stay together, {Poke}{C1}!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:31}Hey, {Poke}{C1}! We're still a team, right!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}I will grow still stronger if we remain together. And you will too, {Poke}{C1}.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}I will grow even stronger if we stay together, and so will you. Let us go together, {Poke}{C1}!{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:31}I'm still counting on you, {Poke}{C1}! {End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:31}I'm still relying on you, {Poke}{C1}.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:31}I feel like battles will be even more exciting now with you around, {Poke}{C1}.{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}Let's stay together, {Poke}{C1}!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}I believe I can grow even stronger with you, {Poke}{C1}! {End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:31}From now on, I shall soar even higher!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}The prospect of battle will be exciting to me if we are together, {Poke}{C1}.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}I'm still counting on you!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:31}You and I have gotta stay together, all right?{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Splendid! From now on, we shall have even more fun together...{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}Coming, {Poke}{C1}?{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:31}I've got high hopes for us!{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Let's stay friends, {Poke}{C1}!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}Well. Shall we set off, {Poke}{C1}?{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}I feel as though I could become stronger if you're around, {Poke}{C1}. Let's stay friends.{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}Okay! Let's stay friends, {Poke}{C1}!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... Together, we will be unstoppable.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Man, I feel pretty good! We're still a team, yeah?!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:33}I'm sure that I shall grow even stronger if we remain together! I'm still counting on you, {Poke}{C1}.{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}If you're with me, I reckon I can grow even stronger! We're still a team, right, {Poke}{C1}?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:31}I'm relying on your power to help me build a world of love and truth!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}There is nothing that you and I cannot achieve, {Poke}{C1}.{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:31}With you by my side, {Poke}{C1}, I'm unstoppable! Let's stay friends forever!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:31}Let's stay together, {Poke}{C1}!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}I'm still counting on you, {Poke}{C1}! {End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}I will grow even stronger alongside you, {Poke}{C1}... I know it.{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}Let's stay together, {Poke}{C1}!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}When you and I are together, {Poke}{C1}, no one can stop us!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}I'm counting on your power, {Poke}{C1}...{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:31}I'm sure I'll be much more powerful if you're around, {Poke}{C1}! I'm counting on you!{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Right, {Poke}{C1}! I'm counting on ya!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:31}I'm still counting on you, {Poke}{C1}. {End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:31}I'm still counting on you, {Poke}{C1}! {End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:31}Let's serve together, in the name of justice!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:31}I'm counting on you more than ever, {Poke}{C1}! {End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:31}I'm counting on you more than ever, {Poke}{C1}! {End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:31}I've got real high hopes for you, you know!{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:31}Haha! You and I are partners for life!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:31}Together, we will be unstoppable!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:31}An excellent answer. I have high hopes for our future!{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:31}I'm relying on you!{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:31}I sense great things in our future!{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:31}I...I need you...you know...{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:31}I'm counting on you. You know that, right?{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:31}Let's continue to fight together! I'm relying on you!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:31}Please stay with me forever, {Poke}{C1}! {End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:31}With you by my side, the future looks bright!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:31}Right! Let's go cause some trouble!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:31}Let us continue to treat one another well!{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:31}Oh, I'm relying on you just so very much...{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:31}Oh, now that's what I like to hear! I'm counting on you!{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:31}I trust you more than ever. {End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:31}Let us grow stronger together...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:31}Let's try to do our very best together from now on!{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:31}A fine reply! I'm still counting on you. {End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:31}We're gonna be together forever!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:31}I've got high hopes for us! I'm counting on you, you know!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:31}Fantabulous! I'm feeling pretty excited... {End}
+    {C1}{End}
+  </Text>
+  <Text ID="7">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:33}Now that I've brought my partner to the battlefield...{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:33}Now that I've brought my partner to the battlefield...{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}Together, {Color:31}Nobunaga{Color:33} and {Poke}{C1} shall trample all that lies in their path...{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}, can you keep going?{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Yee-hah! There's no stopping me now!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}There is no place for halfheartedness on the battlefield...{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}I shall win, even if I am the last one standing!{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}The best thing about battles is that there are always Pokémon around. {End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}One must never lose one's head on the battlefield. {End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}The good thing about battle is that you never know what will happen!{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:30}We're doing this for everybody, you know.{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}You know what, {Poke}{C1}... Win too convincingly, and you start to grow careless...{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:33}It is only {Poke}{C1} and I who can put an end to this battle!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}I love the smell of the battlefield.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Ohh! I can't see any Pokémari balls around here at all!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}This battle ain't over yet, {Poke}{C1}!{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Everyone is giving it everything that they have―people and Pokémon both!{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}Not a bad battle at all, is it, {Poke}{C1}?{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}Our progress depends on our success in this battle!{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Hey, {Poke}{C1}, I've been thinking. The thing about battles is...{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}The outcome of this battle matters little. {End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}The wind blows whichever way it likes... Isn't that so, {Poke}{C1}?{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:30}There's still so much about the world I don't know, {Poke}{C1}!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}A ninja does not need victory.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Ninjas can do anything! That's what everyone thinks, anyway...{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:33}Any who dare cross the path of my |02,51,65{C1}...{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Boy, it's tough when you're fighting against women... {End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}, victories won with mere numbers will not sway the people's hearts.{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Listen, {Poke}{C1}. Whatever kind of battle you may be fighting...{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}These moments spent together with {Poke}{C1} and my other friends...{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:34}What? What is it, {Poke}{C1}?{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:33}For the sake of my |02,51,65{C1}...{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}{Poke}{C1} and I will claim glory...{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:33}You will not see {Color:31}Ina{Color:33} and {Poke}{C1} running and hiding...{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}A battle for the fate of the kingdom...{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}You know, {Poke}{C1}... Victory in battle is all a matter of reason...{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}All we have to do is continue down the road we have chosen...{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:30}Right, {Poke}{C1}! Let's do these guys in!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}I look forward to adding this battle to our list of victories!{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}Standing alongside Pokémon in battle and overcoming one's enemies...{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}Fight for justice! Protect what matters!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}, let us seize victory for |02,51,65{C1}!{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}It's so much more fun with you around, {Poke}{C1}!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}I feel so brave when I'm around you, {Poke}{C1}...{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}Righto! Now we're in full swing!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}I know I'm still inexperienced, but one day I want to be like |02,51,65{C1}!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}My cunning strategies are famous throughout Ransei.{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}It is not just brute force which brings victory in battle. {End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}I know the enemy's Pokémon, and I know my own... {End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}I-I'm not very good in b-battle...really...{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}Let's hurry up and finish this, {Poke}{C1}!{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}It's strange... I just feel so invincible when I'm with my Pokémon... {End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}Oh, how I love to see {Poke}{C1} in the full swing of battle!{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}Let's wrap this one up as quickly as we can, {Poke}{C1}!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}Haha! I'm having a great time!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}Of course I enjoy going into battle alongside {Poke}{C1}...{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}Well, {Poke}{C1}, let's give it all we've got!{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}When this battle's over, I'll buy you a nice ponigiri or two!{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}Our daily training pays off now.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}We must not lose... We must achieve victory for |02,51,65{C1}...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}We ninjas are supposed to follow |02,51,65{C1} like a shadow...{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}We shall not surrender... For |02,51,65{C1}'s sake!{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}It's weird, you know... Little {Poke}{C1} comes with me everywhere... {End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}Whether it's plowing fields or fighting battles, the key is always to give it some grit!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}These Pokémon are pretty amazing, you know... {End}
+    {C1}{End}
+  </Text>
+</Block>

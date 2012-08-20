@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Block>
+  <Text ID="0">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}I've just returned from my trip. It was a really good experience for me! My bond with {Poke}{C1} grew so much stronger.{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}I've just returned from my trip. My bond with {Poke}{C1} grew stronger, and we both learned so much!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}{Color:31}Nobunaga{Color:33} has returned. No doubt even you can see for yourself how {Poke}{C1} has improved.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:31}I've just got back! It was such a wonderful trip. Just look at how close {Poke}{C1} and I have become!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:31}Guess who's back! Wow, that was one great trip! {Poke}{C1} and I got pretty close, you know!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}I've returned. It appears that {Poke}{C1} has grown much stronger. {End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Here I am. The trip was good for me. It seems that {Poke}{C1} also grew stronger. {End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:31}I'm back! That was pretty good, as trips go! And it looks like the bond between {Poke}{C1} and I grew stronger. {End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:31}I have just got back. A thoroughly excellent trip it was, too. It seems to have strengthened the bond between {Poke}{C1} and I. {End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:31}I've just returned. That was a fine trip! Very fine! And it's done wonders for {Poke}{C1}'s strength.{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}Hey, I'm back! How've you been? I had such a great time! And look how close {Poke}{C1} and I have got!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}I've returned. An interesting expedition all round, that was. {Poke}{C1} and I greatly strengthened our bond. {End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}I have returned, as you can see. The trip was a success, and {Poke}{C1} has grown a great deal stronger!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}I have returned. The trip was a success. I believe {Poke}{C1} has also grown stronger. {End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}I'm back! Now that's what I'd call a real adventure! And it's done absolute wonders for the bond between {Poke}{C1} and me!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:31}Hey, I'm back. It wasn't a bad trip, y'know... Plus my bond with {Poke}{C1} grew stronger. {End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}I'm back... It was a most interesting trip, and it would appear that {Poke}{C1} has grown a good deal. A fine outcome, wouldn't you say?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}I have returned. Fun was had by all, you will be pleased to hear. Seems I managed to build up {Poke}{C1}'s strength into the bargain... {End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}I've just arrived back! What a wonderful experience! And it looks like the bond between {Poke}{C1} and myself grew stronger, as you can see.{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}I'm back! That was a pretty good trip! And my bond with {Poke}{C1} grew a lot stronger!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}I have returned. The trip was a good one. It seems that the bond between {Poke}{C1} and I has grown stronger. {End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:31}I've returned. It was a good trip! It seems that {Poke}{C1} also grew stronger. {End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}Hey! I've just got back. Boy, was that a great trip for me! Plus, my bond with {Poke}{C1} grew so much stronger!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}I have returned. My bond with {Poke}{C1} has grown stronger.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Guess who's back! That was one first-class trip! {Poke}{C1} and I grew really close, you know!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:31}I've returned. That was a great trip. And it would appear that {Poke}{C1} and I now share a stronger bond than ever before.{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:31}I'm back! That was a good trip, you know. {Poke}{C1} and I have gotten pretty tight!{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:31}I have returned, as you can see. My journey was a great success. {Poke}{C1} has learned much of love and honor.{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}I have returned. It was a delightful journey! And you wouldn't believe it, but {Poke}{C1} seems to have grown stronger!{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Guess who's back! That was a tremendous journey! Just look at how close {Poke}{C1} and I have become!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:31}I've just got back! I do enjoy my little travels. Just look at how close {Poke}{C1} and I have become!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}I have just got back! Never have I enjoyed myself so much! It seems to have strengthened the bond between {Poke}{C1} and I. {End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}I have just returned from a most rewarding trip. Observe how strong {Poke}{C1} has become!{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}I've just got back from my voyage. I had a splendid time. Just look at how close {Poke}{C1} and I have become!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Guess who's back! The trip turned out just as I hoped it would... And {Poke}{C1} and I got pretty close, you know!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}I have returned from a very productive journey. I feel that the connection between {Poke}{C1} and I has grown stronger. {End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:31}I've never had so much fun on a trip before. I think the bond between {Poke}{C1} and me has grown stronger, too. {End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Hey, I just got back! That was a seriously great trip, y'know! My bond with {Poke}{C1} grew way stronger!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:31}I've just got back from an excellent trip. It seems to have strengthened the bond between {Poke}{C1} and myself.{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:31}I have just returned. A thoroughly excellent trip it was, too. It seems to have strengthened the bond between {Poke}{C1} and myself.{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:31}I've just this second got back! It was such a wonderful trip! And it seems to have strengthened the bond between {Poke}{C1} and me!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:31}I've just got back. It proved to be a thoroughly educational trip! The bond between {Poke}{C1} and myself seems to have been strengthened to no end.{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:31}I've just got back! What a brilliant trip that was! See how close {Poke}{C1} and I have become! {End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:31}We've just got back! Our little trip for two worked out just great! See how close {Poke}{C1} and I have become...{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:31}We've just got back! That was some trip...and just look at how strong {Poke}{C1} has become!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:31}What's that, {Poke}{C1}? You enjoyed the trip? So did I! And you and I have grown so much closer!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:31}I've just got back. That proved to be a thoroughly educational trip! It seems to have strengthened the bond between {Poke}{C1} and myself.{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:31}We've just got back. The things we saw―they were indescribable! And it seems to have strengthened the bond between {Poke}{C1} and me.{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:31}We've just got back! That journey will live in my memory forever! And the bond between {Poke}{C1} and I has grown so much stronger!{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:31}We've just got b-back. I, uh, enjoyed the t-trip...a lot... {Poke}{C1} and I g-got closer, too...I think... {End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:31}I've just got back from a wonderful trip, you know. I'm sure you can see for yourself how close {Poke}{C1} and I have become!{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:31}We've just got back. I enjoyed myself to no end! And it seems to have strengthened the bond between {Poke}{C1} and me!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:31}I have just got back. A thoroughly excellent trip it was, too. It seems to have strengthened the bond between {Poke}{C1} and me.{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:31}We've just got back! I had a lotta fun―and just look at how strong {Poke}{C1} has gotten!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:31}Yoo-hoo, we've just got back! That was such a great trip... And just look at how strong {Poke}{C1} has got!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:31}We have just returned. We learned a great deal during our time away, and the bond between {Poke}{C1} and me has been greatly strengthened.{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:31}We've just got back. It was a great trip... And {Poke}{C1} and I have grown just so much closer. {End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:31}I've just returned! That was really a most edifying journey. I'm sure you can see for yourself how close {Poke}{C1} and I have become!{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:31}I have returned. The trip was productive. {Poke}{C1} and I grew a great deal closer. {End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:31}I have returned... See how much stronger {Poke}{C1} has grown...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:31}I've just returned! That was really a great trip! {Poke}{C1} and I grew a lot closer!{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:31}We've just got back. You may see for yourself how strong both {Poke}{C1} and I have become. {End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:31}We're back! Wow, that was so much fun! And you'll never guess how close {Poke}{C1} and I have become!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:31}I'm home! Well now, that was an interesting trip! And just look at how close {Poke}{C1} and I have become!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:31}Yoo-hoo, we're back! Our little trip for two worked out splendidly! {Poke}{C1} and I are as close as two peas in a pod... {End}
+    {C1}{End}
+  </Text>
+  <Text ID="1">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:32}Oh, I'm shivering... Am I catching a cold, I wonder. If only I had some medicine...{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:32}Oh, I'm shivering... Am I catching a cold? If only I had some medicine...{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}Hm... A cold? Now, was there any medicine...?{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:32}Oh, I'm sh-shivering. Have I caught a cold? If only I had some medicine...{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Huh? Looks like I've got the shivers. Be great if I had some medicine right about now...{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}I feel a chill. This must be a cold. What is needed now is medicine.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}I feel dizzy... It must be a cold. How pathetic of me! Medicine would cure it, I imagine...{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:32}Well, I say! The shivers, eh? Probably a cold. Now did I have any medicine on me?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:32}I feel somewhat dizzy. Could it be a cold? I'm sure I would get better quickly if I had some medicine...{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Oh, I'm shivering... A cold, I daresay. What's needed now is medicine...{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:32}Aaaa-choo! Hey, what's this? I think I must have caught a cold... If only I had some medicine...{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Say, I've got the chills. A cold, no doubt. Nothing a bit of medicine wouldn't fix...{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Gah, I've got the shivers... Me? A cold? Is it possible? Some medicine would sort me out in no time, I'm sure...{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}To think that the day would come when I would catch a cold... They say medicine helps in cases like these...{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:32}Ohh, I'm sh-shivering... Must be a c-cold... M-M-Medicine―I want medicine!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:33}Sheesh, I'm shivering... A cold? Medicine would sort me out in no time, I'm sure...{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:32}I've come over a little dizzy... A cold, I suppose. Medicine would cure it, I imagine...{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}What is this? The chills? Must be a cold... If only I had some medicine...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:32}Well, well! The shivers, eh? Probably a cold. If only I had some medicine on me...{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:32}Hmm, I'm not feeling too good... Am I catching a cold? Some medicine would be good right about now.{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}Hmm. The shivers. This must be a cold. Cured in no time with a bit of medicine...{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Hmm? I have a chill? This must be a cold. Now, if only I had some medicine...{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:32}Oh, I'm feeling a bit dizzy... Could it be a cold? If only I had some medicine...{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}A chill? Medicine would help, probably.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:33}Man, I feel bad! Guess I must have caught a cold... I wouldn't mind if I only had some medicine...{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:32}How weak of me, to go catching a cold... What I need now is medicine...{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:32}Hey, I'm not feeling too hot... Have I caught a cold? Some medicine would be good right about now...{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:34}Oh! Everything is spinning... A cold, I'll wager. Some medicine would sort me out in no time, I'm sure...{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Oh! I've come over a little dizzy... A cold, I suppose. Some medicine would be wonderful now...{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:32}Man, I feel pretty lousy! Guess I must have caught a cold... Now, have I got any medicine?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:32}Heavens above, the world is spinning. Have I caught a cold, I wonder. If only I had some medicine...{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:32}I've come over all shivery. Am I catching a cold? I'm sure I would get better quickly if I had some medicine...{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}Hmm. I believe I have caught a cold... I should try and find some medicine...{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:32}Goodness, I'm shivering. Have I caught a cold, I wonder. If only I had some medicine...{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Huh? Looks like I've got the shivers. I think I must have caught a cold. Be great if I had some medicine...{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}Ah-choo! What's this now? Me? A cold? Hm, if only I had some medicine...{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}I'm not feeling in top form... Probably getting a cold. Some medicine would be useful now...{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:32}Man, do I feel lousy! A cold? What a drag... Do I have any medicine on me?{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:32}Hm, I have a terrible chill. Could it be a cold? A bit of medicine would sort me out nicely, now... {End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:32}Oh, I don't feel so well. Could it be a cold? I'm sure I would get better quickly if I had some medicine...{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:32}Brrr... I'm shivering! A cold?! I'm sure some medicine would sort it out...{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:32}I just can't seem to get warm... Looks like I might have caught a cold. Some medicine would be useful now...{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:32}Hm, I'm not feeling too hot... Looks like I might have caught a cold. Now, did I have any medicine?{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:32}Hm, I'm feeling a bit chilly... Must be a cold... Now, did I have any medicine on me?{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:32}Brrr... I'm shivering like mad. Must be a cold... Now, did I have any medicine on me?{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:32}Oh dear, I'm shivering. Is it a cold? I'm sure some medicine would sort it out...{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:32}I'm not feeling at my best... I suspect I might have caught a cold. Did I remember to stock up on medicine?{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:32}Brr! I've got the shivers, it seems... This must be a cold. I'm sure some medicine would sort it out...{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:32}Urgh... I feel awful... This must be a cold. I'm sure some medicine would sort it out...{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:32}Oh, I'm sh-sh-shivering! Is this a...c-cold? Is there any m-medicine?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:32}Oh dear, I've got a case of the shivers... I must have picked up a cold somewhere. A bit of medicine would be very useful...{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:32}Oh dear, I've got a bad case of the shivers... This must be a cold. If only I had some medicine...{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:32}Oh dear, I feel somewhat dizzy. Could this be a cold? I'm sure I would get better quickly if I only had some medicine...{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:32}Argh, I feel lousy! Must be a cold... Is there any medicine about?{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:32}Sh-Sh-Shivers? Oh man, not a cold... Is there any medicine about?{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:32}Oh heavens, I'm a little dizzy... This must be a cold. Of course, medicine helps at times like these...{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:32}Oh, I've got the shivers... I can't sell anything if I've got a cold, can I now... What I need is some medicine...{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:32}Oh dear, I'm feeling chilly... I must have picked up a cold somewhere. I can't remember now whether I had any medicine with me or not... {End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:32}I have caught a cold. Clearly, I am still not sufficiently disciplined... I must find medicine.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:32}Is this a cold? If only I had some medicine...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:32}Ugh... Looks as though I've caught a cold! Some medicine would be helpful...{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:32}I feel...a little dizzy... How pathetic, to go catching a cold! Did I have any medicine on me...?{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:32}Brrrr, I'm shivering like crazy... This must be a cold! I wish I had some medicine...{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:32}Oh dear, I've started to feel a bit under the weather... I must have picked up a cold somewhere. Is there any medicine about, I wonder...{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:32}Brrrr, I'm sh-shiv-v-vering... Must be a c-cold... Now, did I have any medicine on me?{End}
+    {C1}{End}
+  </Text>
+  <Text ID="2">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:32}Oh, I'm shivering... That cold from the neighboring kingdom must have made it over here too. Now, I wonder if I've got some medicine somewhere...{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:32}Oh, I'm shivering... That cold from the neighboring kingdom must have made it over here too. Now, I wonder if I've got some medicine somewhere...{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}Hm... That cold came wafting over here from that other kingdom... To {Color:31}Nobunaga{Color:33}! Now, was there any medicine...?{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:32}Oh, I'm sh-shivering. Have I caught that cold from the other kingdom? If only I had some medicine...{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Huh? Looks like I've got the shivers. Must have caught that cold from the other land. Be great if I had some medicine right about now...{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}A chill. This must be that cold from the neighboring kingdom. What is needed now is medicine.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}I feel chilled. It must be that cold from our neighboring land. Medicine would cure it, I imagine...{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:32}Well, I say! The shivers, eh? That cold from the other kingdom has probably made it over here. Now did I have any medicine on me?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:32}I feel somewhat dizzy. Could that cold from the other kingdom have found its way here? I'm sure I would get better quickly if I had some medicine...{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Oh, I'm shivering... It's that other kingdom's cold, I daresay. What's needed now is medicine...{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:32}Aaaa-choo! Hey, what's this? I think I must have caught that cold from the next kingdom... If only I had some medicine...{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Say, I've got the chills. That cold from that neighboring land, no doubt. Nothing a bit of medicine wouldn't fix...{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Gah, I've got the shivers... Me? That cold from that other kingdom? Is it possible? Some medicine would sort me out in no time, I'm sure...{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}It must be that cold from our neighboring land. They say medicine helps in cases like these...{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:32}Ohh, I'm sh-shivering... Must be that c-cold from the other k-kingdom... M-M-Medicine―I want medicine!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:33}Hmm, I'm shivering... That cold from the other kingdom has made it over here? Medicine would sort me out in no time, I'm sure...{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:32}I've come over a little dizzy... I suppose I've caught that cold from the neighboring kingdom. Medicine would cure it, I imagine...{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}What is this? The chills? Must be that cold spread from those other kingdoms... If only I had some medicine...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:32}Well, well! The shivers, eh? Must be that cold from the other kingdom come wafting over here. If only I had some medicine on me...{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:32}Hmm, I'm not feeling too good... I must have caught that cold from the other kingdom. Some medicine would be good right about now.{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}Hmm. The shivers. This must be that cold from that other kingdom. Cured in no time with a bit of medicine...{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}I feel chilled... The cold from across the border must have made it over here. Now, if only I had some medicine...{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:32}Oh, I'm feeling a bit dizzy... I bet it's that cold from that other kingdom. If only I had some medicine...{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}A chill? That cold from that neighboring kingdom? Medicine would help, probably.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:33}Man, I feel bad! Guess I must have caught that other kingdom's cold. Be great if I had some medicine...{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:32}I must have caught that cold from the neighboring kingdom. I think I need some medicine.{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:32}Hey, I'm not feeling too hot... Have I caught that cold from the next kingdom? Some medicine would be good right about now...{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:34}Oh! Everything is spinning... That cold from the other kingdom has made it over here, I'd wager. Some medicine would sort me out in no time, I'm sure...{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Oh! I've come over a little dizzy... That cold from the neighboring kingdom, I suppose. Some medicine would be just the thing...{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:32}Man, I feel pretty lousy! Guess I must have caught that cold from across the border... Now, have I got any medicine?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:32}Heavens above, the world is spinning. This must be that cold from the other kingdom. If only I had some medicine...{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:32}I've come over all shivery. Have I caught that cold from that other land? I'm sure I would get better quickly if I had some medicine...{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}I am afraid that cold from the other country is making its presence felt. I should try and find some medicine...{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:32}Goodness, I'm shivering. This must be that cold from the other kingdom. If only I had some medicine...{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Huh? Looks like I've got the shivers. Must have caught that cold that's been going around. Be great if I had some medicine...{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}Ah-choo! What's this now? This must be that cold come across from the other kingdom. I need medicine...{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}I'm not feeling so good... Could this be that cold from the other kingdom? Some medicine would sort me out in no time, I'm sure...{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:32}Man, do I feel lousy! I bet this is one of those foreign cold bugs. Do I have any medicine on me?{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:32}Hm, I have a terrible chill. Could it be that cold come over from the other kingdom? A bit of medicine would sort me out nicely...{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:32}Oh, I don't feel so well. Could it be that cold come over from the other kingdom? I'm sure I would get better quickly if I had some medicine...{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:32}Brrr... I'm shivering! Must be that cold come over from the other kingdom! I'm sure some medicine would sort it out...{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:32}I just can't seem to warm up. Could it be that cold come over from the other kingdom? Some medicine would be useful now...{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:32}Hm, I'm not feeling too hot... Could it be that cold come over from the other kingdom? Now, did I have any medicine?{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:32}Hm, I'm feeling a bit chilly... Could it be that cold come over from the other kingdom? Now, did I have any medicine on me?{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:32}Brrr... I'm shivering like mad. Could it be that cold spread from across the border? Now, did I have any medicine on me?{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:32}Oh dear, I'm shivering. Could it be that cold come over from the other kingdom? I'm sure some medicine would sort it out...{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:32}I'm not feeling at my best... Could it be that cold come over from the other kingdom? Did I remember to stock up on medicine?{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:32}Brr! I've got the shivers, it seems... Could it be that cold come over from the other kingdom? I'm sure some medicine would sort it out...{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:32}Urgh... I feel awful... Could it be that cold come over from the other kingdom? I'm sure some medicine would sort it out...{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:32}Oh, I'm sh-sh-shivering! Is this that c-cold from the other k-kingdom? Is there any m-medicine?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:32}Oh dear, I've got a case of the shivers... I must have picked up that cold from the other kingdom. A bit of medicine would be very useful...{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:32}Oh dear, I've got a bad case of the shivers... Could it be that cold from the other kingdom I've heard about? If only I had some medicine...{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:32}Oh dear, I feel somewhat dizzy. Could this be that cold come over from the other kingdom? I'm sure I would get better quickly if I only had some medicine...{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:32}Argh, I feel lousy! Could it be that cold come over from the other kingdom? Is there any medicine about?{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:32}Sh-Sh-Shivers? Oh man, not that cold come over from the other kingdom. Is there any medicine about?{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:32}Oh heavens, I'm a little dizzy... This must be that cold come over from the other kingdom. Of course, medicine helps at times like these...{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:32}Oh, I've got the shivers... Could it be that cold come over from the other kingdom? What I need is some medicine...{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:32}Oh dear, I'm feeling chilly... I must have picked up that cold from the other kingdom. I can't remember now whether I had any medicine with me or not... {End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:32}I have caught a cold. Could it be that virus come over from the other kingdom? I must find medicine.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:32}Must be that cold from the other kingdom... If only I had some medicine...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:32}Ugh... Looks as though I've caught that cold from across the border! Some medicine would be really helpful...{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:32}I feel...a little dizzy... That cold come over from the other kingdom, I'll wager. Did I have any medicine on me...?{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:32}Brrrr, I'm shivering like crazy... This must be that cold come over from the other kingdom! I wish I had some medicine...{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:32}Oh dear, I've started to feel a bit under the weather... I must have picked up that cold from across the border. Is there any medicine about, I wonder... {End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:32}Brrrr, I'm sh-shiv-v-vering... Must be that c-cold come over from the other kingdom. Now, did I have any medicine on me?{End}
+    {C1}{End}
+  </Text>
+  <Text ID="3">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}This is a perfect chance to buy some useful items!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}This is a great chance to buy some items that might help us out!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}Now let us buy some items.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}This is a perfect chance to buy some useful items!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Hey, great! Better buy up some items, eh?{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}Now is the time to buy useful items.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Now is the ideal time to buy some useful items.{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}Well, this is a great chance. I think it's the time to buy up some useful items!{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}An excellent opportunity to buy up some items that will be of use.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}This is a great chance! Buy up some useful items!{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:30}All right! What a great chance to buy up some useful items!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Well, I daresay this is as good a chance as any to buy up some useful items.{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}I tell you, now is a great time to buy some useful items.{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}Now is the ideal time to procure some useful items.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Ohh, this is a great chance! We must buy up some wonderful items!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}This ain't a bad time to buy up some useful items.{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:30}A fine opportunity. We must purchase some items to help us in our plight. {End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}This is a perfect opportunity. It would be advisable to buy up some serviceable items...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}Oh well, this is a great opportunity. We should try and purchase some useful items, shouldn't we?{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Hey, isn't this a great chance to buy some items that'll come in handy in the future? {End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}This is a good opportunity. I shall buy up some useful items. {End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}A great opportunity! Now would be an excellent time to buy up some useful items, I believe. {End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:30}This is a perfect chance to buy some useful items!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Now is the time to buy items that will be of use.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Hey, great! Better buy up some useful items, huh?{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}A good chance to buy some items that will be of use in future battles.{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}This is perfect. We should buy up some useful items!{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}What a fine opportunity. Let's purchase some useful items, shall we?{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}A fine opportunity. I shall purchase some items to help us in our plight. {End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Wow, what perfect timing! Better stock up on some useful items, eh?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}Wow, what a great opportunity! Now is the perfect time to buy some interesting items!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:30}This is a great chance to buy up some items that will be of use in the future!{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}This is a good opportunity. We must buy up some useful items. {End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:30}This is an excellent opportunity! We must pick up some useful items!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Wow, perfect timing! Let's get ourselves some useful items.{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}A fine opportunity to buy some useful items.{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}A fine opportunity to buy some useful items.{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Hey! This is the perfect chance to stock up!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}A fine opportunity to buy up some items that will be of use in the future.{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}Well, this is an excellent opportunity to buy up some items that will be of use in the future...{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}An excellent opportunity to buy up some useful items, methinks...{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}Well! This is a great opportunity to buy up some useful items...{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}Well! This is a great opportunity to buy up some useful items...{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}Hey! This is the perfect chance to buy up some useful items...{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}Hey! This sounds like a good chance to buy up some useful items...{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}Well, this is an excellent opportunity to buy up some items that will be of use in the future...{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}A good opportunity to purchase some useful items...{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}Well, this is an excellent opportunity! We must buy up some serviceable items!{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}We mustn't miss out on this opportunity! Let's buy up some serviceable items!{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}Well, this is a good ch-chance...I think... Maybe we should b-buy some useful items?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}A fine opportunity to buy up some useful items, I say...{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}Well, this is a great opportunity! We must buy some useful items!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}Well, this is an excellent opportunity to procure some items that will be of use in the future...{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}Hey! A great chance. How 'bout buying some useful items?{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}Whoa, what an opportunity! How about we buy some useful items?{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}An excellent opportunity! It would be a good idea to buy up some serviceable items!{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}Well, this is an excellent opportunity! We simply must hunt down some useful items!{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}A fine opportunity... I say we try to buy some useful gear. How about it?{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}A fine opportunity to buy items.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}This is a good chance to buy some serviceable items...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}Now this is quite an opportunity! Let's stock up on some useful items!{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}Well, this is a good opportunity to buy up some useful items.{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}Well, this is a really great opportunity! Let's buy some really useful items!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}A fine opportunity, I say! Let's buy up some useful items...{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}An opportunity like this cannot be passed up! Let us purchase as much as we can carry!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="4">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}Speak of the devil... That must be her!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}Speak of the devil... That must be her!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}Who comes here?{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}Wow, talk about coincidence. She must be the one, no?{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}Hey! Speak of the devil, eh?!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}It seems somebody is coming over. I wonder if she overheard us...{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Well, speak of the devil... {End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}Now, there's a coincidence if ever I saw one...{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}It seems that someone is coming in this direction...{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Speak of the devil, and all that... Isn't that her there?{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:30}Hey, talk about a coincidence! It's this girl, right?{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Speak of the devil... {End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Talk of the devil, and... That's the girl, no?{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}Talk of the devil, and she is bound to appear...{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Ohh! Speak of the devil!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Hey, wait. Ain't that the girl there?{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:30}And here she is.{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}It looks like someone's shown up...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}Well, speak of the devil! {End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:30}Speak of the devil... Isn't this the girl?{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}It seems that someone has arrived. {End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Talk of the devil, and she is bound to appear...{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:30}Speak of the devil... It must be that girl there!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Someone comes.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Speak of the devil, huh?! D'ya think this is the girl?{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}Well, well... Who's this coming over?{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:31}Hey, speak of the devil! Check out this cutie!{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}Talk of the devil, and... Look who's coming over here!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Well, well. Somebody is coming this way!{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}So one cute girl isn't enough, huh? Hey, wait a minute! Someone's heading in our direction...{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}Oh, isn't that girl heading our way?{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:30}Well, would you believe it?! Look who's coming this way! Isn't that her?{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}Seems that someone is making their way over here...{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:30}Goodness, talk about a coincidence. This must be the lady!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Wait a minute... Isn't that her, there?{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}Hmm, it seems like someone is headed in our direction...{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}Hey! Isn't that the lady there?{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:30}Hey! That's gotta be the girl there!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}It seems someone is coming this way...{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}Well, look at this! It seems someone is heading over here...{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}Well, speak of the devil... Isn't this the girl?{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}Goodness, look at that! It seems someone is heading over here...{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}Well, well... Isn't that her heading over here now?{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}Well, well, speak of the devil! Isn't that the girl, over there?{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}Hey, look! Isn't that the girl over there?{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}Hmm? Isn't that her over there?{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}Well, well! It seems someone has decided to grace us with their presence...{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}Oh, yes! Isn't that her heading over here now?{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}Oh, I say, is that the young lady there?{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}O-Oh! Isn't it... Is that the g-girl?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}Well well, speak of the devil! Isn't that her heading over here now?{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}Look! That must be her...{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}Well, well, it seems as though somebody is coming this way... {End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}Whoa, would you believe that?! Isn't that the girl, over there?{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}Whoa! There she is now!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}Well, speak of the devil! Isn't that her making her way over here now?{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}Hmph... I believe that is the young lady heading over here now.{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}Well well... Isn't that her headed this way?{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}That is her.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}It seems someone has arrived...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}That's the girl there, isn't it?{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}Wait a minute, I see someone heading in our direction...{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}Wow! Check out that cutie coming over here!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}Look at that! This must be the girl, no?{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}Speak of the devil and... The girl will appear! Look! Over there!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="5">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:32}I guess I'm not of much use in this army...{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:32}I guess I'm not of much use in this army...{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}It would appear this army doesn't require the services of {Color:31}Nobunaga{Color:33}...{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:33}Oh... Am I not helping the army very much?{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:33}Argh! I'm not making much of a name for myself in this army, am I?!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}It seems there's no reason for me to remain in this army.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:33}So this army no longer wants me! I see!{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:32}Oh dear... Taking it easy is all well and good, but nobody likes to be bored...{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:32}I am not required by this army anymore, is it not so?{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Oh... Battling isn't much fun with this lot. {End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:32}Aww... I'm not helping this army much, am I?{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Why doesn't this army want to make use of me? It's an outrage!{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:33}But why?! Why wouldn't this army want to use me as much as they could?!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}So my power is of no use here... {End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:33}Deary me, I'm not being of much help in this army...{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}I'm bored to death in this army... Ain't there a better use for my time than this?{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:30}I see... There's nothing for me to do, isn't that right? {End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}This army doesn't need me for anything... Is this a slight on my power?{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:32}Oh... This army doesn't really need me. I see.{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:32}I do kinda like sleeping all day every day, but even that gets boring after a while...{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}It seems my power is useless here... {End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:31}My strength is going to waste in this army...{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:33}Oh... I'm so bored!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}My strength is not needed here.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:33}This is so dull... Just let me do something, please!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:32}I'm no longer needed in this army, it seems...{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}It's nice to be employed and all that, but I've got absolutely nothing to do here!{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}My service seems to be redundant in this army...{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}It seems that I am not needed by this army...{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:33}Man, why doesn't anybody around here ever give me anything to do?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:32}Oh, how I wish I had something to do...{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:32}I don't seem to be serving much of a function in this army, it has to be said...{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}Should I take it that my power is unwanted in this army?{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:32}It is clear that I am of no use to you...{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Man alive, am I bored...{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:32}It seems this army has no intention of putting me to use...{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}I don't think my talents are needed much by this army... {End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:33}Man! Why do they never let me do anything around here?{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:33}This army doesn't need me any longer... {End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:33}This army doesn't seem to have very much use for me...{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:33}Am I not needed by this army anymore?!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:33}Hmm... It seems I'm not serving much purpose in this army... {End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:33}Hm? Is my service not valued in this army?{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:33}I gotta say, I don't really feel like I'm doing much good in this army...{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:33}There's nothing to do in this army! I'll have to take up knitting at this rate... {End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:33}Hmm, it seems like we're not needed by this army... {End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:33}I don't feel that I'm serving much purpose in this army... {End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:33}Well now... It seems this army doesn't have much use for me.{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:33}Hm, it certainly appears as though this army doesn't have much use for me...{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:33}Oh dear... It seems like th-they don't really need m-me in this army...{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:33}It looks to me as if this army doesn't need me any longer... {End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:33}Am I superfluous to the requirements of this army?{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:33}It would appear that I'm not of much use in this army...{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:33}Oh man, I'm so bored. All I do these days is sit around twiddling my thumbs...{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:33}Ugh... How much boredom can one guy stand, I ask you.{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:33}It would appear that my presence in this army is not of much use.{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:33}Oh, this army isn't using me for very much at all, is it now?{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:33}I'm not doing much good here in this army...{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:33}My service is not needed here...{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:33}My strength...not needed in this army... {End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:33}This army isn't putting me to any use at all...{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:33}Hm, it appears I'm not much needed by this army... {End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:33}Oh... I'm bored! I haven't done anything for ages, you know!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:33}What's going on? Seems like this army doesn't need me any longer... {End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:33}Methinks this army underestimates both the power of my might and the might of my power!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="6">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:31}This is a perfect chance to find some Warriors from other kingdoms! Let's go look, {Poke}{C1}!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:31}This is a perfect chance to recruit some Warriors from other kingdoms! Let's go look, {Poke}{C1}!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}Now is the time to recruit Warriors from other lands. Come along, {Poke}{C1}.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}This is an amazing chance to recruit some Warriors from other kingdoms! Let's begin, {Poke}{C1}!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:31}Yee-hah! This is our chance to recruit some Warriors from other kingdoms. C'mon, {Poke}{C1}!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}Now is the time to scout for Warriors from other kingdoms. Let us go, {Poke}{C1}!{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Now is the ideal time to recruit some Warriors from other kingdoms. Shall we go, {Poke}{C1}?{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}Well, I say! This is a great chance to recruit some Warriors from other kingdoms. Coming, {Poke}{C1}?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:31}This is a great chance to recruit Warriors from other kingdoms. Let us take our leave, {Poke}{C1}.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:31}This is a great chance to hunt for Warriors from other kingdoms to recruit! Come, {Poke}{C1}!{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}All right! This is a fantastic chance to scout for Warriors from other kingdoms! Coming, {Poke}{C1}?{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Hmm, this is a great chance to find Warriors from other lands. Shall we, {Poke}{C1}?{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Now is the perfect time to find Warriors from other kingdoms to recruit. We're off, {Poke}{C1}!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}Now is the time to scout for brave Warriors from other lands. Come, {Poke}{C1}.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Ohh! This is just such a great chance to scout for Warriors from other kingdoms! Come, {Poke}{C1}!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:31}Right! Now is a good time to recruit some Warriors from other kingdoms! Come, {Poke}{C1}.{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Well! If this isn't the ideal time to recruit some Warriors from other kingdoms, I don't know what is. Shall we go, {Poke}{C1}?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}We might be able to recruit some foreign Warriors. There is no time to waste, {Poke}{C1}!{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:31}Well, well! Now this is a fine opportunity to recruit Warriors from other kingdoms! Shall we set off, {Poke}{C1}?{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Hey! Wouldn't this be a good time to scout for Warriors from other kingdoms? Let's go look, {Poke}{C1}!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}Now is the time to recruit some foreign Warriors. Come, {Poke}{C1}.{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:31}This is a perfect opportunity to recruit some Warriors from other kingdoms. Shall we go, {Poke}{C1}?{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}Okay! This is as fine a chance as any to recruit Warriors from other kingdoms! Let's go look, {Poke}{C1}!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}We can recruit foreign Warriors. Come, {Poke}{C1}.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Yee-hah! This is our chance to search for Warriors from other kingdoms to recruit. C'mon, {Poke}{C1}!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}Now is our chance to recruit Warriors from other kingdoms. Let's go, {Poke}{C1}!{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:31}Hey, this is a great time to scout for cute girls from other kingdoms. Let's take our chances, {Poke}{C1}!{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:31}Well! This is a fine time to recruit some Warriors from other kingdoms. Let's go, {Poke}{C1}!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}This is an ideal time to scout for Warriors from other kingdoms. Shall we go, {Poke}{C1}?{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Okay! This is a great chance to recruit some Warriors from other kingdoms. You coming, {Poke}{C1}?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:31}Wouldn't this just be a perfect chance to find some Warriors from other kingdoms to recruit for our army? Let's get started, {Poke}{C1}!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}This is a great chance to find Warriors from other kingdoms to join our army! Let's go, {Poke}{C1}!{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}This is an excellent time to scout for foreign Warriors to join our cause. Come, {Poke}{C1}.{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}This is a wonderful chance to recruit some Warriors from other kingdoms! Let's make a start, {Poke}{C1}!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Okay! This is a perfect chance to hunt down some Warriors from other kingdoms to join us. C'mon, {Poke}{C1}!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}This is a fine time to scout for human resources from other kingdoms. We're off, {Poke}{C1}!{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}This is a great time to recruit some Warriors from other kingdoms. Let's hit the road, {Poke}{C1}!{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Now would be a great time to find guys from other kingdoms to join our army! C'mon, {Poke}{C1}.{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:31}Well, I say! This is a great chance to recruit some Warriors from other kingdoms. Let's head off straightaway, {Poke}{C1}.{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:31}This is a great opportunity to recruit some Warriors from other kingdoms. There's no time to lose, {Poke}{C1}!{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:31}Well! What a great chance to recruit some Warriors from other kingdoms! Let's head off, {Poke}{C1}!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:31}This is a great chance to recruit some Warriors from other kingdoms. Let's head off right away, {Poke}{C1}!{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:31}You've got to be kidding! This is a great chance to recruit some Warriors from other kingdoms. No time to lose, {Poke}{C1}!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:31}Whoa! This is a great chance to scout out some Warriors from the other kingdoms. No time to lose, {Poke}{C1}!{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:31}For real? This sounds like a great chance to recruit some Warriors from other kingdoms. Let's get scouting, {Poke}{C1}!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:31}What's that, {Poke}{C1}? You think we should recruit Warriors from other kingdoms? What a great idea!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:31}This is a great chance to recruit some Warriors from other kingdoms. Let's head off right away, {Poke}{C1}!{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:31}Well now! This is a great chance to recruit some Warriors from other kingdoms. Let's set off, {Poke}{C1}!{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:31}Hey! This is a great chance to hunt for some Warriors from other kingdoms to join our army. No time to waste, {Poke}{C1}!{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:31}Th-This might be a chance to recruit some W-Warriors from other lands... Let's give it a t-try at least, {Poke}{C1}...{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:31}Well, I say! This looks to me like a great chance to recruit Warriors from the other kingdoms. Let's head off right away, {Poke}{C1}.{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:31}Seriously? This is a great chance to recruit some Warriors from other kingdoms! Let's set off right away, {Poke}{C1}!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:31}Well now! This is a great chance to recruit some Warriors from other kingdoms. There's no time to lose, {Poke}{C1}!{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:31}Whoa! This is a perfect chance to find some new Warriors from other kingdoms. Let's get scouting, {Poke}{C1}!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:31}Okay! This is a perfect chance to scout for some Warriors from other kingdoms. Let's go, {Poke}{C1}!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:31}Well! This seems like a great chance to recruit some Warriors from other kingdoms. Let us set off, {Poke}{C1}!{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:31}Well! This is a simply perfect opportunity to recruit some Warriors from the other kingdoms. Let's go, {Poke}{C1}!{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:31}Well, this looks to me like a chance to recruit some fine Warriors from other kingdoms for our army. Come along, {Poke}{C1}!{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:31}We must recruit some Warriors from other kingdoms. Come, {Poke}{C1}!{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:31}This is a good time to recruit some foreign Warriors... Come, {Poke}{C1}...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:31}Well! This is a brilliant chance to recruit some Warriors from across the border! Come, {Poke}{C1}!{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:31}Oh, now... This is a great chance to recruit some Warriors from other kingdoms. There's no time to lose, {Poke}{C1}!{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:31}Wow! This is such a great chance to recruit some Warriors from other kingdoms! Let's go, {Poke}{C1}!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:31}Well, now! This looks to me like a great chance to recruit Warriors from the other kingdoms. Let's be off, {Poke}{C1}!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:31}Huzzah! This is a fine chance to scout out some Warriors from the other kingdoms. Let's hit the road, {Poke}{C1}!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="7">
+    {Unk2 P:0}{C1}{NameColor:30}{CharImage:31}Hey, it seems like {Poke}{C1}'s spirits have lifted! {End}
+    {Unk2 P:1}{C1}{NameColor:30}{CharImage:31}Hey, it seems like {Poke}{C1}'s spirits have lifted! {End}
+    {Unk2 P:2}{C1}{NameColor:30}{CharImage:31}Hehe. This rain pleases you, {Poke}{C1}?{End}
+    {Unk2 P:3}{C1}{NameColor:30}{CharImage:31}{Poke}{C1} is looking quite a bit stronger!{End}
+    {Unk2 P:4}{C1}{NameColor:30}{CharImage:31}Hey! {Poke}{C1} seems to be perking up!{End}
+    {Unk2 P:5}{C1}{NameColor:30}{CharImage:31}It seems the rain is pleasing to {Poke}{C1}.{End}
+    {Unk2 P:6}{C1}{NameColor:30}{CharImage:30}It seems {Poke}{C1} likes the rain...{End}
+    {Unk2 P:7}{C1}{NameColor:30}{CharImage:31}Goodness, it seems that the rain is doing {Poke}{C1} good...{End}
+    {Unk2 P:8}{C1}{NameColor:30}{CharImage:30}Yet the rain seems to have done {Poke}{C1} good...{End}
+    {Unk2 P:9}{C1}{NameColor:30}{CharImage:30}However... It seems like {Poke}{C1} has livened up a bit.{End}
+    {Unk2 P:10}{C1}{NameColor:30}{CharImage:31}Hey, but {Poke}{C1} is looking a bit healthier! {End}
+    {Unk2 P:11}{C1}{NameColor:30}{CharImage:30}Say, it seems this rain is doing {Poke}{C1} good...{End}
+    {Unk2 P:12}{C1}{NameColor:30}{CharImage:30}Seems like {Poke}{C1} likes the rain...{End}
+    {Unk2 P:13}{C1}{NameColor:30}{CharImage:30}It seems {Poke}{C1} has been filled with vigor by this rain...{End}
+    {Unk2 P:14}{C1}{NameColor:30}{CharImage:30}But it seems like {Poke}{C1} has cheered up a bit!{End}
+    {Unk2 P:15}{C1}{NameColor:30}{CharImage:31}Course, {Poke}{C1} likes the rain. This downpour is lifting his spirits.{End}
+    {Unk2 P:16}{C1}{NameColor:30}{CharImage:31}{Poke}{C1} appears to have bucked up a little!{End}
+    {Unk2 P:17}{C1}{NameColor:30}{CharImage:30}It seems {Poke}{C1} likes this rain...{End}
+    {Unk2 P:18}{C1}{NameColor:30}{CharImage:31}Well, I'll be! It seems that the rain is doing {Poke}{C1} some good...{End}
+    {Unk2 P:19}{C1}{NameColor:30}{CharImage:31}Whoa, it seems like the rain has picked {Poke}{C1}'s spirits up!{End}
+    {Unk2 P:20}{C1}{NameColor:30}{CharImage:30}But it seems {Poke}{C1} has been enlivened by the rain...{End}
+    {Unk2 P:21}{C1}{NameColor:30}{CharImage:31}But {Poke}{C1} is looking a lot perkier!{End}
+    {Unk2 P:22}{C1}{NameColor:30}{CharImage:31}But hey, it seems like {Poke}{C1} has bucked up a bit!{End}
+    {Unk2 P:23}{C1}{NameColor:30}{CharImage:30}But {Poke}{C1} likes the rain...{End}
+    {Unk2 P:24}{C1}{NameColor:30}{CharImage:30}Man, would you look at that? {Poke}{C1} seems to be bucking up!{End}
+    {Unk2 P:25}{C1}{NameColor:30}{CharImage:31}But the rain seems to be doing {Poke}{C1} some good...{End}
+    {Unk2 P:26}{C1}{NameColor:30}{CharImage:30}Hey, but it seems like {Poke}{C1} is doing a lot better!{End}
+    {Unk2 P:27}{C1}{NameColor:30}{CharImage:31}But it seems that the rain has done wonders for {Poke}{C1}'s spirits!{End}
+    {Unk2 P:28}{C1}{NameColor:30}{CharImage:30}But it seems that the rain has had a positive effect on {Poke}{C1}!{End}
+    {Unk2 P:29}{C1}{NameColor:30}{CharImage:30}But look, {Poke}{C1} seems to have bucked up!{End}
+    {Unk2 P:30}{C1}{NameColor:30}{CharImage:31}But {Poke}{C1} looks in fine spirits!{End}
+    {Unk2 P:31}{C1}{NameColor:30}{CharImage:30}But the rain seems to have done {Poke}{C1} good...{End}
+    {Unk2 P:32}{C1}{NameColor:30}{CharImage:30}But it seems {Poke}{C1} has been enlivened by the rain...{End}
+    {Unk2 P:33}{C1}{NameColor:30}{CharImage:31}But {Poke}{C1} is looking quite a bit stronger!{End}
+    {Unk2 P:34}{C1}{NameColor:30}{CharImage:30}But just look at {Poke}{C1}! Full of beans!{End}
+    {Unk2 P:35}{C1}{NameColor:30}{CharImage:30}But it seems like this rain is doing {Poke}{C1} good...{End}
+    {Unk2 P:36}{C1}{NameColor:30}{CharImage:31}But it seems like this rain is doing {Poke}{C1} good...{End}
+    {Unk2 P:37}{C1}{NameColor:30}{CharImage:30}But {Poke}{C1} seems kinda happy in this rain... {End}
+    {Unk2 P:100}{C1}{NameColor:30}{CharImage:31}But the rain seems to have done {Poke}{C1} no end of good...{End}
+    {Unk2 P:101}{C1}{NameColor:30}{CharImage:31}Yet the rain seems to have done {Poke}{C1} good...{End}
+    {Unk2 P:102}{C1}{NameColor:30}{CharImage:31}But the rain seems to have done wonders for {Poke}{C1}!{End}
+    {Unk2 P:103}{C1}{NameColor:30}{CharImage:31}Yet the rain seems to have done {Poke}{C1} good...{End}
+    {Unk2 P:104}{C1}{NameColor:30}{CharImage:31}Yet the rain seems to have done {Poke}{C1} good...{End}
+    {Unk2 P:105}{C1}{NameColor:30}{CharImage:31}But it sure seems like the rain has bucked {Poke}{C1} up a bit...{End}
+    {Unk2 P:106}{C1}{NameColor:30}{CharImage:31}But it sure seems like the rain has cheered {Poke}{C1} up...{End}
+    {Unk2 P:107}{C1}{NameColor:30}{CharImage:31}What's that, {Poke}{C1}? The rain is making you feel better?{End}
+    {Unk2 P:108}{C1}{NameColor:30}{CharImage:31}However, the rain seems to have restored {Poke}{C1} to good spirits...{End}
+    {Unk2 P:109}{C1}{NameColor:30}{CharImage:31}Yet I see that the rain has done {Poke}{C1} some good...{End}
+    {Unk2 P:110}{C1}{NameColor:30}{CharImage:31}But, it definitely looks like the rain has done {Poke}{C1} some good...{End}
+    {Unk2 P:111}{C1}{NameColor:30}{CharImage:31}B-But... {Poke}{C1} looks very w-well... Because of the rain? C-Could it be?{End}
+    {Unk2 P:112}{C1}{NameColor:30}{CharImage:31}But this rain seems to have done {Poke}{C1} no end of good...{End}
+    {Unk2 P:113}{C1}{NameColor:30}{CharImage:31}But you know, it seems like the rain has done {Poke}{C1} some good...{End}
+    {Unk2 P:114}{C1}{NameColor:30}{CharImage:31}Yet the rain seems to have done {Poke}{C1} good...{End}
+    {Unk2 P:116}{C1}{NameColor:30}{CharImage:31}But y'know, it sure seems like the rain has bucked {Poke}{C1} up...{End}
+    {Unk2 P:117}{C1}{NameColor:30}{CharImage:31}You know what, though, it sure seems like the rain has done {Poke}{C1} some good...{End}
+    {Unk2 P:118}{C1}{NameColor:30}{CharImage:31}However, {Poke}{C1} has grown livelier with the rain...{End}
+    {Unk2 P:119}{C1}{NameColor:30}{CharImage:31}But...I think I can see that the rain has done {Poke}{C1} some good...{End}
+    {Unk2 P:121}{C1}{NameColor:30}{CharImage:31}But this rain seems to have done {Poke}{C1} no end of good...{End}
+    {Unk2 P:122}{C1}{NameColor:30}{CharImage:31}The rain seems to have done {Poke}{C1} some good.{End}
+    {Unk2 P:123}{C1}{NameColor:30}{CharImage:31}But... It seems {Poke}{C1} likes this rain...{End}
+    {Unk2 P:124}{C1}{NameColor:30}{CharImage:31}But this rain has done {Poke}{C1} a world of good!{End}
+    {Unk2 P:125}{C1}{NameColor:30}{CharImage:31}But it appears that the rain has done {Poke}{C1} some good.{End}
+    {Unk2 P:126}{C1}{NameColor:30}{CharImage:31}But you know, it really seems like the rain has made little {Poke}{C1} more lively!{End}
+    {Unk2 P:128}{C1}{NameColor:30}{CharImage:31}But this rain seems to have done {Poke}{C1} no end of good...{End}
+    {Unk2 P:129}{C1}{NameColor:30}{CharImage:31}I think this rain has given {Poke}{C1}'s energy a bit of a boost...{End}
+    {C1}{End}
+  </Text>
+</Block>

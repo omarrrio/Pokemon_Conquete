@@ -1,0 +1,552 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Block>
+  <Text ID="0">{C1}{Char:0000}{NameColor:30}{CharImage:30}...!{End}</Text>
+  <Text ID="1">{C1}{Char:9999}{NameColor:30}{CharImage:30}And so {Name}{C1} won the great {Color:34}battle{Color:33} against the other {Color:34}Warlords{Color:33},{End}</Text>
+  <Text ID="2">{C1}{Char:9999}{NameColor:30}{CharImage:30}and became famous throughout {Color:34}Ransei{Color:33}.{End}</Text>
+  <Text ID="3">{C1}{Char:9999}{NameColor:30}{CharImage:30}Indeed, the legend of {Name}{C1} continues to inspire the people of {Color:34}Ransei{Color:33} to this very day.{End}</Text>
+  <Text ID="4">{C1}{Char:9999}{NameColor:30}{CharImage:30}Dummy{End}</Text>
+  <Text ID="5">
+    {Unk2 P:0}{C1}{NameColor:30}{CharImage:33}I'll show you what I'm made of!{End}
+    {Unk2 P:1}{C1}{NameColor:30}{CharImage:33}I'll show you what I'm made of!{End}
+    {Unk2 P:2}{C1}{NameColor:30}{CharImage:30}Take down all who would resist.{End}
+    {Unk2 P:3}{C1}{NameColor:30}{CharImage:30}I'll give it everything I've got!{End}
+    {Unk2 P:4}{C1}{NameColor:30}{CharImage:30}We'll show 'em what we've got!{End}
+    {Unk2 P:5}{C1}{NameColor:30}{CharImage:30}Shall we begin?{End}
+    {Unk2 P:6}{C1}{NameColor:30}{CharImage:30}Our pride will not permit defeat!{End}
+    {Unk2 P:7}{C1}{NameColor:30}{CharImage:30}Who will prove victorious today?{End}
+    {Unk2 P:8}{C1}{NameColor:30}{CharImage:30}This is all for the good of Ransei...{End}
+    {Unk2 P:9}{C1}{NameColor:30}{CharImage:30}Let's have a little fun.{End}
+    {Unk2 P:10}{C1}{NameColor:30}{CharImage:30}Okay! Now you listen up, all right?!{End}
+    {Unk2 P:11}{C1}{NameColor:30}{CharImage:30}It's my turn, is it?{End}
+    {Unk2 P:12}{C1}{NameColor:30}{CharImage:30}There's no stopping me now!{End}
+    {Unk2 P:13}{C1}{NameColor:30}{CharImage:30}Let us savor this battle together.{End}
+    {Unk2 P:14}{C1}{NameColor:30}{CharImage:30}Oh! I wonder if they play Pokémari?{End}
+    {Unk2 P:15}{C1}{NameColor:30}{CharImage:30}I'm not over the hill just yet.{End}
+    {Unk2 P:16}{C1}{NameColor:30}{CharImage:30}Kneel before me.{End}
+    {Unk2 P:17}{C1}{NameColor:30}{CharImage:31}Throw them into oblivion.{End}
+    {Unk2 P:18}{C1}{NameColor:30}{CharImage:30}We must follow our path to the end.{End}
+    {Unk2 P:19}{C1}{NameColor:30}{CharImage:32}Let's do this before I fall asleep.{End}
+    {Unk2 P:20}{C1}{NameColor:30}{CharImage:30}Eliminate the enemy with haste.{End}
+    {Unk2 P:21}{C1}{NameColor:30}{CharImage:30}Let's hope for a challenging enemy.{End}
+    {Unk2 P:22}{C1}{NameColor:30}{CharImage:30}Tell me―do you have what it takes?{End}
+    {Unk2 P:23}{C1}{NameColor:30}{CharImage:30}Duty must be fulfilled.{End}
+    {Unk2 P:24}{C1}{NameColor:30}{CharImage:30}Off to work we go!{End}
+    {Unk2 P:25}{C1}{NameColor:30}{CharImage:30}We shall prove our might today!{End}
+    {Unk2 P:26}{C1}{NameColor:30}{CharImage:30}I'm more than just a pretty face!{End}
+    {Unk2 P:27}{C1}{NameColor:30}{CharImage:30}For all my beloved Pokémon!{End}
+    {Unk2 P:28}{C1}{NameColor:30}{CharImage:30}My duty will be done.{End}
+    {Unk2 P:29}{C1}{NameColor:30}{CharImage:30}This is one battle I'm going to win!{End}
+    {Unk2 P:30}{C1}{NameColor:30}{CharImage:30}This is my time to shine!{End}
+    {Unk2 P:31}{C1}{NameColor:30}{CharImage:30}It is time to test our faith!{End}
+    {Unk2 P:32}{C1}{NameColor:30}{CharImage:30}Out of my way!{End}
+    {Unk2 P:33}{C1}{NameColor:30}{CharImage:33}To battle!{End}
+    {Unk2 P:34}{C1}{NameColor:30}{CharImage:30}Time to get down and dirty!{End}
+    {Unk2 P:35}{C1}{NameColor:30}{CharImage:30}This won't take long.{End}
+    {Unk2 P:36}{C1}{NameColor:30}{CharImage:30}We're gonna win. It's so obvious!{End}
+    {Unk2 P:37}{C1}{NameColor:30}{CharImage:30}I'm going straight to the top!{End}
+    {Unk2 P:100}{C1}{NameColor:30}{CharImage:30}Let's go, shall we, {Poke}{C1}?{End}
+    {Unk2 P:101}{C1}{NameColor:30}{CharImage:30}Let us begin, {Poke}{C1}!{End}
+    {Unk2 P:102}{C1}{NameColor:30}{CharImage:30}Let's begin, {Poke}{C1}!{End}
+    {Unk2 P:103}{C1}{NameColor:30}{CharImage:30}Let us proceed, {Poke}{C1}!{End}
+    {Unk2 P:104}{C1}{NameColor:30}{CharImage:30}We're off, {Poke}{C1}!{End}
+    {Unk2 P:105}{C1}{NameColor:30}{CharImage:30}Come on, {Poke}{C1}!{End}
+    {Unk2 P:106}{C1}{NameColor:30}{CharImage:30}Righto! Let's get 'em, {Poke}{C1}!{End}
+    {Unk2 P:107}{C1}{NameColor:30}{CharImage:30}You ready, {Poke}{C1}?{End}
+    {Unk2 P:108}{C1}{NameColor:30}{CharImage:30}Let us set off, {Poke}{C1}!{End}
+    {Unk2 P:109}{C1}{NameColor:30}{CharImage:30}Right! Let's move, {Poke}{C1}!{End}
+    {Unk2 P:110}{C1}{NameColor:30}{CharImage:30}Onward, {Poke}{C1}!{End}
+    {Unk2 P:111}{C1}{NameColor:30}{CharImage:30}L-Let's g-go, {Poke}{C1}!{End}
+    {Unk2 P:112}{C1}{NameColor:30}{CharImage:30}Right, {Poke}{C1}! Let's set off!{End}
+    {Unk2 P:113}{C1}{NameColor:30}{CharImage:30}Okay, let's go, {Poke}{C1}!{End}
+    {Unk2 P:114}{C1}{NameColor:30}{CharImage:30}Let us set forth, {Poke}{C1}!{End}
+    {Unk2 P:116}{C1}{NameColor:30}{CharImage:30}At the ready, {Poke}{C1}!{End}
+    {Unk2 P:117}{C1}{NameColor:30}{CharImage:30}Okay! Let's take off, {Poke}{C1}!{End}
+    {Unk2 P:118}{C1}{NameColor:30}{CharImage:30}Let us be off, {Poke}{C1}!{End}
+    {Unk2 P:119}{C1}{NameColor:30}{CharImage:30}Come along, {Poke}{C1}!{End}
+    {Unk2 P:121}{C1}{NameColor:30}{CharImage:30}Well, shall we go, {Poke}{C1}?{End}
+    {Unk2 P:122}{C1}{NameColor:30}{CharImage:30}Now, {Poke}{C1}.{End}
+    {Unk2 P:123}{C1}{NameColor:30}{CharImage:30}{Poke}{C1}... We move.{End}
+    {Unk2 P:124}{C1}{NameColor:30}{CharImage:30}We're off, {Poke}{C1}!{End}
+    {Unk2 P:125}{C1}{NameColor:30}{CharImage:30}We move, {Poke}{C1}!{End}
+    {Unk2 P:126}{C1}{NameColor:30}{CharImage:30}Okay, little {Poke}{C1}! Let's go!{End}
+    {Unk2 P:128}{C1}{NameColor:30}{CharImage:30}Alrighty! Let's go, {Poke}{C1}!{End}
+    {Unk2 P:129}{C1}{NameColor:30}{CharImage:30}Proceed, {Poke}{C1}!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="6">
+    {Unk2 P:0}{C1}{NameColor:30}{CharImage:33}I'll defend this kingdom to the very end!{End}
+    {Unk2 P:1}{C1}{NameColor:30}{CharImage:33}I'll defend this kingdom to the very end!{End}
+    {Unk2 P:2}{C1}{NameColor:30}{CharImage:30}Resist. There is no alternative.{End}
+    {Unk2 P:3}{C1}{NameColor:30}{CharImage:30}This battle must not be lost!{End}
+    {Unk2 P:4}{C1}{NameColor:30}{CharImage:30}Yeah, we'll take you on!{End}
+    {Unk2 P:5}{C1}{NameColor:30}{CharImage:30}I can hear the rhythm of fate.{End}
+    {Unk2 P:6}{C1}{NameColor:30}{CharImage:30}On my honor, you will be stopped!{End}
+    {Unk2 P:7}{C1}{NameColor:30}{CharImage:30}Give our guests a cordial welcome.{End}
+    {Unk2 P:8}{C1}{NameColor:30}{CharImage:30}I am ready to face my opponent.{End}
+    {Unk2 P:9}{C1}{NameColor:30}{CharImage:30}We must be thankful for this chance.{End}
+    {Unk2 P:10}{C1}{NameColor:30}{CharImage:30}Naughtiness cannot go unpunished!{End}
+    {Unk2 P:11}{C1}{NameColor:30}{CharImage:30}Let's prove just how strong we are.{End}
+    {Unk2 P:12}{C1}{NameColor:30}{CharImage:30}They don't know what they're doing.{End}
+    {Unk2 P:13}{C1}{NameColor:30}{CharImage:30}The fates shall decide the victor.{End}
+    {Unk2 P:14}{C1}{NameColor:30}{CharImage:30}Oh! Battles are such fun! {End}
+    {Unk2 P:15}{C1}{NameColor:30}{CharImage:30}Well, better take 'em on, I guess.{End}
+    {Unk2 P:16}{C1}{NameColor:30}{CharImage:30}They shan't forget me in a hurry.{End}
+    {Unk2 P:17}{C1}{NameColor:30}{CharImage:31}They must want to be crushed...{End}
+    {Unk2 P:18}{C1}{NameColor:30}{CharImage:30}Show the pride of the Warrior!{End}
+    {Unk2 P:19}{C1}{NameColor:30}{CharImage:31}Your luck has just run out.{End}
+    {Unk2 P:20}{C1}{NameColor:30}{CharImage:30}Unaware of your own folly...{End}
+    {Unk2 P:21}{C1}{NameColor:30}{CharImage:30}They won't get away with this. {End}
+    {Unk2 P:22}{C1}{NameColor:30}{CharImage:30}Nobody's taking this castle from us!{End}
+    {Unk2 P:23}{C1}{NameColor:30}{CharImage:30}Defend...{End}
+    {Unk2 P:24}{C1}{NameColor:30}{CharImage:30}Another day, another battle!{End}
+    {Unk2 P:25}{C1}{NameColor:30}{CharImage:30}Protect this land with all we have!{End}
+    {Unk2 P:26}{C1}{NameColor:30}{CharImage:30}May the best man win!{End}
+    {Unk2 P:27}{C1}{NameColor:30}{CharImage:33}Our army will stand and fight!{End}
+    {Unk2 P:28}{C1}{NameColor:30}{CharImage:30}I shall teach them a lesson.{End}
+    {Unk2 P:29}{C1}{NameColor:30}{CharImage:30}There's no way I'll lose to you!{End}
+    {Unk2 P:30}{C1}{NameColor:30}{CharImage:30}Troublemakers always get taken down!{End}
+    {Unk2 P:31}{C1}{NameColor:30}{CharImage:33}We will not go down easily!{End}
+    {Unk2 P:32}{C1}{NameColor:30}{CharImage:30}A challenge. Excellent. {End}
+    {Unk2 P:33}{C1}{NameColor:30}{CharImage:33}I would risk my life for this land!{End}
+    {Unk2 P:34}{C1}{NameColor:30}{CharImage:30}Let's tear up the battlefield!{End}
+    {Unk2 P:35}{C1}{NameColor:30}{CharImage:30}I won't lose to the likes of you!{End}
+    {Unk2 P:36}{C1}{NameColor:30}{CharImage:30}To protect that which is dear to us!{End}
+    {Unk2 P:37}{C1}{NameColor:30}{CharImage:30}No way we're giving up this castle!{End}
+    {Unk2 P:100}{C1}{NameColor:30}{CharImage:30}Let's go, shall we, {Poke}{C1}?{End}
+    {Unk2 P:101}{C1}{NameColor:30}{CharImage:30}Let us begin, {Poke}{C1}!{End}
+    {Unk2 P:102}{C1}{NameColor:30}{CharImage:30}Let's begin, {Poke}{C1}!{End}
+    {Unk2 P:103}{C1}{NameColor:30}{CharImage:30}Let us proceed, {Poke}{C1}!{End}
+    {Unk2 P:104}{C1}{NameColor:30}{CharImage:30}We're off, {Poke}{C1}!{End}
+    {Unk2 P:105}{C1}{NameColor:30}{CharImage:30}Come on, {Poke}{C1}!{End}
+    {Unk2 P:106}{C1}{NameColor:30}{CharImage:30}Righto! Let's get 'em, {Poke}{C1}!{End}
+    {Unk2 P:107}{C1}{NameColor:30}{CharImage:30}You ready, {Poke}{C1}?{End}
+    {Unk2 P:108}{C1}{NameColor:30}{CharImage:30}Let us set off, {Poke}{C1}!{End}
+    {Unk2 P:109}{C1}{NameColor:30}{CharImage:30}Right! Let's move, {Poke}{C1}!{End}
+    {Unk2 P:110}{C1}{NameColor:30}{CharImage:30}Onward, {Poke}{C1}!{End}
+    {Unk2 P:111}{C1}{NameColor:30}{CharImage:30}L-Let's g-go, {Poke}{C1}!{End}
+    {Unk2 P:112}{C1}{NameColor:30}{CharImage:30}Right, {Poke}{C1}! Let's set off!{End}
+    {Unk2 P:113}{C1}{NameColor:30}{CharImage:30}Okay, let's go, {Poke}{C1}!{End}
+    {Unk2 P:114}{C1}{NameColor:30}{CharImage:30}Let us set forth, {Poke}{C1}!{End}
+    {Unk2 P:116}{C1}{NameColor:30}{CharImage:30}At the ready, {Poke}{C1}!{End}
+    {Unk2 P:117}{C1}{NameColor:30}{CharImage:30}Okay! Let's take off, {Poke}{C1}!{End}
+    {Unk2 P:118}{C1}{NameColor:30}{CharImage:30}Let us be off, {Poke}{C1}!{End}
+    {Unk2 P:119}{C1}{NameColor:30}{CharImage:30}Come along, {Poke}{C1}!{End}
+    {Unk2 P:121}{C1}{NameColor:30}{CharImage:30}Well, shall we go, {Poke}{C1}?{End}
+    {Unk2 P:122}{C1}{NameColor:30}{CharImage:30}Now, {Poke}{C1}.{End}
+    {Unk2 P:123}{C1}{NameColor:30}{CharImage:30}{Poke}{C1}... We move.{End}
+    {Unk2 P:124}{C1}{NameColor:30}{CharImage:30}We're off, {Poke}{C1}!{End}
+    {Unk2 P:125}{C1}{NameColor:30}{CharImage:30}We move, {Poke}{C1}!{End}
+    {Unk2 P:126}{C1}{NameColor:30}{CharImage:30}Okay, little {Poke}{C1}! Let's go!{End}
+    {Unk2 P:128}{C1}{NameColor:30}{CharImage:30}Alrighty! Let's go, {Poke}{C1}!{End}
+    {Unk2 P:129}{C1}{NameColor:30}{CharImage:30}Proceed, {Poke}{C1}!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="7">
+    {Unk2 P:0}{C1}{NameColor:30}{CharImage:30}Let's go!{End}
+    {Unk2 P:1}{C1}{NameColor:30}{CharImage:30}Let's go!{End}
+    {Unk2 P:2}{C1}{NameColor:30}{CharImage:30}Ha...{End}
+    {Unk2 P:3}{C1}{NameColor:30}{CharImage:33}Okay, let's go!{End}
+    {Unk2 P:4}{C1}{NameColor:30}{CharImage:30}Okay, let's go!{End}
+    {Unk2 P:5}{C1}{NameColor:30}{CharImage:30}Let's go.{End}
+    {Unk2 P:6}{C1}{NameColor:30}{CharImage:30}Forward!{End}
+    {Unk2 P:7}{C1}{NameColor:30}{CharImage:30}Okay, let's get started then. {End}
+    {Unk2 P:8}{C1}{NameColor:30}{CharImage:30}Away we go.{End}
+    {Unk2 P:9}{C1}{NameColor:30}{CharImage:30}Let's do this.{End}
+    {Unk2 P:10}{C1}{NameColor:30}{CharImage:30}I'll give it all I've got!{End}
+    {Unk2 P:11}{C1}{NameColor:30}{CharImage:30}Right, let's venture forth!{End}
+    {Unk2 P:12}{C1}{NameColor:30}{CharImage:30}I'll take care of this!{End}
+    {Unk2 P:13}{C1}{NameColor:30}{CharImage:30}Now, we fight. {End}
+    {Unk2 P:14}{C1}{NameColor:30}{CharImage:30}Let's go!{End}
+    {Unk2 P:15}{C1}{NameColor:30}{CharImage:30}Let's go.{End}
+    {Unk2 P:16}{C1}{NameColor:30}{CharImage:30}Let us begin. {End}
+    {Unk2 P:17}{C1}{NameColor:30}{CharImage:30}Go...{End}
+    {Unk2 P:18}{C1}{NameColor:30}{CharImage:30}Let us begin. {End}
+    {Unk2 P:19}{C1}{NameColor:30}{CharImage:30}Okay, then! Let's make a move!{End}
+    {Unk2 P:20}{C1}{NameColor:30}{CharImage:30}Hm. {End}
+    {Unk2 P:21}{C1}{NameColor:30}{CharImage:30}The time has come, has it?{End}
+    {Unk2 P:22}{C1}{NameColor:30}{CharImage:30}Let's go!{End}
+    {Unk2 P:23}{C1}{NameColor:30}{CharImage:30}Go.{End}
+    {Unk2 P:24}{C1}{NameColor:30}{CharImage:30}Right, let's go!{End}
+    {Unk2 P:25}{C1}{NameColor:30}{CharImage:30}Now!{End}
+    {Unk2 P:26}{C1}{NameColor:30}{CharImage:30}This is our job, after all...{End}
+    {Unk2 P:27}{C1}{NameColor:30}{CharImage:30}For honor!{End}
+    {Unk2 P:28}{C1}{NameColor:30}{CharImage:30}Let us be off!{End}
+    {Unk2 P:29}{C1}{NameColor:30}{CharImage:30}My turn!{End}
+    {Unk2 P:30}{C1}{NameColor:30}{CharImage:30}Away we go!{End}
+    {Unk2 P:31}{C1}{NameColor:30}{CharImage:30}I shall step forward!{End}
+    {Unk2 P:32}{C1}{NameColor:30}{CharImage:30}I will advance.{End}
+    {Unk2 P:33}{C1}{NameColor:30}{CharImage:30}Forward!{End}
+    {Unk2 P:34}{C1}{NameColor:30}{CharImage:30}Okay! Looks like it's our turn!{End}
+    {Unk2 P:35}{C1}{NameColor:30}{CharImage:30}Go.{End}
+    {Unk2 P:36}{C1}{NameColor:30}{CharImage:30}Let's go, shall we...?{End}
+    {Unk2 P:37}{C1}{NameColor:30}{CharImage:30}Yeahhh!{End}
+    {Unk2 P:100}{C1}{NameColor:30}{CharImage:30}Experience will make the difference.{End}
+    {Unk2 P:101}{C1}{NameColor:30}{CharImage:30}Time to step forth.{End}
+    {Unk2 P:102}{C1}{NameColor:30}{CharImage:30}I'll give all the strength I have!{End}
+    {Unk2 P:103}{C1}{NameColor:30}{CharImage:30}Let us proceed.{End}
+    {Unk2 P:104}{C1}{NameColor:30}{CharImage:30}My turn! I've been waiting for this!{End}
+    {Unk2 P:105}{C1}{NameColor:30}{CharImage:30}Right! Let's have a bit of fun here!{End}
+    {Unk2 P:106}{C1}{NameColor:30}{CharImage:30}Right! Let's get this one started!{End}
+    {Unk2 P:107}{C1}{NameColor:30}{CharImage:30}I'll do the very best I can!{End}
+    {Unk2 P:108}{C1}{NameColor:30}{CharImage:30}Let's get this over with.{End}
+    {Unk2 P:109}{C1}{NameColor:30}{CharImage:30}Well then, let's get started!{End}
+    {Unk2 P:110}{C1}{NameColor:30}{CharImage:30}Swiftly and accurately!{End}
+    {Unk2 P:111}{C1}{NameColor:30}{CharImage:30}I'll t-try to w-win; I p-promise...{End}
+    {Unk2 P:112}{C1}{NameColor:30}{CharImage:30}Right then, I must make a move.{End}
+    {Unk2 P:113}{C1}{NameColor:30}{CharImage:30}Victory as usual...coming up! {End}
+    {Unk2 P:114}{C1}{NameColor:30}{CharImage:30}Let us venture forth!{End}
+    {Unk2 P:116}{C1}{NameColor:30}{CharImage:30}All hands on deck!{End}
+    {Unk2 P:117}{C1}{NameColor:30}{CharImage:30}Outta my way!{End}
+    {Unk2 P:118}{C1}{NameColor:30}{CharImage:30}I believe it is our turn.{End}
+    {Unk2 P:119}{C1}{NameColor:30}{CharImage:30}Away we go!{End}
+    {Unk2 P:121}{C1}{NameColor:30}{CharImage:30}Be gentle on me, please!{End}
+    {Unk2 P:122}{C1}{NameColor:30}{CharImage:30}Mission initiated.{End}
+    {Unk2 P:123}{C1}{NameColor:30}{CharImage:30}I have my mission...{End}
+    {Unk2 P:124}{C1}{NameColor:30}{CharImage:30}I'll show you how a ninja fights!{End}
+    {Unk2 P:125}{C1}{NameColor:30}{CharImage:30}Our mission begins here.{End}
+    {Unk2 P:126}{C1}{NameColor:30}{CharImage:30}Check out these ninja skills!{End}
+    {Unk2 P:128}{C1}{NameColor:30}{CharImage:30}I'm gonna hit you with my best shot!{End}
+    {Unk2 P:129}{C1}{NameColor:30}{CharImage:30}Commence the attack!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="8">
+    {Unk2 P:0}{C1}{NameColor:30}{CharImage:30}Still sleeping, eh...{End}
+    {Unk2 P:1}{C1}{NameColor:30}{CharImage:30}Still sleeping...{End}
+    {Unk2 P:2}{C1}{NameColor:30}{CharImage:30}Will you not wake?{End}
+    {Unk2 P:3}{C1}{NameColor:30}{CharImage:33}Oh... Please wake up!{End}
+    {Unk2 P:4}{C1}{NameColor:30}{CharImage:30}Still asleep? Pah!{End}
+    {Unk2 P:5}{C1}{NameColor:30}{CharImage:30}Still asleep... Pah.{End}
+    {Unk2 P:6}{C1}{NameColor:30}{CharImage:30}Hmm... Sleeping soundly.{End}
+    {Unk2 P:7}{C1}{NameColor:30}{CharImage:30}Oh, I see! You're still asleep.{End}
+    {Unk2 P:8}{C1}{NameColor:30}{CharImage:30}No sign of awakening...{End}
+    {Unk2 P:9}{C1}{NameColor:30}{CharImage:30}Still asleep, eh?{End}
+    {Unk2 P:10}{C1}{NameColor:30}{CharImage:30}Hey, sleepyhead!{End}
+    {Unk2 P:11}{C1}{NameColor:30}{CharImage:30}Still snoozing away...?{End}
+    {Unk2 P:12}{C1}{NameColor:30}{CharImage:30}Wake up!{End}
+    {Unk2 P:13}{C1}{NameColor:30}{CharImage:30}Still slumbering...{End}
+    {Unk2 P:14}{C1}{NameColor:30}{CharImage:30}Still lounging about, are we?{End}
+    {Unk2 P:15}{C1}{NameColor:30}{CharImage:30}You're still sleeping...?{End}
+    {Unk2 P:16}{C1}{NameColor:30}{CharImage:30}Still dreaming... {End}
+    {Unk2 P:17}{C1}{NameColor:30}{CharImage:30}Hm... Sleeping...{End}
+    {Unk2 P:18}{C1}{NameColor:30}{CharImage:30}Oh, still not up?{End}
+    {Unk2 P:19}{C1}{NameColor:30}{CharImage:30}Yeah, I wanna sleep too...{End}
+    {Unk2 P:20}{C1}{NameColor:30}{CharImage:30}Will not wake up, it seems. {End}
+    {Unk2 P:21}{C1}{NameColor:30}{CharImage:30}Still asleep, I'd say.{End}
+    {Unk2 P:22}{C1}{NameColor:30}{CharImage:30}Hey! Wake up!{End}
+    {Unk2 P:23}{C1}{NameColor:30}{CharImage:30}Wake up.{End}
+    {Unk2 P:24}{C1}{NameColor:30}{CharImage:30}No way! Still asleep?!{End}
+    {Unk2 P:25}{C1}{NameColor:30}{CharImage:30}Still fast asleep...{End}
+    {Unk2 P:26}{C1}{NameColor:30}{CharImage:30}Time to wake up soon, surely.{End}
+    {Unk2 P:27}{C1}{NameColor:30}{CharImage:30}Wake up!{End}
+    {Unk2 P:28}{C1}{NameColor:30}{CharImage:30}Still in the land of sweet dreams?{End}
+    {Unk2 P:29}{C1}{NameColor:30}{CharImage:30}Pah! Aren't you gonna wake up?{End}
+    {Unk2 P:30}{C1}{NameColor:30}{CharImage:30}Please wake up...{End}
+    {Unk2 P:31}{C1}{NameColor:30}{CharImage:30}Still snoozing...{End}
+    {Unk2 P:32}{C1}{NameColor:30}{CharImage:30}Sleeping still.{End}
+    {Unk2 P:33}{C1}{NameColor:30}{CharImage:30}Oh... Wake up!{End}
+    {Unk2 P:34}{C1}{NameColor:30}{CharImage:30}Still not up, eh...{End}
+    {Unk2 P:35}{C1}{NameColor:30}{CharImage:30}Asleep. Still. {End}
+    {Unk2 P:36}{C1}{NameColor:30}{CharImage:30}Still snoring!{End}
+    {Unk2 P:37}{C1}{NameColor:30}{CharImage:30}Get up, I said!{End}
+    {Unk2 P:100}{C1}{NameColor:30}{CharImage:30}Well well, still not up, eh...?{End}
+    {Unk2 P:101}{C1}{NameColor:30}{CharImage:30}Excuse me? Would you mind waking up?{End}
+    {Unk2 P:102}{C1}{NameColor:30}{CharImage:30}Hey! Wake up!{End}
+    {Unk2 P:103}{C1}{NameColor:30}{CharImage:33}Oh dear, still not awake...{End}
+    {Unk2 P:104}{C1}{NameColor:30}{CharImage:30}Hey! Wake up, won't you!{End}
+    {Unk2 P:105}{C1}{NameColor:30}{CharImage:30}Hey... Still snoozing, huh?{End}
+    {Unk2 P:106}{C1}{NameColor:30}{CharImage:30}Hey, you! Wake up!{End}
+    {Unk2 P:107}{C1}{NameColor:30}{CharImage:30}Please wake up. I need you.{End}
+    {Unk2 P:108}{C1}{NameColor:30}{CharImage:30}No intention of waking up, hm?{End}
+    {Unk2 P:109}{C1}{NameColor:30}{CharImage:30}Oh dear, what's to be done?{End}
+    {Unk2 P:110}{C1}{NameColor:30}{CharImage:30}Oh... Still asleep, it would seem!{End}
+    {Unk2 P:111}{C1}{NameColor:30}{CharImage:30}Oh, w-wake up...p-please...{End}
+    {Unk2 P:112}{C1}{NameColor:30}{CharImage:30}Yes, sleeping makes you strong!{End}
+    {Unk2 P:113}{C1}{NameColor:30}{CharImage:30}Hmm... Not waking up...{End}
+    {Unk2 P:114}{C1}{NameColor:30}{CharImage:30}Oh, taking a nap, are we?{End}
+    {Unk2 P:116}{C1}{NameColor:30}{CharImage:30}Hey! No sleeping!{End}
+    {Unk2 P:117}{C1}{NameColor:30}{CharImage:30}Hey! You! Wake up! {End}
+    {Unk2 P:118}{C1}{NameColor:30}{CharImage:30}Oh... You do not wish to awaken?{End}
+    {Unk2 P:119}{C1}{NameColor:30}{CharImage:30}Oh! Still sleeping, it seems... {End}
+    {Unk2 P:121}{C1}{NameColor:30}{CharImage:30}Oh... Still snoozing away...{End}
+    {Unk2 P:122}{C1}{NameColor:30}{CharImage:30}Still not up...{End}
+    {Unk2 P:123}{C1}{NameColor:30}{CharImage:30}Asleep...{End}
+    {Unk2 P:124}{C1}{NameColor:30}{CharImage:30}I'd like you to wake up, please...{End}
+    {Unk2 P:125}{C1}{NameColor:30}{CharImage:30}Still not up...{End}
+    {Unk2 P:126}{C1}{NameColor:30}{CharImage:30}Hey! You! Wake up!{End}
+    {Unk2 P:128}{C1}{NameColor:30}{CharImage:30}Hey there! Wake up!{End}
+    {Unk2 P:129}{C1}{NameColor:30}{CharImage:30}Oh... In the land of Nod still... {End}
+    {C1}{End}
+  </Text>
+  <Text ID="9">
+    {Unk2 P:0}{C1}{NameColor:30}{CharImage:30}Oh, you can't move...{End}
+    {Unk2 P:1}{C1}{NameColor:30}{CharImage:30}You still can't move...?{End}
+    {Unk2 P:2}{C1}{NameColor:30}{CharImage:30}Will you not move?{End}
+    {Unk2 P:3}{C1}{NameColor:30}{CharImage:33}Oh... You can't move, huh?{End}
+    {Unk2 P:4}{C1}{NameColor:30}{CharImage:30}What! You can't budge at all?{End}
+    {Unk2 P:5}{C1}{NameColor:30}{CharImage:30}Cannot move, it seems.{End}
+    {Unk2 P:6}{C1}{NameColor:30}{CharImage:30}You still can't move...? Hm.{End}
+    {Unk2 P:7}{C1}{NameColor:30}{CharImage:30}Oh dear. You can't move?{End}
+    {Unk2 P:8}{C1}{NameColor:30}{CharImage:30}Unable to move...{End}
+    {Unk2 P:9}{C1}{NameColor:30}{CharImage:30}You still can't move, eh?{End}
+    {Unk2 P:10}{C1}{NameColor:30}{CharImage:30}Oh, you can't move, right?{End}
+    {Unk2 P:11}{C1}{NameColor:30}{CharImage:30}You can't move, can you?{End}
+    {Unk2 P:12}{C1}{NameColor:30}{CharImage:30}You still can't move...?!{End}
+    {Unk2 P:13}{C1}{NameColor:30}{CharImage:30}Unable to move...{End}
+    {Unk2 P:14}{C1}{NameColor:30}{CharImage:30}Oh! You can't move...?!{End}
+    {Unk2 P:15}{C1}{NameColor:30}{CharImage:30}Hmm... Can't move, eh?{End}
+    {Unk2 P:16}{C1}{NameColor:30}{CharImage:30}Can't move, it seems...{End}
+    {Unk2 P:17}{C1}{NameColor:30}{CharImage:30}Hmm... Can't move... {End}
+    {Unk2 P:18}{C1}{NameColor:30}{CharImage:30}Oh, can't you move?{End}
+    {Unk2 P:19}{C1}{NameColor:30}{CharImage:30}Still can't move? Come on!{End}
+    {Unk2 P:20}{C1}{NameColor:30}{CharImage:30}Cannot move, it seems. {End}
+    {Unk2 P:21}{C1}{NameColor:30}{CharImage:30}Can't move, I'd say. {End}
+    {Unk2 P:22}{C1}{NameColor:30}{CharImage:30}Pah! Can't you move?{End}
+    {Unk2 P:23}{C1}{NameColor:30}{CharImage:30}Move.{End}
+    {Unk2 P:24}{C1}{NameColor:30}{CharImage:30}You still can't move, can you?{End}
+    {Unk2 P:25}{C1}{NameColor:30}{CharImage:30}You can't move?{End}
+    {Unk2 P:26}{C1}{NameColor:30}{CharImage:30}You're not going anywhere, huh?{End}
+    {Unk2 P:27}{C1}{NameColor:30}{CharImage:30}Immobilized...?{End}
+    {Unk2 P:28}{C1}{NameColor:30}{CharImage:30}I believe you can't move...{End}
+    {Unk2 P:29}{C1}{NameColor:30}{CharImage:30}Whoa... Seems you can't move, huh?{End}
+    {Unk2 P:30}{C1}{NameColor:30}{CharImage:30}Oh! You can't move, can you?{End}
+    {Unk2 P:31}{C1}{NameColor:30}{CharImage:30}You can't move...?{End}
+    {Unk2 P:32}{C1}{NameColor:30}{CharImage:30}Not moving...{End}
+    {Unk2 P:33}{C1}{NameColor:30}{CharImage:30}Oh... You can't move, can you?{End}
+    {Unk2 P:34}{C1}{NameColor:30}{CharImage:30}You still can't move...?{End}
+    {Unk2 P:35}{C1}{NameColor:30}{CharImage:30}It seems you can't move.{End}
+    {Unk2 P:36}{C1}{NameColor:30}{CharImage:30}Can't move!{End}
+    {Unk2 P:37}{C1}{NameColor:30}{CharImage:30}What! Why can't you move?!{End}
+    {Unk2 P:100}{C1}{NameColor:30}{CharImage:30}Well, seems you can't move...{End}
+    {Unk2 P:101}{C1}{NameColor:30}{CharImage:30}No moving this one anytime soon.{End}
+    {Unk2 P:102}{C1}{NameColor:30}{CharImage:30}You can't move, right?{End}
+    {Unk2 P:103}{C1}{NameColor:30}{CharImage:33}You cannot move, it seems.{End}
+    {Unk2 P:104}{C1}{NameColor:30}{CharImage:30}Hm, seems like you can't move...{End}
+    {Unk2 P:105}{C1}{NameColor:30}{CharImage:30}I reckon this one can't move... {End}
+    {Unk2 P:106}{C1}{NameColor:30}{CharImage:30}What?! You can't move? Oh man... {End}
+    {Unk2 P:107}{C1}{NameColor:30}{CharImage:30}Oh, you can't move, can you...?{End}
+    {Unk2 P:108}{C1}{NameColor:30}{CharImage:30}You really can't move?{End}
+    {Unk2 P:109}{C1}{NameColor:30}{CharImage:30}Oh, it seems you can't move...{End}
+    {Unk2 P:110}{C1}{NameColor:30}{CharImage:30}It seems you can't move...{End}
+    {Unk2 P:111}{C1}{NameColor:30}{CharImage:30}O-Oh... You c-can't m-move, right?{End}
+    {Unk2 P:112}{C1}{NameColor:30}{CharImage:30}What's up, young'un? You can't move?{End}
+    {Unk2 P:113}{C1}{NameColor:30}{CharImage:30}What? You can't move?{End}
+    {Unk2 P:114}{C1}{NameColor:30}{CharImage:30}Oh, you can't move? How terrible!{End}
+    {Unk2 P:116}{C1}{NameColor:30}{CharImage:30}Can't you move, or what?!{End}
+    {Unk2 P:117}{C1}{NameColor:30}{CharImage:30}What? You can't move?!{End}
+    {Unk2 P:118}{C1}{NameColor:30}{CharImage:30}Oh... You are unable to move?{End}
+    {Unk2 P:119}{C1}{NameColor:30}{CharImage:30}Oh! Can't move, it seems... {End}
+    {Unk2 P:121}{C1}{NameColor:30}{CharImage:30}Oh! You can't move, is that right?{End}
+    {Unk2 P:122}{C1}{NameColor:30}{CharImage:30}Can't move, it appears. {End}
+    {Unk2 P:123}{C1}{NameColor:30}{CharImage:30}Can't move... {End}
+    {Unk2 P:124}{C1}{NameColor:30}{CharImage:30}Can't move... Hmm.{End}
+    {Unk2 P:125}{C1}{NameColor:30}{CharImage:30}Can't move, it appears. {End}
+    {Unk2 P:126}{C1}{NameColor:30}{CharImage:30}Hey! Why can't you move?!{End}
+    {Unk2 P:128}{C1}{NameColor:30}{CharImage:30}My... Can't move, it seems.{End}
+    {Unk2 P:129}{C1}{NameColor:30}{CharImage:30}My word! Can't move...{End}
+    {C1}{End}
+  </Text>
+  <Text ID="a">
+    {Unk2 P:0}{C1}{NameColor:30}{CharImage:30}We're on course for victory!{End}
+    {Unk2 P:1}{C1}{NameColor:30}{CharImage:30}Victory is close!{End}
+    {Unk2 P:2}{C1}{NameColor:30}{CharImage:30}The time for hesitation is over.{End}
+    {Unk2 P:3}{C1}{NameColor:30}{CharImage:33}Hey! Victory's within sight!{End}
+    {Unk2 P:4}{C1}{NameColor:30}{CharImage:30}I can smell sweet victory already!{End}
+    {Unk2 P:5}{C1}{NameColor:30}{CharImage:30}One more push for glory.{End}
+    {Unk2 P:6}{C1}{NameColor:30}{CharImage:30}Victory is close at hand!{End}
+    {Unk2 P:7}{C1}{NameColor:30}{CharImage:30}Let's wrap this one up. {End}
+    {Unk2 P:8}{C1}{NameColor:30}{CharImage:30}Let us put an end to this. {End}
+    {Unk2 P:9}{C1}{NameColor:30}{CharImage:30}Victory is within our grasp!{End}
+    {Unk2 P:10}{C1}{NameColor:30}{CharImage:30}Okay! Not long to go now!{End}
+    {Unk2 P:11}{C1}{NameColor:30}{CharImage:30}This is all but wrapped up.{End}
+    {Unk2 P:12}{C1}{NameColor:30}{CharImage:30}Let's get this over with!{End}
+    {Unk2 P:13}{C1}{NameColor:30}{CharImage:30}The advantage lies with us. {End}
+    {Unk2 P:14}{C1}{NameColor:30}{CharImage:30}Oh! We may be able to win this!{End}
+    {Unk2 P:15}{C1}{NameColor:30}{CharImage:30}Right, let's put this one to bed!{End}
+    {Unk2 P:16}{C1}{NameColor:30}{CharImage:30}Not long now till we can relax...{End}
+    {Unk2 P:17}{C1}{NameColor:30}{CharImage:30}Let's finish them...{End}
+    {Unk2 P:18}{C1}{NameColor:30}{CharImage:30}We mustn't let up now!{End}
+    {Unk2 P:19}{C1}{NameColor:30}{CharImage:30}Let's finish this one off.{End}
+    {Unk2 P:20}{C1}{NameColor:30}{CharImage:30}The result of this battle is clear.{End}
+    {Unk2 P:21}{C1}{NameColor:30}{CharImage:30}Let's finish this thing off. {End}
+    {Unk2 P:22}{C1}{NameColor:30}{CharImage:30}I think we can win this!{End}
+    {Unk2 P:23}{C1}{NameColor:30}{CharImage:30}Victory is near.{End}
+    {Unk2 P:24}{C1}{NameColor:30}{CharImage:30}This is all too easy!{End}
+    {Unk2 P:25}{C1}{NameColor:30}{CharImage:30}Time to finish this!{End}
+    {Unk2 P:26}{C1}{NameColor:30}{CharImage:30}Looking good, I'd say!{End}
+    {Unk2 P:27}{C1}{NameColor:30}{CharImage:30}This path leads to victory!{End}
+    {Unk2 P:28}{C1}{NameColor:30}{CharImage:30}Now we must put an end to this. {End}
+    {Unk2 P:29}{C1}{NameColor:30}{CharImage:30}Victory's as good as ours!{End}
+    {Unk2 P:30}{C1}{NameColor:30}{CharImage:30}Now we're getting there!{End}
+    {Unk2 P:31}{C1}{NameColor:30}{CharImage:30}We're nearly there.{End}
+    {Unk2 P:32}{C1}{NameColor:30}{CharImage:30}This looks promising. {End}
+    {Unk2 P:33}{C1}{NameColor:30}{CharImage:30}Victory is just a step away!{End}
+    {Unk2 P:34}{C1}{NameColor:30}{CharImage:30}Right. Let's clinch this thing. {End}
+    {Unk2 P:35}{C1}{NameColor:30}{CharImage:30}This is just about over.{End}
+    {Unk2 P:36}{C1}{NameColor:30}{CharImage:30}It's a done deal. {End}
+    {Unk2 P:37}{C1}{NameColor:30}{CharImage:30}Looks like they're finished!{End}
+    {Unk2 P:100}{C1}{NameColor:30}{CharImage:30}Well! Victory isn't far now!{End}
+    {Unk2 P:101}{C1}{NameColor:30}{CharImage:30}Victory is close at hand!{End}
+    {Unk2 P:102}{C1}{NameColor:30}{CharImage:30}Hey! Victory isn't far!{End}
+    {Unk2 P:103}{C1}{NameColor:30}{CharImage:33}Victory is but a stone's throw away!{End}
+    {Unk2 P:104}{C1}{NameColor:30}{CharImage:30}We’re close to victory!{End}
+    {Unk2 P:105}{C1}{NameColor:30}{CharImage:30}I can taste victory. It's so close!{End}
+    {Unk2 P:106}{C1}{NameColor:30}{CharImage:30}We're so close now!{End}
+    {Unk2 P:107}{C1}{NameColor:30}{CharImage:30}Victory is but a step away!{End}
+    {Unk2 P:108}{C1}{NameColor:30}{CharImage:30}This is more or less checkmate...{End}
+    {Unk2 P:109}{C1}{NameColor:30}{CharImage:30}Victory approaches!{End}
+    {Unk2 P:110}{C1}{NameColor:30}{CharImage:30}Victory is just around the corner!{End}
+    {Unk2 P:111}{C1}{NameColor:30}{CharImage:30}We've n-nearly w-won...I think...{End}
+    {Unk2 P:112}{C1}{NameColor:30}{CharImage:30}Victory is very nearly ours!{End}
+    {Unk2 P:113}{C1}{NameColor:30}{CharImage:30}We're really close now!{End}
+    {Unk2 P:114}{C1}{NameColor:30}{CharImage:30}Victory is now very close by. {End}
+    {Unk2 P:116}{C1}{NameColor:30}{CharImage:30}One more step for victory, lads!{End}
+    {Unk2 P:117}{C1}{NameColor:30}{CharImage:30}Victory's a spitting distance away!{End}
+    {Unk2 P:118}{C1}{NameColor:30}{CharImage:30}Victory is within sight!{End}
+    {Unk2 P:119}{C1}{NameColor:30}{CharImage:30}We're so close to victory!{End}
+    {Unk2 P:121}{C1}{NameColor:30}{CharImage:30}I sense victory close at hand!{End}
+    {Unk2 P:122}{C1}{NameColor:30}{CharImage:30}Victory is close. Maintain focus.{End}
+    {Unk2 P:123}{C1}{NameColor:30}{CharImage:30}Victory isn't far...{End}
+    {Unk2 P:124}{C1}{NameColor:30}{CharImage:30}Victory isn't far off!{End}
+    {Unk2 P:125}{C1}{NameColor:30}{CharImage:30}Victory is within our grasp.{End}
+    {Unk2 P:126}{C1}{NameColor:30}{CharImage:30}Victory's sooo close now, you know!{End}
+    {Unk2 P:128}{C1}{NameColor:30}{CharImage:30}Victory isn't too far now, I think!{End}
+    {Unk2 P:129}{C1}{NameColor:30}{CharImage:30}Victory is imminent!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="b">
+    {Unk2 P:0}{C1}{NameColor:30}{CharImage:30}Arrgh...{End}
+    {Unk2 P:1}{C1}{NameColor:30}{CharImage:30}Uh-oh...{End}
+    {Unk2 P:2}{C1}{NameColor:30}{CharImage:30}We must endure this...{End}
+    {Unk2 P:3}{C1}{NameColor:30}{CharImage:33}It's not long now... Hang in there!{End}
+    {Unk2 P:4}{C1}{NameColor:30}{CharImage:30}Hold on, everyone!{End}
+    {Unk2 P:5}{C1}{NameColor:30}{CharImage:30}We are struggling...{End}
+    {Unk2 P:6}{C1}{NameColor:30}{CharImage:30}Don't give in!{End}
+    {Unk2 P:7}{C1}{NameColor:30}{CharImage:30}Oh dear...{End}
+    {Unk2 P:8}{C1}{NameColor:30}{CharImage:30}We must not admit defeat...!{End}
+    {Unk2 P:9}{C1}{NameColor:30}{CharImage:30}The real battle begins now...{End}
+    {Unk2 P:10}{C1}{NameColor:30}{CharImage:30}Can you keep going? Say yes!{End}
+    {Unk2 P:11}{C1}{NameColor:30}{CharImage:30}Hmm, this looks bad... {End}
+    {Unk2 P:12}{C1}{NameColor:30}{CharImage:30}Stand your ground!{End}
+    {Unk2 P:13}{C1}{NameColor:30}{CharImage:30}Hmm...{End}
+    {Unk2 P:14}{C1}{NameColor:30}{CharImage:30}Ohh...{End}
+    {Unk2 P:15}{C1}{NameColor:30}{CharImage:30}Urgh, this doesn't look good...{End}
+    {Unk2 P:16}{C1}{NameColor:30}{CharImage:30}Still a long way to go...{End}
+    {Unk2 P:17}{C1}{NameColor:30}{CharImage:30}The situation is...delicate...{End}
+    {Unk2 P:18}{C1}{NameColor:30}{CharImage:30}Hmm...{End}
+    {Unk2 P:19}{C1}{NameColor:30}{CharImage:30}Uh-oh! This isn't looking so hot... {End}
+    {Unk2 P:20}{C1}{NameColor:30}{CharImage:30}Oh...{End}
+    {Unk2 P:21}{C1}{NameColor:30}{CharImage:30}This looks bad...{End}
+    {Unk2 P:22}{C1}{NameColor:30}{CharImage:30}Uh-oh...{End}
+    {Unk2 P:23}{C1}{NameColor:30}{CharImage:30}...{End}
+    {Unk2 P:24}{C1}{NameColor:30}{CharImage:30}Oops, this could get nasty... {End}
+    {Unk2 P:25}{C1}{NameColor:30}{CharImage:30}I fear our prospects are grim...{End}
+    {Unk2 P:26}{C1}{NameColor:30}{CharImage:30}Hmm, this is no laughing matter...{End}
+    {Unk2 P:27}{C1}{NameColor:30}{CharImage:30}This is grim...{End}
+    {Unk2 P:28}{C1}{NameColor:30}{CharImage:30}We must persevere.{End}
+    {Unk2 P:29}{C1}{NameColor:30}{CharImage:30}Don't give up yet!{End}
+    {Unk2 P:30}{C1}{NameColor:30}{CharImage:30}Hmm, this isn't looking so good.{End}
+    {Unk2 P:31}{C1}{NameColor:30}{CharImage:30}Something must be done...!{End}
+    {Unk2 P:32}{C1}{NameColor:30}{CharImage:30}This looks dangerous... {End}
+    {Unk2 P:33}{C1}{NameColor:30}{CharImage:30}We must find a way...{End}
+    {Unk2 P:34}{C1}{NameColor:30}{CharImage:30}This ain't looking so great... {End}
+    {Unk2 P:35}{C1}{NameColor:30}{CharImage:30}Come on...{End}
+    {Unk2 P:36}{C1}{NameColor:30}{CharImage:30}Have you got anything left?{End}
+    {Unk2 P:37}{C1}{NameColor:30}{CharImage:30}Arrgh, this isn't looking so hot!{End}
+    {Unk2 P:100}{C1}{NameColor:30}{CharImage:30}Say, looks like we're in trouble... {End}
+    {Unk2 P:101}{C1}{NameColor:30}{CharImage:30}We appear to be having difficulty. {End}
+    {Unk2 P:102}{C1}{NameColor:30}{CharImage:30}Uh-oh, we're in a fix!{End}
+    {Unk2 P:103}{C1}{NameColor:30}{CharImage:33}Oh my, we seem to be in trouble... {End}
+    {Unk2 P:104}{C1}{NameColor:30}{CharImage:30}Hm, we're not doing too well here...{End}
+    {Unk2 P:105}{C1}{NameColor:30}{CharImage:30}We're in trouble... {End}
+    {Unk2 P:106}{C1}{NameColor:30}{CharImage:30}Oh no! What're we gonna do now?{End}
+    {Unk2 P:107}{C1}{NameColor:30}{CharImage:30}Oh dear, we seem to be struggling...{End}
+    {Unk2 P:108}{C1}{NameColor:30}{CharImage:30}I simply cannot believe this!{End}
+    {Unk2 P:109}{C1}{NameColor:30}{CharImage:30}This isn't going very well...{End}
+    {Unk2 P:110}{C1}{NameColor:30}{CharImage:30}We are in some trouble...{End}
+    {Unk2 P:111}{C1}{NameColor:30}{CharImage:30}Oh no... H-How did this h-happen...?{End}
+    {Unk2 P:112}{C1}{NameColor:30}{CharImage:30}Oh dear... This is unfortunate...{End}
+    {Unk2 P:113}{C1}{NameColor:30}{CharImage:30}This is something of a pickle...{End}
+    {Unk2 P:114}{C1}{NameColor:30}{CharImage:30}Oh dear, we are faltering slightly.{End}
+    {Unk2 P:116}{C1}{NameColor:30}{CharImage:30}We're in a mess and no mistake!{End}
+    {Unk2 P:117}{C1}{NameColor:30}{CharImage:30}Oh man...{End}
+    {Unk2 P:118}{C1}{NameColor:30}{CharImage:30}I sense this is not going well. {End}
+    {Unk2 P:119}{C1}{NameColor:30}{CharImage:30}We're simply being overpowered!{End}
+    {Unk2 P:121}{C1}{NameColor:30}{CharImage:30}I see we're struggling somewhat.{End}
+    {Unk2 P:122}{C1}{NameColor:30}{CharImage:30}I have been careless. {End}
+    {Unk2 P:123}{C1}{NameColor:30}{CharImage:30}We were careless...{End}
+    {Unk2 P:124}{C1}{NameColor:30}{CharImage:30}We're in big trouble!{End}
+    {Unk2 P:125}{C1}{NameColor:30}{CharImage:30}We've been careless. {End}
+    {Unk2 P:126}{C1}{NameColor:30}{CharImage:30}Uh-oh... Uhh... What now?{End}
+    {Unk2 P:128}{C1}{NameColor:30}{CharImage:30}We're in a bit of a fix, aren't we.{End}
+    {Unk2 P:129}{C1}{NameColor:30}{CharImage:30}Have we been forsaken...?{End}
+    {C1}{End}
+  </Text>
+  <Text ID="c">
+    {Unk2 P:0}{C1}{NameColor:30}{CharImage:33}Right, this should help our cause! {End}
+    {Unk2 P:1}{C1}{NameColor:30}{CharImage:33}This might help matters.{End}
+    {Unk2 P:2}{C1}{NameColor:30}{CharImage:30}Mercy is for the weak.{End}
+    {Unk2 P:3}{C1}{NameColor:30}{CharImage:30}I really hope this works!{End}
+    {Unk2 P:4}{C1}{NameColor:30}{CharImage:30}How 'bout this, eh?{End}
+    {Unk2 P:5}{C1}{NameColor:30}{CharImage:30}March to my beat...{End}
+    {Unk2 P:6}{C1}{NameColor:30}{CharImage:33}Take this!{End}
+    {Unk2 P:7}{C1}{NameColor:30}{CharImage:30}How about this?{End}
+    {Unk2 P:8}{C1}{NameColor:30}{CharImage:30}Now is the time...{End}
+    {Unk2 P:9}{C1}{NameColor:30}{CharImage:30}Let's take a gamble... {End}
+    {Unk2 P:10}{C1}{NameColor:30}{CharImage:30}All right! Let's get things going!{End}
+    {Unk2 P:11}{C1}{NameColor:30}{CharImage:30}See what you make of this one...{End}
+    {Unk2 P:12}{C1}{NameColor:30}{CharImage:30}This'll settle things!{End}
+    {Unk2 P:13}{C1}{NameColor:30}{CharImage:30}I shall cut us a path to victory!{End}
+    {Unk2 P:14}{C1}{NameColor:30}{CharImage:30}This should bring us some peace!{End}
+    {Unk2 P:15}{C1}{NameColor:30}{CharImage:30}I'll show you how this is done.{End}
+    {Unk2 P:16}{C1}{NameColor:30}{CharImage:30}I think this will be fun...{End}
+    {Unk2 P:17}{C1}{NameColor:30}{CharImage:31}Let's shake things up...{End}
+    {Unk2 P:18}{C1}{NameColor:30}{CharImage:30}Patience is the watchword...{End}
+    {Unk2 P:19}{C1}{NameColor:30}{CharImage:30}Fact is, I'm a genius!{End}
+    {Unk2 P:20}{C1}{NameColor:30}{CharImage:30}This will turn the tide.{End}
+    {Unk2 P:21}{C1}{NameColor:30}{CharImage:30}Right, let's ruffle some feathers!{End}
+    {Unk2 P:22}{C1}{NameColor:30}{CharImage:33}See how you like this! {End}
+    {Unk2 P:23}{C1}{NameColor:30}{CharImage:30}This is fate.{End}
+    {Unk2 P:24}{C1}{NameColor:30}{CharImage:30}Fingers crossed and...abracadabra!{End}
+    {Unk2 P:25}{C1}{NameColor:30}{CharImage:30}This is how a real Warrior fights!{End}
+    {Unk2 P:26}{C1}{NameColor:30}{CharImage:30}This should decide it!{End}
+    {Unk2 P:27}{C1}{NameColor:30}{CharImage:33}Know the true meaning of honor!{End}
+    {Unk2 P:28}{C1}{NameColor:30}{CharImage:30}This is my love for you.{End}
+    {Unk2 P:29}{C1}{NameColor:30}{CharImage:30}Right! This is gonna be amazing... {End}
+    {Unk2 P:30}{C1}{NameColor:30}{CharImage:30}It's time to brighten things up!{End}
+    {Unk2 P:31}{C1}{NameColor:30}{CharImage:30}I will give everything for victory!{End}
+    {Unk2 P:32}{C1}{NameColor:30}{CharImage:30}Learn of my might the hard way!{End}
+    {Unk2 P:33}{C1}{NameColor:30}{CharImage:33}This will decide the victor!{End}
+    {Unk2 P:34}{C1}{NameColor:30}{CharImage:30}Set your faces to stunned!{End}
+    {Unk2 P:35}{C1}{NameColor:30}{CharImage:30}I'm sick of the sight of you. {End}
+    {Unk2 P:36}{C1}{NameColor:30}{CharImage:30}I'll protect us all!{End}
+    {Unk2 P:37}{C1}{NameColor:30}{CharImage:30}I'm gonna blow you away!{End}
+    {Unk2 P:100}{C1}{NameColor:30}{CharImage:30}How about this, then?{End}
+    {Unk2 P:101}{C1}{NameColor:30}{CharImage:30}Now I shall reveal my hand!{End}
+    {Unk2 P:102}{C1}{NameColor:30}{CharImage:30}Try this on for size!{End}
+    {Unk2 P:103}{C1}{NameColor:30}{CharImage:30}Now, stand back and watch!{End}
+    {Unk2 P:104}{C1}{NameColor:30}{CharImage:30}See how you like this!{End}
+    {Unk2 P:105}{C1}{NameColor:30}{CharImage:30}How 'bout this?{End}
+    {Unk2 P:106}{C1}{NameColor:30}{CharImage:30}How do you like this, huh?{End}
+    {Unk2 P:107}{C1}{NameColor:30}{CharImage:30}How about this?{End}
+    {Unk2 P:108}{C1}{NameColor:30}{CharImage:30}Watch and learn!{End}
+    {Unk2 P:109}{C1}{NameColor:30}{CharImage:30}How about this?{End}
+    {Unk2 P:110}{C1}{NameColor:30}{CharImage:30}Try this one!{End}
+    {Unk2 P:111}{C1}{NameColor:30}{CharImage:30}H-How about th-this...?{End}
+    {Unk2 P:112}{C1}{NameColor:30}{CharImage:30}Well now, see what you make of this!{End}
+    {Unk2 P:113}{C1}{NameColor:30}{CharImage:30}Let's give this a whirl!{End}
+    {Unk2 P:114}{C1}{NameColor:30}{CharImage:30}Well, maybe this will work!{End}
+    {Unk2 P:116}{C1}{NameColor:30}{CharImage:30}Stand back!{End}
+    {Unk2 P:117}{C1}{NameColor:30}{CharImage:30}Right, then! How about this, huh?{End}
+    {Unk2 P:118}{C1}{NameColor:30}{CharImage:30}How will this fare, I wonder.{End}
+    {Unk2 P:119}{C1}{NameColor:30}{CharImage:30}What do you make of this?{End}
+    {Unk2 P:121}{C1}{NameColor:30}{CharImage:30}How will this go down, I wonder...{End}
+    {Unk2 P:122}{C1}{NameColor:30}{CharImage:30}Time for some ninjutsu.{End}
+    {Unk2 P:123}{C1}{NameColor:30}{CharImage:30}Take this...{End}
+    {Unk2 P:124}{C1}{NameColor:30}{CharImage:30}Taste this!{End}
+    {Unk2 P:125}{C1}{NameColor:30}{CharImage:30}Here's how a true ninja fights!{End}
+    {Unk2 P:126}{C1}{NameColor:30}{CharImage:30}Okay! See if you can handle this!{End}
+    {Unk2 P:128}{C1}{NameColor:30}{CharImage:30}Well now, how do you like this?{End}
+    {Unk2 P:129}{C1}{NameColor:30}{CharImage:30}Experience my ingenuity!{End}
+    {C1}{End}
+  </Text>
+</Block>

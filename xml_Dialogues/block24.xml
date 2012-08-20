@@ -1,0 +1,671 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Block>
+  <Text ID="0">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}Sure, I'll take care of it!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}Sure, I'll take care of it!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}{Color:31}Nobunaga{Color:33} can handle it.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:31}Leave it to me!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:31}Just leave it all to me!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}I'll handle it.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Yes, leave it to me. {End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:31}Well, perfect!{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}Please, leave it up to me.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Trust me. {End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}Yup, just leave that to me!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:31}Right, right. Well, I shall try to satisfy you!{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}That's right! {Color:31}Masamune{Color:33} can handle anything, you know!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}I see.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Ohh, you can count on me, of course!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Right. I'll handle this. {End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Understood!{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}Very well...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}Please, leave it up to me.{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Yup! I can handle that!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}At your service. {End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}You can leave it to me.{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}Leave it all up to me!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Understood.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Okeydokey then!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:33}Please, leave it to me!{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Yup! Leave it to me!{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}Please, leave this all to me.{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Please, leave this all to me.{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Leave it to me!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:31}Goodness... Well, I'll try my hardest!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}Please, leave it all to me!{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}Leave it to me. {End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}You may rely on me!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Just leave it to me!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}Trust me.{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}Leave it up to me!{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}That's right! Leave it to me!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}Yes, leave it to me!{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}Yes, I shall take care of it.{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}Yes, leave it to me! Please!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}You can rely on my loyal service!{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}Just leave it all to me!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}Okay, I'll handle this!{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}Righto! I'll handle this one!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}You can rely on me!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}Place your trust in me, and you shan't have any problems!{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}Yes, you can trust me with this!{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}Leave it to me.{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}O-Oh... G-Great!{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}Oh, you can count on me, you know!{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}Count on me!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}Please, place your trust in my loyal service!{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}Leave it up to me!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}Okay, leave it to me...{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}Please leave this to me. {End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}Yes, please do leave this to me. {End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}You can rely on me with this!{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}Wherever duty leads, I shall follow. {End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}...As you wish...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}Leave it up to me, I say! {End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}You can rely on my loyal service.{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}Yup! I got it!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}Oh, you can count on me, you know!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}Very well! I don't mind handling this!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="1">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}Understood! I'll carry on trying my hardest!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}Understood! I'll do my best!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}{Color:31}Nobunaga{Color:33} can handle it.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:31}I shall do my very best!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:31}I'll do everything I can!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}Okay. Leave it all to me.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}You shan't regret this. {End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}Just as we were, yes?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}Understood. I shall continue to handle it for you.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Okay! Leave it to me. {End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}Yup, I'll keep trying my hardest!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Understood! Your satisfaction is still my greatest goal!{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}I guess you've figured that {Color:31}Masamune{Color:33} does it better than anyone else, huh?{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}I shall continue to serve you as before. {End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Ohh, of course! You can still count on me, you know!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Still need me, do you?{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Understood. I'm to carry on taking care of this for you, yes?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}Fine. I shall continue.{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}I shall gladly continue to serve you in this way.{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:30}Okay, okay―I got it already!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}I shall continue to handle this for you.{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Understood. You won't regret this. {End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}I'll carry on trying my hardest!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}I shall continue my mission.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}I'll do everything I can!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:33}Understood! I'll take care of this!{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}I'll do everything I can for you!{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}Understood. I shall gladly continue to serve you. {End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}I shall continue to serve you with all the devotion I have.{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}I've got it under control!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:31}I'll try my very hardest to please you!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}I shall gladly continue to serve you!{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}Understood. I shall continue to serve you. {End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}Okay! I shall continue to do my very best!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}All right! I'll do everything that I can.{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}I shall continue to serve you as best I can.{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}Okay! I'll continue to serve you!{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Yep, I still got lots of energy left!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}I shall continue to do my very best for you.{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}I shall continue to do my very best for you.{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}I shall continue to serve you!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}I shall continue to serve you with everything I have. {End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}Understood! You can count on me!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}Okay, got it! You can trust me.{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}Righto! Just count on me!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}Understood! You can rely on me!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}Place your trust in me, and you shan't have any problems!{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}Understood! You can trust me with this!{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}I have everything under control.{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}I shall do my v-v-very best...{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}Oh, you can still count on me, you know!{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}Understood! I shall keep trying my best!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}I shall continue to serve you with everything I have. {End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}Right! I'll keep giving it my all!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}Yup! There's still plenty more I can do!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}Yes. I shall gladly continue to serve you. {End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}Excellent! I've still got lots more to give!{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}You can still rely on me!{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}Wherever duty leads, I shall follow. {End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}...As you wish...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}Understood! I'll keep doing my very best!{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}You can continue to rely on my loyal service.{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}Okay! I got it!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}Oh, you can still count on me, you know!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}Leave it all to me! I can handle everything!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="2">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:34}Oh... There's nothing you want me to take care of?{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:34}Oh... There's nothing you want me to do?{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}Hehe. So that's how it is.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:30}There's nothing you want me to take care of?{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:34}Huh? You don't wanna trust me after all, huh?{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}I see.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:34}Hm? You don't want my help anymore?{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:34}Oh, you don't want me to handle it anymore?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}You've made your decision. I respect that.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Oh... Changed your mind, eh?{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:30}Okay, you want to call it off. No problem!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Right, right... Well maybe another time, yes?{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Thought again, huh?{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}You wish to end this. {End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Ohh... There's nothing for me to do?{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Right. Got it. {End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Oh! Over already?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}That's it, is it?{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}I understand. Perhaps next time?{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Phew! Now I can relax for a bit. {End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}I understand.{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}There's nothing more you want me to take care of?{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:30}Oh... Changed your mind?{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Understood.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Huh? Fed up with me, are you?{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}You've changed your mind.{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}What? You don't want my help anymore?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:30}Oh. You've made your decision. {End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Oh, I see. You don't want to trust me any longer.{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Oh, right... Well, whatever you say.{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}You really don't want to use me anymore?{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:30}You've made your decision, I see.{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}I understand.{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:30}Oh, there's nothing you need me to handle anymore?{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:34}Huh? Done with me already?{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}...Okay.{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}Well... Ask me again next time, okay?{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:34}Huh?! Did I do something wrong or what?{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}You don't want me to do anything at all?{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}You don't want me to do anything at all?{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}Huh? You don't want me to look after anything at all?{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}Oh well, next time then...{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}Oh? You don't need me anymore?{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}You don't need me anymore?{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}Huh? You don't need me anymore?{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}Okay... Well, next time, then!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}Oh... Well, as you wish...{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}Oh... You've changed your mind?{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}Oh... There's nothing at all you need me to take care of?{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}Oh... Oh... Okay.{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}Oh, you don't want me to do anything at all?{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}Be sure to ask again next time, won't you!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}Oh, you don’t require me for anything?{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}Huh? Don't need me anymore, eh?{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}Huh?! You don't need me anymore?{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}You have changed your mind? Well, please ask me again next time.{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}Oh... You've changed your mind, have you?{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}Oh, you don't want to trust me any longer, eh?{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}I understand. My service is not needed. {End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}Mission complete...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}Oh... This is the end, is it?{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}You no longer require my service. {End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}Oh! You don't need me anymore?{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}Oh? That's it?{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}Hey! You sure you know what you're doing?{End}
+    {C1}{End}
+  </Text>
+  <Text ID="3">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:33}I won't be defeated this time!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:33}I won't be beaten this time!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}Hehe. Let us enjoy this battle...{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:33}We can't turn back! We must move forward!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:30}I'll let you see just what I can do...{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}Fine. We'll put our bonds to the test on the battlefield.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:33}Let us stake our reputation on our victory!{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:30}Well, well... I can't wait to see what kind of enemy we're faced with!{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}I shall make my strength known to you. {End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Victory, or defeat... Which will it be? Let us take a gamble. {End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:30}All right! Let's give it all we've got!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}I'll put this one to bed in no time. {End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}I'll tell you something... If I'm on your side, victory is guaranteed!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}The time for battle is upon us.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}I shall spread the joy of Pokémari throughout this land!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}There'll be no holding back. I'll give this everything I've got!{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}There's no need to hurry... Let's take our time and enjoy it!{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}Ha... I can already tell you how this battle will end...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}This one I must certainly win. For the sake of my allies!{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Right, then! Let's wrap this up quickly, shall we?{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}There is much to be gained by emerging victorious from this battle. {End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}The future is something we build with our own hands. {End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}I'm gonna do my very best!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Enemies of my master must be destroyed.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Okay then, let's clear this one up quickly!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:33}I shall show this world the way a true Warrior lives!{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}All right... Let's see what beautiful flowers are blooming on the battlefield today!{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:33}True justice knows no enemies. Let us go!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}I shall show you how to wage war with love in your heart.{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}This young lady's got a lot of fight in her, you know!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:31}Are there any cuties lurking around here, I wonder?{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:33}Whoever I might be faced with, you can count on me not to retreat! {End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}None can stop me! No matter how many they number!{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:30}{Color:31}Ina{Color:33} is ready! Let it begin!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}I can almost taste it... A battle for the ages is about to begin!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}I can't imagine I'll meet with any enemies that could live up to my talents...{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}Right... Let's clear a bit of a path through this battlefield, shall we?!{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:30}Stand back and behold {Color:31}Masanori{Color:33}! Here's how a true man fights!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}It's experience that makes the difference! Just you watch―I'll show you how it's done... {End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}Our enemy is also aiming for victory... We must take them on, fair and square. {End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}Let's show 'em what real justice looks like!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}This one I must win... For the sake of all that needs protecting...{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}My sole aim is victory! I'll give it all I've got!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}Victory's gonna fall straight into our outstretched arms! Just like that!{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}Hey, I've got my pride, too, y'know! This time, we're winning!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}If I am one with my Pokémon, we will never lose!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}Defeat is not a word I know the meaning of. {End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}Defeat is not an option. I shall show you how far a little strategy can go... {End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}Tactics, tactics, tactics... That's how I plan on securing this victory!{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}I shan't lose! I sh-shan't! V-V-Victory will be m-mine!{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}Ability in battle has nothing to do with age, you know! I'll prove it!{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}To the battlefield! I'll prove to you that I'm ready for anything!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}There is too much at stake for me to lose this battle...{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}On your marks, get set...total destruction!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}When it comes to battle, I'm an expert, you know! I won't stop at anything!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}I shall not surrender. My will to succeed is unshakeable.{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}I will prove that those with a good mind for trade also have a good mind for battle!{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}I shan't surrender, you know! I plan to face my opponents with all the strength I can muster.{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}Securing victory in battle is a ninja's greatest duty.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}Mission initiated... Forward!{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}I'll fight a battle that would make any ninja proud!{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}I shall take this opportunity to display the skills true ninjas pride themselves on. {End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}I can't go making a fool of myself! My duty as a ninja starts...now!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}I'm planning to win this one... I can be pretty determined when I want to be, you know!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}Brace yourselves for impact!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="4">
+    {Unk2 P:0}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Yeah!{End}
+    {C1}{NameColor:31}{CharImage:31}All right!{End}
+    {C1}{NameColor:31}{CharImage:31}Great!{End}
+    {Unk2 P:1}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Yeah!{End}
+    {C1}{NameColor:31}{CharImage:31}Brilliant!{End}
+    {C1}{NameColor:31}{CharImage:31}Good work!{End}
+    {Unk2 P:2}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Hmm.{End}
+    {C1}{NameColor:31}{CharImage:30}I see.{End}
+    {C1}{NameColor:31}{CharImage:31}Well...!{End}
+    {Unk2 P:3}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}That's great!{End}
+    {C1}{NameColor:31}{CharImage:31}Wonderful!{End}
+    {C1}{NameColor:31}{CharImage:31}We did it!{End}
+    {Unk2 P:4}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Yee-hah!{End}
+    {C1}{NameColor:31}{CharImage:31}Super!{End}
+    {C1}{NameColor:31}{CharImage:31}Right on!{End}
+    {Unk2 P:5}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Fine.{End}
+    {C1}{NameColor:31}{CharImage:30}Good.{End}
+    {C1}{NameColor:31}{CharImage:30}Excellent!{End}
+    {Unk2 P:6}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Yes! {End}
+    {C1}{NameColor:31}{CharImage:30}A triumph!{End}
+    {C1}{NameColor:31}{CharImage:30}Satisfactory.{End}
+    {Unk2 P:7}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Good. {End}
+    {C1}{NameColor:31}{CharImage:30}Splendid.{End}
+    {C1}{NameColor:31}{CharImage:31}We did it!{End}
+    {Unk2 P:8}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Excellent.{End}
+    {C1}{NameColor:31}{CharImage:31}Fine work.{End}
+    {C1}{NameColor:31}{CharImage:31}That's a bonus.{End}
+    {Unk2 P:9}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Ho!{End}
+    {C1}{NameColor:31}{CharImage:30}Wonderful!{End}
+    {C1}{NameColor:31}{CharImage:31}Excellent stuff!{End}
+    {Unk2 P:10}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Hey, cool!{End}
+    {C1}{NameColor:31}{CharImage:31}Good work!{End}
+    {C1}{NameColor:31}{CharImage:31}Good job!{End}
+    {Unk2 P:11}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Yes.{End}
+    {C1}{NameColor:31}{CharImage:30}Good.{End}
+    {C1}{NameColor:31}{CharImage:30}Excellent!{End}
+    {Unk2 P:12}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Okay!{End}
+    {C1}{NameColor:31}{CharImage:30}Yes!{End}
+    {C1}{NameColor:31}{CharImage:30}Well, there you are!{End}
+    {Unk2 P:13}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Good.{End}
+    {C1}{NameColor:31}{CharImage:30}Very good.{End}
+    {C1}{NameColor:31}{CharImage:30}Ha...{End}
+    {Unk2 P:14}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Wonderful!{End}
+    {C1}{NameColor:31}{CharImage:31}Fabulous!{End}
+    {C1}{NameColor:31}{CharImage:31}Ohh, yes!{End}
+    {Unk2 P:15}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Good.{End}
+    {C1}{NameColor:31}{CharImage:30}All right.{End}
+    {C1}{NameColor:31}{CharImage:30}Well done.{End}
+    {Unk2 P:16}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Hehehe...{End}
+    {C1}{NameColor:31}{CharImage:31}Hehe, very good.{End}
+    {C1}{NameColor:31}{CharImage:31}How perfect. {End}
+    {Unk2 P:17}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Hehe...{End}
+    {C1}{NameColor:31}{CharImage:31}Ha...{End}
+    {C1}{NameColor:31}{CharImage:31}Good.{End}
+    {Unk2 P:18}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Well!{End}
+    {C1}{NameColor:31}{CharImage:30}Yes!{End}
+    {C1}{NameColor:31}{CharImage:30}Oh!{End}
+    {Unk2 P:19}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Yup!{End}
+    {C1}{NameColor:31}{CharImage:31}Nice!{End}
+    {C1}{NameColor:31}{CharImage:31}Hey, good one!{End}
+    {Unk2 P:20}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Good.{End}
+    {C1}{NameColor:31}{CharImage:30}Yes.{End}
+    {C1}{NameColor:31}{CharImage:30}I see.{End}
+    {Unk2 P:21}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Superb!{End}
+    {C1}{NameColor:31}{CharImage:30}Excellent!{End}
+    {C1}{NameColor:31}{CharImage:30}Very good.{End}
+    {Unk2 P:22}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Yee-hah!{End}
+    {C1}{NameColor:31}{CharImage:31}Yes!{End}
+    {C1}{NameColor:31}{CharImage:31}Great!{End}
+    {Unk2 P:23}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Good.{End}
+    {C1}{NameColor:31}{CharImage:30}Fine.{End}
+    {C1}{NameColor:31}{CharImage:30}I merely do my duty.{End}
+    {Unk2 P:24}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Okeydokey!{End}
+    {C1}{NameColor:31}{CharImage:31}Nice!{End}
+    {C1}{NameColor:31}{CharImage:31}Now we're talkin'!{End}
+    {Unk2 P:25}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Right!{End}
+    {C1}{NameColor:31}{CharImage:30}Excellent!{End}
+    {C1}{NameColor:31}{CharImage:31}Very good!{End}
+    {Unk2 P:26}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Yup.{End}
+    {C1}{NameColor:31}{CharImage:30}Nice.{End}
+    {C1}{NameColor:31}{CharImage:30}Good, good. {End}
+    {Unk2 P:27}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Good!{End}
+    {C1}{NameColor:31}{CharImage:31}Wonderful!{End}
+    {C1}{NameColor:31}{CharImage:31}Excellent!{End}
+    {Unk2 P:28}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}But of course.{End}
+    {C1}{NameColor:31}{CharImage:30}I never had any doubt.{End}
+    {C1}{NameColor:31}{CharImage:30}How lovely!{End}
+    {Unk2 P:29}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Wowee!{End}
+    {C1}{NameColor:31}{CharImage:31}All right!{End}
+    {C1}{NameColor:31}{CharImage:31}Yes!{End}
+    {Unk2 P:30}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Okay!{End}
+    {C1}{NameColor:31}{CharImage:31}Wonderful!{End}
+    {C1}{NameColor:31}{CharImage:31}Pretty good!{End}
+    {Unk2 P:31}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Okay!{End}
+    {C1}{NameColor:31}{CharImage:30}Excellent!{End}
+    {C1}{NameColor:31}{CharImage:31}I've done it!{End}
+    {Unk2 P:32}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Yes.{End}
+    {C1}{NameColor:31}{CharImage:30}Good.{End}
+    {C1}{NameColor:31}{CharImage:30}Well done.{End}
+    {Unk2 P:33}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Well!{End}
+    {C1}{NameColor:31}{CharImage:31}Excellent!{End}
+    {C1}{NameColor:31}{CharImage:31}Good!{End}
+    {Unk2 P:34}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Nice work.{End}
+    {C1}{NameColor:31}{CharImage:30}Impressive.{End}
+    {C1}{NameColor:31}{CharImage:30}Excellent!{End}
+    {Unk2 P:35}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Okay.{End}
+    {C1}{NameColor:31}{CharImage:30}Good.{End}
+    {C1}{NameColor:31}{CharImage:30}Fine work.{End}
+    {Unk2 P:36}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Right!{End}
+    {C1}{NameColor:31}{CharImage:30}Okay!{End}
+    {C1}{NameColor:31}{CharImage:31}Well, great!{End}
+    {Unk2 P:37}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Yeah! That's right!{End}
+    {C1}{NameColor:31}{CharImage:31}Got it!{End}
+    {C1}{NameColor:31}{CharImage:31}Take that! {End}
+    {Unk2 P:100}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Right.{End}
+    {C1}{NameColor:31}{CharImage:31}Good.{End}
+    {C1}{NameColor:31}{CharImage:31}Splendid!{End}
+    {Unk2 P:101}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Good.{End}
+    {C1}{NameColor:31}{CharImage:31}Fine work.{End}
+    {C1}{NameColor:31}{CharImage:31}Excellent.{End}
+    {Unk2 P:102}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Superb!{End}
+    {C1}{NameColor:31}{CharImage:31}Fantastic!{End}
+    {C1}{NameColor:31}{CharImage:31}Wonderful!{End}
+    {Unk2 P:103}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Very nice.{End}
+    {C1}{NameColor:31}{CharImage:31}Impressive.{End}
+    {C1}{NameColor:31}{CharImage:31}We've done it!{End}
+    {Unk2 P:104}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Yes!{End}
+    {C1}{NameColor:31}{CharImage:31}That's the way!{End}
+    {C1}{NameColor:31}{CharImage:31}Perfect!{End}
+    {Unk2 P:105}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Yup, that's the way.{End}
+    {C1}{NameColor:31}{CharImage:31}Yup, I like it!{End}
+    {C1}{NameColor:31}{CharImage:31}Good job.{End}
+    {Unk2 P:106}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Righto!{End}
+    {C1}{NameColor:31}{CharImage:31}That's it!{End}
+    {C1}{NameColor:31}{CharImage:31}Good work!{End}
+    {Unk2 P:107}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}That's good!{End}
+    {C1}{NameColor:31}{CharImage:31}I like it!{End}
+    {C1}{NameColor:31}{CharImage:31}Great work!{End}
+    {Unk2 P:108}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Yes, this is the way... {End}
+    {C1}{NameColor:31}{CharImage:31}This is good. {End}
+    {C1}{NameColor:31}{CharImage:31}Excellent. {End}
+    {Unk2 P:109}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Pretty good.{End}
+    {C1}{NameColor:31}{CharImage:31}Not bad.{End}
+    {C1}{NameColor:31}{CharImage:31}Splendid work.{End}
+    {Unk2 P:110}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Great!{End}
+    {C1}{NameColor:31}{CharImage:31}Superb!{End}
+    {C1}{NameColor:31}{CharImage:31}Brilliant!{End}
+    {Unk2 P:111}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Oh... Was that okay?{End}
+    {C1}{NameColor:31}{CharImage:31}I-I hope that was okay...{End}
+    {C1}{NameColor:31}{CharImage:31}Oh... G-Good...{End}
+    {Unk2 P:112}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Right.{End}
+    {C1}{NameColor:31}{CharImage:31}Fine work.{End}
+    {C1}{NameColor:31}{CharImage:31}Very fine!{End}
+    {Unk2 P:113}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Yes!{End}
+    {C1}{NameColor:31}{CharImage:31}All right!{End}
+    {C1}{NameColor:31}{CharImage:31}Great!{End}
+    {Unk2 P:114}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Good.{End}
+    {C1}{NameColor:31}{CharImage:31}Very good.{End}
+    {C1}{NameColor:31}{CharImage:31}Excellent.{End}
+    {Unk2 P:116}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Yup!{End}
+    {C1}{NameColor:31}{CharImage:31}Yeah!{End}
+    {C1}{NameColor:31}{CharImage:31}We did it!{End}
+    {Unk2 P:117}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Yesss!{End}
+    {C1}{NameColor:31}{CharImage:31}All right!{End}
+    {C1}{NameColor:31}{CharImage:31}Beautiful!{End}
+    {Unk2 P:118}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Good!{End}
+    {C1}{NameColor:31}{CharImage:31}Indeed!{End}
+    {C1}{NameColor:31}{CharImage:31}Excellent!{End}
+    {Unk2 P:119}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Oh, yes!{End}
+    {C1}{NameColor:31}{CharImage:31}Yes, indeed!{End}
+    {C1}{NameColor:31}{CharImage:31}Well, that's great!{End}
+    {Unk2 P:121}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Oh, this is good!{End}
+    {C1}{NameColor:31}{CharImage:31}Jolly good!{End}
+    {C1}{NameColor:31}{CharImage:31}Very fine!{End}
+    {Unk2 P:122}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Good.{End}
+    {C1}{NameColor:31}{CharImage:31}Yes.{End}
+    {C1}{NameColor:31}{CharImage:31}Excellent.{End}
+    {Unk2 P:123}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Right...{End}
+    {C1}{NameColor:31}{CharImage:31}Good...{End}
+    {C1}{NameColor:31}{CharImage:31}Done...{End}
+    {Unk2 P:124}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Right!{End}
+    {C1}{NameColor:31}{CharImage:31}Great!{End}
+    {C1}{NameColor:31}{CharImage:31}Excellent!{End}
+    {Unk2 P:125}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}That's good!{End}
+    {C1}{NameColor:31}{CharImage:31}Bravo!{End}
+    {C1}{NameColor:31}{CharImage:31}Excellent. {End}
+    {Unk2 P:126}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Yes! Yes!{End}
+    {C1}{NameColor:31}{CharImage:31}Brilliant!{End}
+    {C1}{NameColor:31}{CharImage:31}Yes! Great!{End}
+    {Unk2 P:128}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Great!{End}
+    {C1}{NameColor:31}{CharImage:31}Good job!{End}
+    {C1}{NameColor:31}{CharImage:31}Nice work!{End}
+    {Unk2 P:129}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Splendiferous!{End}
+    {C1}{NameColor:31}{CharImage:31}Magnificulous!{End}
+    {C1}{NameColor:31}{CharImage:31}Excellicious!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="5">
+    {Unk2 P:0}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Ohh...{End}
+    {C1}{NameColor:31}{CharImage:32}Hmm...{End}
+    {C1}{NameColor:31}{CharImage:32}Urgh...{End}
+    {Unk2 P:1}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Ohh...{End}
+    {C1}{NameColor:31}{CharImage:32}Hmm...{End}
+    {C1}{NameColor:31}{CharImage:32}Oh dear...{End}
+    {Unk2 P:2}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Hmm...{End}
+    {C1}{NameColor:31}{CharImage:30}Yes...{End}
+    {C1}{NameColor:31}{CharImage:33}Not what I had in mind...{End}
+    {Unk2 P:3}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:34}Ah!{End}
+    {C1}{NameColor:31}{CharImage:34}Oops...{End}
+    {C1}{NameColor:31}{CharImage:32}Oh no...{End}
+    {Unk2 P:4}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}That's no good!{End}
+    {C1}{NameColor:31}{CharImage:32}You're doing it wrong!{End}
+    {C1}{NameColor:31}{CharImage:32}No! No!{End}
+    {Unk2 P:5}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}Hm!{End}
+    {C1}{NameColor:31}{CharImage:31}Well...{End}
+    {C1}{NameColor:31}{CharImage:31}Very well...{End}
+    {Unk2 P:6}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}...Oh. {End}
+    {C1}{NameColor:31}{CharImage:30}...How dispiriting.{End}
+    {C1}{NameColor:31}{CharImage:30}Unsatisfactory.{End}
+    {Unk2 P:7}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}...Oh. {End}
+    {C1}{NameColor:31}{CharImage:32}Well, well...{End}
+    {C1}{NameColor:31}{CharImage:32}You can't win them all.{End}
+    {Unk2 P:8}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Oh, goodness.{End}
+    {C1}{NameColor:31}{CharImage:32}How dreadful...{End}
+    {C1}{NameColor:31}{CharImage:32}Ridiculous...!{End}
+    {Unk2 P:9}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Ho...{End}
+    {C1}{NameColor:31}{CharImage:30}Hmm...{End}
+    {C1}{NameColor:31}{CharImage:30}Dear me.{End}
+    {Unk2 P:10}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:34}Eek!{End}
+    {C1}{NameColor:31}{CharImage:34}Ahh!{End}
+    {C1}{NameColor:31}{CharImage:34}Aww...{End}
+    {Unk2 P:11}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Hmm...{End}
+    {C1}{NameColor:31}{CharImage:30}Oh...{End}
+    {C1}{NameColor:31}{CharImage:30}Well, well...{End}
+    {Unk2 P:12}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:33}Hmph.{End}
+    {C1}{NameColor:31}{CharImage:33}Blast!{End}
+    {C1}{NameColor:31}{CharImage:34}What?!{End}
+    {Unk2 P:13}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}...Oh. {End}
+    {C1}{NameColor:31}{CharImage:30}Hmm.{End}
+    {C1}{NameColor:31}{CharImage:30}Well, well.{End}
+    {Unk2 P:14}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Ohh...{End}
+    {C1}{NameColor:31}{CharImage:32}Oh no...{End}
+    {C1}{NameColor:31}{CharImage:32}How unfortunate...{End}
+    {Unk2 P:15}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:33}Hmph...{End}
+    {C1}{NameColor:31}{CharImage:33}Ha...{End}
+    {C1}{NameColor:31}{CharImage:33}Urgh...{End}
+    {Unk2 P:16}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:34}Oh?{End}
+    {C1}{NameColor:31}{CharImage:34}Hmm...{End}
+    {C1}{NameColor:31}{CharImage:30}How disappointing...{End}
+    {Unk2 P:17}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Hmm...{End}
+    {C1}{NameColor:31}{CharImage:30}Hmph.{End}
+    {C1}{NameColor:31}{CharImage:30}Pssh...{End}
+    {Unk2 P:18}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Oh dear...{End}
+    {C1}{NameColor:31}{CharImage:32}Hmm...{End}
+    {C1}{NameColor:31}{CharImage:34}How did that...?{End}
+    {Unk2 P:19}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Aargh...{End}
+    {C1}{NameColor:31}{CharImage:32}Oh no...{End}
+    {C1}{NameColor:31}{CharImage:34}Ugh!{End}
+    {Unk2 P:20}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Hm...{End}
+    {C1}{NameColor:31}{CharImage:30}...Oh. {End}
+    {C1}{NameColor:31}{CharImage:34}...{End}
+    {Unk2 P:21}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:31}...Oh. {End}
+    {C1}{NameColor:31}{CharImage:31}Ha...{End}
+    {C1}{NameColor:31}{CharImage:34}What...?{End}
+    {Unk2 P:22}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Boo!{End}
+    {C1}{NameColor:31}{CharImage:32}Oh...{End}
+    {C1}{NameColor:31}{CharImage:32}Oh no...{End}
+    {Unk2 P:23}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}...{End}
+    {C1}{NameColor:31}{CharImage:30}...{End}
+    {C1}{NameColor:31}{CharImage:30}Hmm...{End}
+    {Unk2 P:24}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:34}Sheesh...{End}
+    {C1}{NameColor:31}{CharImage:34}Uh-oh...{End}
+    {C1}{NameColor:31}{CharImage:32}Oh, man...{End}
+    {Unk2 P:25}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Hmm.{End}
+    {C1}{NameColor:31}{CharImage:32}No...{End}
+    {C1}{NameColor:31}{CharImage:34}How...?{End}
+    {Unk2 P:26}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Hmm?{End}
+    {C1}{NameColor:31}{CharImage:30}What's that?{End}
+    {C1}{NameColor:31}{CharImage:34}Oops...{End}
+    {Unk2 P:27}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Ohh...{End}
+    {C1}{NameColor:31}{CharImage:30}Urgh...{End}
+    {C1}{NameColor:31}{CharImage:30}Argh...{End}
+    {Unk2 P:28}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Oh dear...{End}
+    {C1}{NameColor:31}{CharImage:30}How unfortunate.{End}
+    {C1}{NameColor:31}{CharImage:30}Oh...{End}
+    {Unk2 P:29}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Cripes...{End}
+    {C1}{NameColor:31}{CharImage:32}Ohh...{End}
+    {C1}{NameColor:31}{CharImage:32}Uh-oh...{End}
+    {Unk2 P:30}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Oh dear...{End}
+    {C1}{NameColor:31}{CharImage:32}What a shame...{End}
+    {C1}{NameColor:31}{CharImage:32}Dear oh dear...{End}
+    {Unk2 P:31}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}But...{End}
+    {C1}{NameColor:31}{CharImage:32}Ohh...{End}
+    {C1}{NameColor:31}{CharImage:32}Oh, my...{End}
+    {Unk2 P:32}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}Hmm...{End}
+    {C1}{NameColor:31}{CharImage:30}I see.{End}
+    {C1}{NameColor:31}{CharImage:30}Oh.{End}
+    {Unk2 P:33}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Ahh...{End}
+    {C1}{NameColor:31}{CharImage:32}Hmm...{End}
+    {C1}{NameColor:31}{CharImage:32}How unfortunate.{End}
+    {Unk2 P:34}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:30}No...{End}
+    {C1}{NameColor:31}{CharImage:30}That's no good...{End}
+    {C1}{NameColor:31}{CharImage:34}Oops!{End}
+    {Unk2 P:35}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Hmm...{End}
+    {C1}{NameColor:31}{CharImage:32}I see...{End}
+    {C1}{NameColor:31}{CharImage:32}Oh...{End}
+    {Unk2 P:36}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:33}Grr...{End}
+    {C1}{NameColor:31}{CharImage:33}Hmm...{End}
+    {C1}{NameColor:31}{CharImage:33}Oh, crikey...{End}
+    {Unk2 P:37}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:33}Yaaargh!{End}
+    {C1}{NameColor:31}{CharImage:33}No!{End}
+    {C1}{NameColor:31}{CharImage:32}Oh, not again!{End}
+    {Unk2 P:100}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Oh dear.{End}
+    {C1}{NameColor:31}{CharImage:32}Hmm...{End}
+    {C1}{NameColor:31}{CharImage:32}Heavens above...{End}
+    {Unk2 P:101}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Oh...{End}
+    {C1}{NameColor:31}{CharImage:32}Hmm...{End}
+    {C1}{NameColor:31}{CharImage:32}Argh...{End}
+    {Unk2 P:102}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Argh!{End}
+    {C1}{NameColor:31}{CharImage:32}No...!{End}
+    {C1}{NameColor:31}{CharImage:32}Ohhh...{End}
+    {Unk2 P:103}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Oh...{End}
+    {C1}{NameColor:31}{CharImage:32}I see...{End}
+    {C1}{NameColor:31}{CharImage:32}Dear me...{End}
+    {Unk2 P:104}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Oh...{End}
+    {C1}{NameColor:31}{CharImage:32}Argh!{End}
+    {C1}{NameColor:31}{CharImage:32}What was that?!{End}
+    {Unk2 P:105}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Uh-oh...{End}
+    {C1}{NameColor:31}{CharImage:32}Oops...{End}
+    {C1}{NameColor:31}{CharImage:32}Argh...{End}
+    {Unk2 P:106}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}No way...{End}
+    {C1}{NameColor:31}{CharImage:32}How on earth...?{End}
+    {C1}{NameColor:31}{CharImage:32}Argh...{End}
+    {Unk2 P:107}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Oh...{End}
+    {C1}{NameColor:31}{CharImage:32}Oops...{End}
+    {C1}{NameColor:31}{CharImage:32}Ugh...{End}
+    {Unk2 P:108}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Insufficient...{End}
+    {C1}{NameColor:31}{CharImage:32}Disappointing...{End}
+    {C1}{NameColor:31}{CharImage:32}Oh, dear me...{End}
+    {Unk2 P:109}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Oh...{End}
+    {C1}{NameColor:31}{CharImage:32}I see...{End}
+    {C1}{NameColor:31}{CharImage:32}How unfortunate...{End}
+    {Unk2 P:110}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Hmm...{End}
+    {C1}{NameColor:31}{CharImage:32}That's not in the script...{End}
+    {C1}{NameColor:31}{CharImage:32}Oof...{End}
+    {Unk2 P:111}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Oh...{End}
+    {C1}{NameColor:31}{CharImage:32}O-Oh my...{End}
+    {C1}{NameColor:31}{CharImage:32}Oh...d-dear...{End}
+    {Unk2 P:112}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Oh dear.{End}
+    {C1}{NameColor:31}{CharImage:32}Hmm...{End}
+    {C1}{NameColor:31}{CharImage:32}Deary me. {End}
+    {Unk2 P:113}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Ohh...{End}
+    {C1}{NameColor:31}{CharImage:32}Ugh...{End}
+    {C1}{NameColor:31}{CharImage:32}But...!{End}
+    {Unk2 P:114}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Oh dear...{End}
+    {C1}{NameColor:31}{CharImage:32}How unfortunate...{End}
+    {C1}{NameColor:31}{CharImage:32}This is no good at all...{End}
+    {Unk2 P:116}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}No way...{End}
+    {C1}{NameColor:31}{CharImage:32}But...!{End}
+    {C1}{NameColor:31}{CharImage:32}Argh...{End}
+    {Unk2 P:117}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}No way...{End}
+    {C1}{NameColor:31}{CharImage:32}What...?!{End}
+    {C1}{NameColor:31}{CharImage:32}Oh, man...{End}
+    {Unk2 P:118}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Oh dear.{End}
+    {C1}{NameColor:31}{CharImage:32}Oh dear.{End}
+    {C1}{NameColor:31}{CharImage:32}A great pity...{End}
+    {Unk2 P:119}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Ooh...{End}
+    {C1}{NameColor:31}{CharImage:32}No...{End}
+    {C1}{NameColor:31}{CharImage:32}Aargh...{End}
+    {Unk2 P:121}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Oh dear.{End}
+    {C1}{NameColor:31}{CharImage:32}Hmm...{End}
+    {C1}{NameColor:31}{CharImage:32}What a shame...{End}
+    {Unk2 P:122}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Oh...{End}
+    {C1}{NameColor:31}{CharImage:32}Hmm.{End}
+    {C1}{NameColor:31}{CharImage:32}...{End}
+    {Unk2 P:123}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Hmm...{End}
+    {C1}{NameColor:31}{CharImage:32}Ugh...{End}
+    {C1}{NameColor:31}{CharImage:32}...{End}
+    {Unk2 P:124}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Oh...{End}
+    {C1}{NameColor:31}{CharImage:32}Urgh...{End}
+    {C1}{NameColor:31}{CharImage:32}Argh!{End}
+    {Unk2 P:125}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Oh...{End}
+    {C1}{NameColor:31}{CharImage:32}No...{End}
+    {C1}{NameColor:31}{CharImage:32}Argh...{End}
+    {Unk2 P:126}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Oh no!{End}
+    {C1}{NameColor:31}{CharImage:32}What a waste...!{End}
+    {C1}{NameColor:31}{CharImage:32}Arghhh...no!{End}
+    {Unk2 P:128}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}Oh dear.{End}
+    {C1}{NameColor:31}{CharImage:32}What a waste...{End}
+    {C1}{NameColor:31}{CharImage:32}Deary me...{End}
+    {Unk2 P:129}{Unk1 P:3 P:3}{C1}{NameColor:31}{CharImage:32}How tragic...!{End}
+    {C1}{NameColor:31}{CharImage:32}Disastrous indeed...!{End}
+    {C1}{NameColor:31}{CharImage:32}Oh, woe is me...!{End}
+    {C1}{End}
+  </Text>
+</Block>

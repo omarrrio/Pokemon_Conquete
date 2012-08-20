@@ -1,0 +1,561 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Block>
+  <Text ID="0">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:32}Ah-choo! This must be hay fever... It'd be great if I had some {Color:32}hayfever pills{Color:33}...{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:32}Ah-choo! I think I have hay fever... If only I had some {Color:32}hayfever pills{Color:33}...{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}Ka-choo... Hay fever. Of all things. Well, there's no hope of improvement without medicine.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:33}Oh, it must be hay fever. Now, if only I had some {Color:32}hayfever pills{Color:33}... {End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:32}Ah-choo! Now this is hay fever and no mistake! Could sure do with some {Color:32}hayfever pills{Color:33}... {End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}Hay fever... Everything would be fine if I had some {Color:32}hayfever pills{Color:33}...{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}This must be hay fever... I'd be over it in no time if only I had some {Color:32}hayfever pills{Color:33}.{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:32}Ah-choo! Must be hay fever... Hmmm. Everything could be solved with just a few {Color:32}hayfever pills{Color:33}...{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}Seems to be hay fever... Nothing that a few {Color:32}hayfever pills{Color:33} couldn't cure, of course.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}Ah-choo! Hay fever... What next! If only I had some {Color:32}hayfever pills{Color:33}, it'd be gone in no time.{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:34}(sniff sniff) Aww, this must be hay fever. It'd be fixed in no time if only I had some {Color:32}hayfever pills{Color:33}... {End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Ah-choo! Now this looks like hay fever... {Color:32}Hayfever pills{Color:33} would come in handy right now, I'd wager...{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Now this must be hay fever... Gone in a second, I bet, if only I had some {Color:32}hayfever pills{Color:33}...{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}Hay fever... Gone imminently if only I had some {Color:32}hayfever pills{Color:33}.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:32}Ohh-choo! This must be hay fever... If only I had some {Color:32}hayfever pills{Color:33}, it'd be gone in a jiffy!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}Hay fever... What a joke! If only I had some {Color:32}hayfever pills{Color:33}.{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:30}Oh goodness, hay fever... One or two {Color:32}hayfever pills{Color:33} would cure it in no time, I'm sure. {End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}Ah-choo! Hay fever... Not a problem, of course, if only I had some {Color:32}hayfever pills{Color:33}...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:32}Ah-choo! This must be hay fever... One or two {Color:32}hayfever pills{Color:33} would cure it in no time.{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:32}It must be hay fever... It's times like these when you need {Color:32}hayfever pills{Color:33}!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}This is hay fever, I fear... It would be cured instantly with some {Color:32}hayfever pills{Color:33}.{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:31}Oh, now this must be hay fever... Sorted in no time if only I had some {Color:32}hayfever pills{Color:33}.{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:34}Oh no, this is definitely hay fever... If only I had some {Color:32}hayfever pills{Color:33}, I'm sure everything would be okay...{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Hay fever... {Color:32}Hayfever pills{Color:33} would help.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:32}Argh, man! Not hay fever... I could sure do with some {Color:32}hayfever pills{Color:33}... {End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:32}This has to be hay fever... They say that {Color:32}hayfever pills{Color:33} work wonders in these situations...{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:32}Ah-choo! Ah, now this must be hay fever... What I need are some {Color:32}hayfever pills{Color:33}...{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:34}Is this...hay fever? Soon gone if only I had some {Color:32}hayfever pills{Color:33}...{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Oh, goodness, hay fever... Some {Color:32}hayfever pills{Color:33} would be lovely now... {End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:32}Oh cripes, not hay fever... I could do with some {Color:32}hayfever pills{Color:33} right about now... {End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:32}Oh, heavens! This must be hay fever. Now, a friend once told me that {Color:32}hayfever pills{Color:33} work wonders at times like these... {End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:32}Seems to be hay fever... Nothing that one or two {Color:32}hayfever pills{Color:33} couldn't cure, I'm sure...{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}Now this is hay fever, no doubt... Cured instantly if only I had some {Color:32}hayfever pills{Color:33}...{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:32}Oh, now this seems like hay fever. How good it would be if I had some {Color:32}hayfever pills{Color:33}... {End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}This must be hay fever... Could sure do with some {Color:32}hayfever pills{Color:33}... {End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}Stupid hay fever... I need {Color:32}hayfever pills{Color:33} to make myself feel better...{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}Now this is hay fever, no doubt about it... I could put it to rest in no time if only I had some {Color:32}hayfever pills{Color:33}...{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:32}Aaa-chooo! Argh, not hay fever! Cripes! Wish I had some {Color:32}hayfever pills{Color:33}...{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:32}Seems to be hay fever... Nothing that a few {Color:32}hayfever pills{Color:33} couldn't cure, I'm sure.{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:32}Hmm, this seems like hay fever to me... Nothing that a few {Color:32}hayfever pills{Color:33} couldn't cure, I'm sure.{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:32}Well now, this is hay fever! It must be! It would be great if I had some {Color:32}hayfever pills{Color:33}!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:32}Hmm, this looks suspiciously like hay fever to me... Still, nothing that one or two {Color:32}hayfever pills{Color:33} couldn't cure...{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:32}Ohh, I feel awful. Hay fever... I could cure it with some {Color:32}hayfever pills{Color:33}, of course...{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:32}Ah-choo! Now this is hay fever and no mistake... Did I have any {Color:32}hayfever pills{Color:33}? I can't remember...{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:32}Ah-choo! Oh no, is this hay fever? Fixed in no time with one of those {Color:32}hayfever pills{Color:33}, I guess...{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:32}Hmm, this is hay fever, no doubt about it... I need some {Color:32}hayfever pills{Color:33}...{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:32}Hmm, this looks suspiciously like hay fever to me... Still, nothing that some {Color:32}hayfever pills{Color:33} won't cure...{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:32}Well now, this looks like hay fever! Nothing that some {Color:32}hayfever pills{Color:33} couldn't cure, I'm sure.{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:32}Well now, this looks like hay fever! One or two {Color:32}hayfever pills{Color:33} would see me right, I'm sure.{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:32}Oh... H-Hay f-fever... I've heard that {Color:32}hayfever pills{Color:33} w-work well... {End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:32}Ah-choo! Oh dear, this is hay fever... The only real cure for this is {Color:32}hayfever pills{Color:33}...{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:32}Ugh... This is hay fever... I wish I had some {Color:32}hayfever pills{Color:33}...{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:32}Well, this would appear to be hay fever... Nothing that one or two {Color:32}hayfever pills{Color:33} couldn't cure, I'm sure.{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:32}Ah-choo! Oh, is this hay fever? Are there any {Color:32}hayfever pills{Color:33} around?{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:32}Oh man, is this hay fever? Any {Color:32}hayfever pills{Color:33} around?{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:32}Now, I believe this must be hay fever! Some {Color:32}hayfever pills{Color:33} should deal with it.{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:32}I think this must be hay fever... At times like these, what's needed is some {Color:32}hayfever pills{Color:33}...{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:32}Now now, this looks to me like hay fever... Gone in a jiffy with some {Color:32}hayfever pills{Color:33}, I'm sure...{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:32}I believe this is hay fever. It would be cured straightaway by {Color:32}hayfever pills{Color:33}.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:32}Oh... Hay fever... I wish I had some {Color:32}hayfever pills{Color:33}...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:32}Now this is hay fever. It'd be cured in no time with some {Color:32}hayfever pills{Color:33}...{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:32}This bothersome hay fever... Gone in no time at all if I had some {Color:32}hayfever pills{Color:33}...{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:32}Hey, I think this is hay fever! Oh, what I wouldn't give for some {Color:32}hayfever pills{Color:33}...{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:32}Ah-choo! Hay fever is such a bother... But {Color:32}hayfever pills{Color:33} should cure it, I hope...{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:32}Noooo... Not hay fever! Ah-choo! All would be well if we just had some {Color:32}hayfever pills{Color:33}...{End}
+    {C1}{End}
+  </Text>
+  <Text ID="1">
+    {Unk2 P:0}{C1}{NameColor:30}{CharImage:30}It sure is hot... But {Poke}{C1} seems to be going strong!{End}
+    {Unk2 P:1}{C1}{NameColor:30}{CharImage:30}It sure is hot... But {Poke}{C1} seems to be going strong!{End}
+    {Unk2 P:2}{C1}{NameColor:30}{CharImage:30}This infernal heat is increasing {Poke}{C1}'s power.{End}
+    {Unk2 P:3}{C1}{NameColor:30}{CharImage:30}Wow, it's so hot! But {Poke}{C1} is looking well!{End}
+    {Unk2 P:4}{C1}{NameColor:30}{CharImage:30}What heat! But {Poke}{C1} is looking A-OK!{End}
+    {Unk2 P:5}{C1}{NameColor:30}{CharImage:31}I feel the heat. Yet {Poke}{C1} appears to like it.{End}
+    {Unk2 P:6}{C1}{NameColor:30}{CharImage:30}It's a little hot... But {Poke}{C1} is doing well, it seems.{End}
+    {Unk2 P:7}{C1}{NameColor:30}{CharImage:30}It is rather hot! But {Poke}{C1} is doing well, it seems.{End}
+    {Unk2 P:8}{C1}{NameColor:30}{CharImage:30}This is some heat. Yet {Poke}{C1} doesn't seem to be suffering. {End}
+    {Unk2 P:9}{C1}{NameColor:30}{CharImage:30}It doesn't look good for me in later life if I'm struggling this much in the heat...but {Poke}{C1} seems perfectly cheerful.{End}
+    {Unk2 P:10}{C1}{NameColor:30}{CharImage:30}Wow, is it hot! But {Poke}{C1} seems fit as a fiddle!{End}
+    {Unk2 P:11}{C1}{NameColor:30}{CharImage:30}It is rather hot, I'll give you that. But {Poke}{C1} is doing well, it seems.{End}
+    {Unk2 P:12}{C1}{NameColor:30}{CharImage:30}Gah, this heat is unbearable! But {Poke}{C1} doesn't seem bothered at all!{End}
+    {Unk2 P:13}{C1}{NameColor:30}{CharImage:30}This is some heat... But {Poke}{C1} is full of life. {End}
+    {Unk2 P:14}{C1}{NameColor:30}{CharImage:30}Ohh, it's so hot...but {Poke}{C1} seems just ever so healthy and happy! {End}
+    {Unk2 P:15}{C1}{NameColor:30}{CharImage:30}Is it ever sticky in this heat! But {Poke}{C1} seems lively as anything. {End}
+    {Unk2 P:16}{C1}{NameColor:30}{CharImage:30}Oh yes, how heavily this heat weighs on me... But {Poke}{C1} is doing well, it seems.{End}
+    {Unk2 P:17}{C1}{NameColor:30}{CharImage:30}I don't know if it is this heat or what, but {Poke}{C1} seems mighty powerful...{End}
+    {Unk2 P:18}{C1}{NameColor:30}{CharImage:30}It certainly is hot! Still, {Poke}{C1} seems fit and ready to go!{End}
+    {Unk2 P:19}{C1}{NameColor:30}{CharImage:32}Wow, it's super hot! But {Poke}{C1} seems to be going strong!{End}
+    {Unk2 P:20}{C1}{NameColor:30}{CharImage:30}It seems that {Poke}{C1} is drawing strength from this heat. {End}
+    {Unk2 P:21}{C1}{NameColor:30}{CharImage:30}Yes, it certainly is hot! But {Poke}{C1} is doing well, it seems.{End}
+    {Unk2 P:22}{C1}{NameColor:30}{CharImage:30}It's definitely hot, but {Poke}{C1} seems to be going strong!{End}
+    {Unk2 P:23}{C1}{NameColor:30}{CharImage:30}Heat... {Poke}{C1} has grown stronger...{End}
+    {Unk2 P:24}{C1}{NameColor:30}{CharImage:33}Ugh, it's so hot! But {Poke}{C1} is looking better than ever!{End}
+    {Unk2 P:25}{C1}{NameColor:30}{CharImage:30}I'm feeling this heat, I must say. Still, {Poke}{C1} appears to like it...{End}
+    {Unk2 P:26}{C1}{NameColor:30}{CharImage:30}Boy, it is hot! But {Poke}{C1} is looking in good shape!{End}
+    {Unk2 P:27}{C1}{NameColor:30}{CharImage:30}Yes, this is some heat. But {Poke}{C1} seems brimming with health!{End}
+    {Unk2 P:28}{C1}{NameColor:30}{CharImage:30}Oh, it isn't that hot... And {Poke}{C1} is doing wonderfully well!{End}
+    {Unk2 P:29}{C1}{NameColor:30}{CharImage:30}Yeah, it's pretty hot! But {Poke}{C1} is looking fit as a fiddle!{End}
+    {Unk2 P:30}{C1}{NameColor:30}{CharImage:30}Hot it certainly is! But {Poke}{C1} is in great shape!{End}
+    {Unk2 P:31}{C1}{NameColor:30}{CharImage:30}Yes, it definitely is hot... But {Poke}{C1} seems fit as a fiddle!{End}
+    {Unk2 P:32}{C1}{NameColor:30}{CharImage:30}But it seems that {Poke}{C1} is drawing strength from this heat. {End}
+    {Unk2 P:33}{C1}{NameColor:30}{CharImage:33}I shan't be defeated by a bit of heat like this! Just look at how brimming with life {Poke}{C1} is!{End}
+    {Unk2 P:34}{C1}{NameColor:30}{CharImage:30}Yup, it sure is hot... But {Poke}{C1} is looking better than ever!{End}
+    {Unk2 P:35}{C1}{NameColor:30}{CharImage:30}It really is hot... But {Poke}{C1} doesn't seem bothered at all!{End}
+    {Unk2 P:36}{C1}{NameColor:30}{CharImage:30}It sure is hot... But {Poke}{C1} seems in fine form! {End}
+    {Unk2 P:37}{C1}{NameColor:30}{CharImage:30}Arrrgh, man! I'm boiling! But {Poke}{C1} seems cool as a cucumber!{End}
+    {Unk2 P:100}{C1}{NameColor:30}{CharImage:30}Well it certainly is quite hot... But see how lively {Poke}{C1} looks!{End}
+    {Unk2 P:101}{C1}{NameColor:30}{CharImage:30}It is indeed hot. Yet {Poke}{C1} doesn't seem to be suffering. {End}
+    {Unk2 P:102}{C1}{NameColor:30}{CharImage:30}It's so hot! Yet {Poke}{C1} seems to be very comfortable!{End}
+    {Unk2 P:103}{C1}{NameColor:30}{CharImage:30}I must admit, it is pretty hot here... Yet {Poke}{C1} looks full of beans!{End}
+    {Unk2 P:104}{C1}{NameColor:30}{CharImage:30}Wow, it is pretty hot... But {Poke}{C1} looks in top shape!{End}
+    {Unk2 P:105}{C1}{NameColor:30}{CharImage:30}Wow, it is pretty hot... But {Poke}{C1} looks in fighting form!{End}
+    {Unk2 P:106}{C1}{NameColor:30}{CharImage:30}Wow, it is pretty hot... But {Poke}{C1} looks in fighting form!{End}
+    {Unk2 P:107}{C1}{NameColor:30}{CharImage:30}What's that, {Poke}{C1}? You like this heat?{End}
+    {Unk2 P:108}{C1}{NameColor:30}{CharImage:30}It is certainly rather hot here... Yet {Poke}{C1} looks in excellent spirits!{End}
+    {Unk2 P:109}{C1}{NameColor:30}{CharImage:30}Goodness, it's rather hot. Yet {Poke}{C1} looks in fine shape!{End}
+    {Unk2 P:110}{C1}{NameColor:30}{CharImage:30}Goodness, it's hot. But {Poke}{C1} looks in fine shape!{End}
+    {Unk2 P:111}{C1}{NameColor:30}{CharImage:30}It is... It is rather h-hot... B-But {Poke}{C1} looks very well...{End}
+    {Unk2 P:112}{C1}{NameColor:30}{CharImage:30}Oh, this is some heat, for sure... But just see how lively {Poke}{C1} looks!{End}
+    {Unk2 P:113}{C1}{NameColor:30}{CharImage:30}It sure is hot... But see how cheerful {Poke}{C1} looks!{End}
+    {Unk2 P:114}{C1}{NameColor:30}{CharImage:30}Goodness, it is certainly rather warm. Yet {Poke}{C1} doesn't seem to be suffering at all. {End}
+    {Unk2 P:116}{C1}{NameColor:30}{CharImage:30}Whew, it's pretty hot... But {Poke}{C1} looks to be in fighting form!{End}
+    {Unk2 P:117}{C1}{NameColor:30}{CharImage:30}This heat is really something... But {Poke}{C1} looks happy as anything!{End}
+    {Unk2 P:118}{C1}{NameColor:30}{CharImage:30}Goodness, it's rather hot. Yet {Poke}{C1} looks to be in fine shape!{End}
+    {Unk2 P:119}{C1}{NameColor:30}{CharImage:30}Oh yes, it's just so hot. But {Poke}{C1} looks very well...{End}
+    {Unk2 P:121}{C1}{NameColor:30}{CharImage:30}Oh, this is some heat, for sure... But {Poke}{C1} looks hale and hearty!{End}
+    {Unk2 P:122}{C1}{NameColor:30}{CharImage:30}A ninja must not be affected by heat... Besides, {Poke}{C1} seems in fine form.{End}
+    {Unk2 P:123}{C1}{NameColor:30}{CharImage:30}It's certainly hot... But {Poke}{C1} seems very lively...{End}
+    {Unk2 P:124}{C1}{NameColor:30}{CharImage:30}It's definitely hot! But {Poke}{C1} seems in fine form.{End}
+    {Unk2 P:125}{C1}{NameColor:30}{CharImage:30}It is definitely quite hot. Yet {Poke}{C1} has never looked so well. {End}
+    {Unk2 P:126}{C1}{NameColor:30}{CharImage:30}Wow... It's so hot here... But see how cheerful little {Poke}{C1} looks!{End}
+    {Unk2 P:128}{C1}{NameColor:30}{CharImage:30}My, this is some heat, for sure... But just see how lively {Poke}{C1} looks!{End}
+    {Unk2 P:129}{C1}{NameColor:30}{CharImage:30}Hot, hot, hot... But {Poke}{C1} looks to be in fighting form!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="2">
+    {Unk2 P:0}{C1}{NameColor:30}{CharImage:30}I'm absolutely fr-freezing... But {Poke}{C1} looks happy enough!{End}
+    {Unk2 P:1}{C1}{NameColor:30}{CharImage:30}I'm absolutely fr-freezing... But {Poke}{C1} looks really happy!{End}
+    {Unk2 P:2}{C1}{NameColor:30}{CharImage:30}This chafing cold is increasing {Poke}{C1}'s power.{End}
+    {Unk2 P:3}{C1}{NameColor:30}{CharImage:30}I feel like I might freeze too... But {Poke}{C1} seems to be in good spirits.{End}
+    {Unk2 P:4}{C1}{NameColor:30}{CharImage:30}I am f-r-e-e-z-i-n-g! But {Poke}{C1} is all smiles!{End}
+    {Unk2 P:5}{C1}{NameColor:30}{CharImage:31}I feel the cold. Yet {Poke}{C1} appears to like it.{End}
+    {Unk2 P:6}{C1}{NameColor:30}{CharImage:30}A little c-cold like this never h-hurt anyone, I suppose... Hm, {Poke}{C1} seems very content.{End}
+    {Unk2 P:7}{C1}{NameColor:30}{CharImage:30}I'm fr-freezing too... Still, {Poke}{C1} looks happy enough.{End}
+    {Unk2 P:8}{C1}{NameColor:30}{CharImage:30}I am fr-freezing... Still, {Poke}{C1} seems happy enough.{End}
+    {Unk2 P:9}{C1}{NameColor:30}{CharImage:30}It doesn't look good for me in later life if I'm struggling this much in the cold...but {Poke}{C1} seems jolly enough.{End}
+    {Unk2 P:10}{C1}{NameColor:30}{CharImage:30}Brrr, I'm freezing... But {Poke}{C1} seems happy as Larry!{End}
+    {Unk2 P:11}{C1}{NameColor:30}{CharImage:30}I'm freezing, too... But {Poke}{C1} seems remarkably chipper.{End}
+    {Unk2 P:12}{C1}{NameColor:30}{CharImage:30}Gah, this cold is intolerable! But {Poke}{C1} doesn't seem bothered at all!{End}
+    {Unk2 P:13}{C1}{NameColor:30}{CharImage:30}It is indeed cold... But {Poke}{C1} is full of life. {End}
+    {Unk2 P:14}{C1}{NameColor:30}{CharImage:30}Ohh, how ch-chilly it is...but {Poke}{C1} seems practically in raptures!{End}
+    {Unk2 P:15}{C1}{NameColor:30}{CharImage:30}Ooh, I'm sh-shivering like cr-crazy in this cold! But {Poke}{C1} seems happy as ever.{End}
+    {Unk2 P:16}{C1}{NameColor:30}{CharImage:30}Oh yes, what a chill there is in the air... And yet {Poke}{C1} seems content.{End}
+    {Unk2 P:17}{C1}{NameColor:30}{CharImage:30}I don't know if it is this cold that is responsible, but {Poke}{C1} seems mighty powerful...{End}
+    {Unk2 P:18}{C1}{NameColor:30}{CharImage:30}It's so very cold! Still, {Poke}{C1} seems not to mind at all!{End}
+    {Unk2 P:19}{C1}{NameColor:30}{CharImage:32}I'm totally fr-freezing! But {Poke}{C1} looks happy enough!{End}
+    {Unk2 P:20}{C1}{NameColor:30}{CharImage:30}It seems that {Poke}{C1} is drawing strength from this cold. {End}
+    {Unk2 P:21}{C1}{NameColor:30}{CharImage:30}Yes, I'm freezing too... And yet {Poke}{C1} seems content.{End}
+    {Unk2 P:22}{C1}{NameColor:30}{CharImage:30}I'm a-absolutely fr-freezing too, but {Poke}{C1} looks happy enough!{End}
+    {Unk2 P:23}{C1}{NameColor:30}{CharImage:30}Cold... {Poke}{C1} has grown stronger...{End}
+    {Unk2 P:24}{C1}{NameColor:30}{CharImage:33}Man, I'm freezing my socks off! Unlike {Poke}{C1}!{End}
+    {Unk2 P:25}{C1}{NameColor:30}{CharImage:30}I'm f-feeling the cold, I m-must say. Still, {Poke}{C1} appears to like it.{End}
+    {Unk2 P:26}{C1}{NameColor:30}{CharImage:30}Boy, I'm fr-freezing too! But {Poke}{C1} doesn't seem bothered at all!{End}
+    {Unk2 P:27}{C1}{NameColor:30}{CharImage:30}Well, it's certainly chilly... But {Poke}{C1} seems to like this weather!{End}
+    {Unk2 P:28}{C1}{NameColor:30}{CharImage:30}Oh, it isn't all that cold! Look at how content {Poke}{C1} seems...{End}
+    {Unk2 P:29}{C1}{NameColor:30}{CharImage:32}Yeah, I'm freezing my socks off too! But {Poke}{C1} is chirpy as anything!{End}
+    {Unk2 P:30}{C1}{NameColor:30}{CharImage:30}I feel like I might freeze too... But {Poke}{C1} seems perfectly happy!{End}
+    {Unk2 P:31}{C1}{NameColor:30}{CharImage:30}Yes, I'm fr-freezing too... Still, {Poke}{C1} seems happy enough.{End}
+    {Unk2 P:32}{C1}{NameColor:30}{CharImage:30}But it seems that {Poke}{C1} is drawing strength from this cold. {End}
+    {Unk2 P:33}{C1}{NameColor:30}{CharImage:31}Yes, it is rather chilly with all this snow... But {Poke}{C1} seems in good spirits.{End}
+    {Unk2 P:34}{C1}{NameColor:30}{CharImage:30}Yup, there's definitely a chill in the air... But {Poke}{C1} looks happier than ever!{End}
+    {Unk2 P:35}{C1}{NameColor:30}{CharImage:30}It's not all that cold! Just look at {Poke}{C1}! Happy as anything!{End}
+    {Unk2 P:36}{C1}{NameColor:30}{CharImage:30}I'm frozen too! But just look at {Poke}{C1}! Happy as anything!{End}
+    {Unk2 P:37}{C1}{NameColor:30}{CharImage:30}Whew, it is seriously cold! But {Poke}{C1} seems to be having a whale of a time...{End}
+    {Unk2 P:100}{C1}{NameColor:30}{CharImage:30}I am fr-freezing... Still, {Poke}{C1} seems to be happy enough.{End}
+    {Unk2 P:101}{C1}{NameColor:30}{CharImage:30}I am tr-truly fr-freezing... Still, {Poke}{C1} seems happy enough.{End}
+    {Unk2 P:102}{C1}{NameColor:30}{CharImage:30}It's fr-freezing! Still, {Poke}{C1} seems contented!{End}
+    {Unk2 P:103}{C1}{NameColor:30}{CharImage:30}I am really fr-freezing... Still, {Poke}{C1} seems happy enough.{End}
+    {Unk2 P:104}{C1}{NameColor:30}{CharImage:30}I'm fr-frozen through... Still, {Poke}{C1} seems h-happy enough!{End}
+    {Unk2 P:105}{C1}{NameColor:30}{CharImage:30}I'm turning into a human icicle here... Still, {Poke}{C1} seems happy enough!{End}
+    {Unk2 P:106}{C1}{NameColor:30}{CharImage:30}Oh man, is it cold... Still, {Poke}{C1} seems happy enough!{End}
+    {Unk2 P:107}{C1}{NameColor:30}{CharImage:30}What's that, {Poke}{C1}? The cold makes you feel good?{End}
+    {Unk2 P:108}{C1}{NameColor:30}{CharImage:30}It is certainly rather c-cold here... Still, {Poke}{C1} looks in excellent s-spirits!{End}
+    {Unk2 P:109}{C1}{NameColor:30}{CharImage:30}Goodness, I am rather cold... Still, there's a real spring in {Poke}{C1}'s step!{End}
+    {Unk2 P:110}{C1}{NameColor:30}{CharImage:30}Goodness, it's cold... Still, {Poke}{C1} is having a great time!{End}
+    {Unk2 P:111}{C1}{NameColor:30}{CharImage:30}I'm qu-quite f-freezing! B-But {Poke}{C1} looks quite...happy...{End}
+    {Unk2 P:112}{C1}{NameColor:30}{CharImage:30}I'm frozen to the bone, you know... Still, {Poke}{C1} seems to be happy enough.{End}
+    {Unk2 P:113}{C1}{NameColor:30}{CharImage:30}It sure is c-cold... Still, it might be the perfect temperature for {Poke}{C1}!{End}
+    {Unk2 P:114}{C1}{NameColor:30}{CharImage:30}Goodness, I am truly fr-freezing... Yet {Poke}{C1} seems on top of the world!{End}
+    {Unk2 P:116}{C1}{NameColor:30}{CharImage:30}Ooh, it's f-freezing... But {Poke}{C1} looks happy enough!{End}
+    {Unk2 P:117}{C1}{NameColor:30}{CharImage:30}Oh man, it's f-freezing... But {Poke}{C1} looks happy enough!{End}
+    {Unk2 P:118}{C1}{NameColor:30}{CharImage:30}Goodness, I am rather cold... Still, {Poke}{C1} is as sprightly as ever!{End}
+    {Unk2 P:119}{C1}{NameColor:30}{CharImage:30}Oh yes, I'm just fr-freezing... But {Poke}{C1} seems so happy...{End}
+    {Unk2 P:121}{C1}{NameColor:30}{CharImage:30}I'm frozen to the bone, you know... But {Poke}{C1} seems happy as anything!{End}
+    {Unk2 P:122}{C1}{NameColor:30}{CharImage:30}A little cold like this is nothing... Besides, {Poke}{C1} is in fine form. {End}
+    {Unk2 P:123}{C1}{NameColor:30}{CharImage:30}It's certainly cold... But {Poke}{C1} seems content...{End}
+    {Unk2 P:124}{C1}{NameColor:30}{CharImage:30}It's absolutely freezing! But {Poke}{C1} is in fine form!{End}
+    {Unk2 P:125}{C1}{NameColor:30}{CharImage:30}It is definitely qu-quite c-cold. Yet {Poke}{C1} seems happy enough.{End}
+    {Unk2 P:126}{C1}{NameColor:30}{CharImage:30}Wow... It's so cold here... Still, see how lively {Poke}{C1} looks! {End}
+    {Unk2 P:128}{C1}{NameColor:30}{CharImage:30}I'm fr-frozen to the bone, you know... Still, {Poke}{C1} seems to be happy enough.{End}
+    {Unk2 P:129}{C1}{NameColor:30}{CharImage:30}Frozen...like...a...snowman... But {Poke}{C1} seems happy enough!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="3">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:31}That looks fun! Let's go take a look, {Poke}{C1}!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:31}That looks fun! Let's go take a look, {Poke}{C1}!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}Come along, {Poke}{C1}.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:31}That looks like fun! Let's go, {Poke}{C1}!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:31}Hey, that looks fun! Shall we take a look, {Poke}{C1}?{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}Interesting. Very interesting. Let us investigate, {Poke}{C1}.{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:34}So that's what all the noise is... Shall we take a look, {Poke}{C1}?{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:31}Well I say, that looks like it might be fun! What do you say to taking a look, {Poke}{C1}?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:31}Now, that looks like it could be fun. Shall we pay a visit, {Poke}{C1}?{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:31}Well, what have we here? Let's go investigate, {Poke}{C1}.{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}Hey! That looks like fun! Let's go take a look, {Poke}{C1}!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}That looks like a spot of fun! Let's swing over, {Poke}{C1}.{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}What a noisy lot... Shall we go take a look, {Poke}{C1}?{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}Come, {Poke}{C1}.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Well, well, now! What have we here? Let's go take a look, shall we, {Poke}{C1}?{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:31}A festival, eh? Hm. Shall we go check it out, {Poke}{C1}?{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}That looks rather nice... Shall we take a look, {Poke}{C1}?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:30}Come, {Poke}{C1}...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}Well, that looks like it might be a bit of fun. Shall we take a peek, {Poke}{C1}?{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Hey, that looks fun! Let's go take a look, {Poke}{C1}!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}There's some kind of commotion on the street. Come, {Poke}{C1}. Let's take a look.{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Hmm, that looks like it might be worth checking out... Shall we, {Poke}{C1}?{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}Wow, that looks super fun! Let's go take a look, {Poke}{C1}!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Come on...{Poke}{C1}...{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Hey, that looks like it could be fun... Shall we take a look, {Poke}{C1}?{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:31}That looks like fun. Shall we take a look, {Poke}{C1}?{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}This looks like my idea of fun! Shall we go take a look, {Poke}{C1}?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:31}Now, that looks quite pleasant! Shall we go take a look, {Poke}{C1}?{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}That looks rather lovely... Shall we drop by, {Poke}{C1}?{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:31}Hey, that looks like a laugh... Shall we take a look, {Poke}{C1}?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:31}Oh, wow! Let's go take a look, {Poke}{C1}!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}Now, that looks like it could be fun! Shall we investigate, {Poke}{C1}?{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}That looks intriguing. Come, {Poke}{C1}. Let's take a look.{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}That looks most enjoyable! Let's go and have a look, shall we, {Poke}{C1}?{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:34}Hey, that sounds like me! Let's take a look, {Poke}{C1}.{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}Some kind of ruckus on the street... Shall we go take a look, {Poke}{C1}?{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}Hey, a summer festival... Shall we go take a look, {Poke}{C1}?{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Whoa! It's a festival! Let's go check it out, {Poke}{C1}!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:31}Now, that looks like it could be fun! Shall we pay a visit, {Poke}{C1}?{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:31}Now, that looks like it could be fun! Shall we go take a look, {Poke}{C1}?{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:31}Now, look how fun that looks! Let's go check it out, {Poke}{C1}!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:31}Now, that looks like it could be fun! Shall we go take a look, {Poke}{C1}?{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:31}Now, that looks like a good laugh! Let's take a look, {Poke}{C1}!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:31}Now, that looks like a blast! Let's go take a look, {Poke}{C1}!{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:31}Whoa, that looks fun! Let's go take a look, {Poke}{C1}!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:31}Yes, {Poke}{C1}, I agree―that does look fun! Let's go take a look!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:31}Well, there's a fine commotion coming from over there! Shall we go and investigate, {Poke}{C1}?{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:31}Now, that looks like it could prove to be good fun! Shall we go and investigate, {Poke}{C1}?{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:31}Hey, that seems like fun! Shall we go and investigate, {Poke}{C1}?{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:31}That looks f-fun...doesn't it? Shall we go look, {Poke}{C1}?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:31}Now, that looks like a bit of fun, doesn't it! Shall we swing by, {Poke}{C1}?{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:31}That looks like great fun! Let's go and investigate, {Poke}{C1}!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:31}Now, that looks like it could be fun! Shall we go take a look, {Poke}{C1}?{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:31}Now that looks interesting! Let's swing by, {Poke}{C1}!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:31}Whoa, take a look at that! Let's swing over, {Poke}{C1}!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:31}Now, that looks like it could prove to be real fun! Shall we have a look, {Poke}{C1}?{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:31}Now, that looks like real fun. Let's go take a look, {Poke}{C1}...{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:31}Now, that looks like a bit of fun, doesn't it! Shall we swing by, {Poke}{C1}?{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:31}That looks interesting. Shall we take a look, {Poke}{C1}?{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:31}Come, {Poke}{C1}...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:31}Now, that looks like good fun! We'll take a look, shall we, {Poke}{C1}?{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:31}Now, that looks like fun. Let's take a look, {Poke}{C1}.{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:31}Hey! That looks like so much fun! Let's go and check it out, {Poke}{C1}!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:31}My, that looks like a bit of fun, doesn't it! Shall we go and take a look, {Poke}{C1}?{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:31}Now, that looks like a blast and a half! Let's swing over, {Poke}{C1}!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="4">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:30}Now this is a sight I'd like people from other kingdoms to see!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:30}Now this is a sight I'd like to show people from other kingdoms!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}{Color:31}Nobunaga{Color:33} will show this sight to people of other lands.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:31}Now this is a sight I'd like people from other kingdoms to see...{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:31}It'd be cool to show this to people from other kingdoms...{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}It would please me to let people from other lands take a look at this...{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}I want to let people from other lands catch a glimpse of this!{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:31}It would be nice to let people from other lands take a look at this!{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:31}How good it would be if I could show this splendid sight to people of other kingdoms...{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:31}I'd like to give people from other kingdoms a glimpse of this.{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}Wow, I'd love to show this to people from other kingdoms...{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}I should like to show this to folk from other lands!{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}You know what? I'd like to see people from other lands experience this so they could know what they're missing out on. {End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}This is a sight I should like people from other kingdoms to see.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}Ohh! This is a sight I'd love people from all across the land to see!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:31}I wouldn't mind letting people from other kingdoms get a load of this, you know.{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}I would love to show this magnificent vista to those from other kingdoms.{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}Ha... I'd like to let people in other kingdoms feast their eyes on this...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}Oh, how I'd like to let people from other lands take a look at this!{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Know what? I'd like to let people from other kingdoms see a bit of this!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}I'd like to let people of foreign lands see this sight.{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}I want to let people from other lands catch a glimpse of this also!{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}I'd like to let people from other kingdoms catch a glimpse of this!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Here is a sight I would like those from other lands to see.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}It'd be so cool to let some people from other kingdoms catch a glimpse of this...{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:30}It would please me to show this sight to people from other lands!{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Ah! I'd like to see people from other lands drink up some of this!{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:31}Oh, how dearly I would like to show this sight to people from other kingdoms!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}I would love to let people of other kingdoms catch a glimpse of this!{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}It'd be wonderful to show this sight to people from other lands...{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:31}You know, I'd love to show this sight to the people of other kingdoms...{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}Now this is a sight I'd like people from other kingdoms to see!{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}I only hope that those from other lands will one day have the chance to see such a sight.{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}This is a sight I'd love to show to people of other kingdoms...{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Man, it'd be great if I could show this sight to people from other kingdoms...{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}Hm. This is a sight I'd quite like to show to people from other lands.{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:31}This is quite something... I wonder what people from other lands would make of it!{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Man, I wanna show this off to people from other lands...{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:31}I would like to see what people of other kingdoms make of this sight!{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:31}I think I would like to show this sight to people of other kingdoms...{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:31}Wow, I'd love people from other lands to catch even a glimpse of this sight!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:31}I'd like to let people of other kingdoms catch a glimpse of this...{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:31}I'd sure like to give people of other kingdoms a sight of this...{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:31}It'd be great to give people of other kingdoms the chance to catch an eyeful of this...{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:31}If only everyone could share in this sight...{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:31}Wouldn't it be great to show this off to people of other kingdoms!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:31}This is a sight I'd like to let people of other kingdoms see!{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:31}Here is a sight I would rather like to show to people from other lands...{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:31}I'd definitely like to show this sight to people from other kingdoms and see what they make of it...{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:31}It would be nice to show p-people from other k-kingdoms this sight...one day...{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:31}I would like to show this sight to some of the people from those other lands...{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:31}I'd sure like to show this sight to people from other lands!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:31}Now this is a sight I'd like people from other kingdoms to see...{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:31}This is one sight I think everybody should have a chance to experience.{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:31}I wonder what folks from other kingdoms would make of this...{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:31}This is a sight I'd love to let people from other kingdoms see.{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:31}I would just so like to show this sight to people from other lands...{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:31}Oh... This is a sight I would like to show off to some of the people from those other lands...{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:31}It would please me to give people of other kingdoms a glimpse of this, too. {End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:31}This is a sight I'd like people from other kingdoms to see...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:31}I'd like to show this to people of other kingdoms...{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:31}I would like to show this sight off to people of other lands.{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:31}I think it would be just so great to show this to people from other lands!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:31}My, I think it would be rather nice to let some of the people from those other lands clap eyes on this, you know...{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:31}I'd like to show off this most majestic of scenes to people of other kingdoms...{End}
+    {C1}{End}
+  </Text>
+  <Text ID="5">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:33}I won't let them get away with this! Let's teach them a lesson! Come on, {Poke}{C1}!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:33}They won't get away with this! Let's teach them a lesson! Come on, {Poke}{C1}!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}We shall not accept this. They will all be punished. Come, {Poke}{C1}.{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:33}They won't have their way with us! Let's attack! Come on, {Poke}{C1}!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:33}They aren't gonna have their way with us! Let's get in there! C'mon, {Poke}{C1}!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:33}They shall not get their way. Let's show them what we've got. Come, {Poke}{C1}!{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:33}We will not let them have their way with us! We shall strike while the iron is hot! Come, {Poke}{C1}!{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:32}Well, well... I suppose you'll tell me that this kind of thing is considered normal these days! But we mustn't let them get away with it! Come, {Poke}{C1}!{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:33}We shall not let them take us down. Let's teach them a lesson. Come, {Poke}{C1}.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:33}I won't let them take advantage of us! Let's teach them a lesson they won't forget! Come on, {Poke}{C1}!{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:33}Hey! That's no way to behave! Right, it's our turn to attack, then! Come on, {Poke}{C1}!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:33}No, they will not get their way! We must go on the offensive! Come, {Poke}{C1}!{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:33}They think they can do with us as they like, do they? We'll show 'em! Come, {Poke}{C1}!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}Pathetic. What amateurs. Now they shall have {Color:31}Kenshin{Color:33} to face. Come, {Poke}{C1}!{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:33}I won't let them take advantage of us! No, I won't! We must attack! Come on, {Poke}{C1}!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:33}Think they can do what they like with us, eh? Yeah, well I've got news for 'em! I'll take 'em on! C'mon, {Poke}{C1}!{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Well, well. Let's have a little fun, shall we? Come, {Poke}{C1}!{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}Ha... They have a lot of nerve. We will show them the error of their ways, {Poke}{C1}.{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:33}We can't let them get away with this! We must strike back! Come on, {Poke}{C1}!{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:32}Why?! Why did this happen?! Well, guess we've no choice but to get 'em back! C'mon, {Poke}{C1}!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}Flames that rise too high must be quenched! It is time to do just that, {Poke}{C1}!{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:33}We won't let them have their way! We must strike back while the iron is hot! Come, {Poke}{C1}!{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:33}Hey! I won't let them get away with this! Let's take 'em down! C'mon, {Poke}{C1}!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}Any enemy of my master must be punished. Come, {Poke}{C1}.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:33}Man, what a pain! Well, let's teach 'em a lesson or two, shall we? C'mon, {Poke}{C1}!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:33}We won't let them get away with this! Let's show them what we've got. Come, {Poke}{C1}!{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:33}What are they playing at? Well, we'll show them how real Warriors fight! Come on, {Poke}{C1}!{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:33}Most dishonorable! We must teach them the true meaning of righteousness! Come, {Poke}{C1}!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}It is our duty to show them the way of love. Come, {Poke}{C1}!{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:33}They can't just waltz in and do what they want with us! Let's teach them a lesson they won't forget! C'mon, {Poke}{C1}!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:30}Now, I've got something to say about this... Come on, {Poke}{C1}!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:33}We won't let them treat us like this! Let's strike back and see how they like it! Come along, {Poke}{C1}!{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:33}Nobody can be allowed to treat us this way! We must teach them not to do this again, {Poke}{C1}!{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:33}We can't let them get away with this! Let's launch an attack! Come on, {Poke}{C1}!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:33}They aren't gonna have their way with us! We gotta show them who's boss! C'mon, {Poke}{C1}!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:33}Ha! Think they can do with us as they like, do they? Let's teach them otherwise. Come, {Poke}{C1}!{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:33}We can't let them get away with this! Let's show 'em! Come, {Poke}{C1}!{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:33}Right! Let the fighting begin! Let's go show 'em how it's really done, {Poke}{C1}!{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:33}We mustn't let them get away with this! We'll take them down! Come, {Poke}{C1}!{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:33}We must not let them have their way with us! It's time to launch our counterattack! Come, {Poke}{C1}!{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:33}They won't take us down! Let's teach them a lesson! C'mon, {Poke}{C1}!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:33}We mustn't let them have their way with us! It's time to launch our own attack! This way, {Poke}{C1}!{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:33}We can't let them have their way! We must strike back at once! Come, {Poke}{C1}!{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:33}We can't let them get away with this! Time to attack! Come, {Poke}{C1}!{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:33}No, they're not gonna get away with this! Attack, attack, attack! Come, {Poke}{C1}!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:33}What's that you say, {Poke}{C1}? You think we should take them down! Good idea!{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:33}We mustn't let them behave in this way! It's time to launch our own attack! This way, {Poke}{C1}!{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:33}We mustn't let them get away with this! It's time to launch our counterattack! Come, {Poke}{C1}!{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:33}We mustn't let them get away with this! It's time for us to prove our mettle! Come along, {Poke}{C1}!{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:33}Oh dear, oh dear... We m-must do something... However s-scared we might f-feel... Let's go, {Poke}{C1}...{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:33}Oh now, we mustn't let them get away with this! Come along, {Poke}{C1}!{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:33}They can't do that to us! Come on, {Poke}{C1}, let's show them who's boss around here!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:33}We mustn't let them have their way with us! It's essential that we fight back! Come, {Poke}{C1}!{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:33}We're not gonna let them walk over us! We gotta show them how it feels to be taken down! Come on, {Poke}{C1}!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:33}You think we're gonna let them get away with this?! Nah, we gotta show them what a proper attack looks like! C'mon, {Poke}{C1}!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:33}We mustn't let them get away with this. It is our time to attack! Come, {Poke}{C1}!{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:33}We simply cannot let them get away with this! Now is absolutely the time to strike back! Come on, {Poke}{C1}!{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:33}Oh now, we mustn't let them get away with this! No, we'll take them down! Come along, {Poke}{C1}!{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:33}They must be punished. Come, {Poke}{C1}.{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:33}They mustn't get away with this... Let us retaliate... Come on, {Poke}{C1}...{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:33}We must not let them get away with this! Let's hit back! Come, let's go, {Poke}{C1}!{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:33}This is inexcusable. We must attack. Come, {Poke}{C1}!{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:33}Huh! Now this is... This is really really terrible! We gotta attack them now! Come on, {Poke}{C1}!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:33}Well now! We mustn't let them get away with this! You gotta fight back in this world! Come along, {Poke}{C1}!{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:33}Well! How rude! They must be made to pay for this! Come along, {Poke}{C1}!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="6">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:34}Wh-What? I'm feeling more powerful...{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:34}Wh-What? I'm feeling more powerful...{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}Hehe... {Color:31}Nobunaga{Color:33} feels his power growing...{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:34}Oh, I feel a strange burst of strength...{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:34}H-H-Hey! HEY! Something's happening to me...{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}I am filled with a strange strength... {End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:30}Hm? A great power is rising up in me...{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:34}But what is this? I feel a great power growing in me...{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}But what is this? I feel a strange power rising up in me...{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}What's this? I'm feeling more powerful...{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:30}Hey, what's this? A weird kind of strength...{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}What is this now? I feel a great power growing in me...{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}Hm? I feel a strange strength welling up inside me...!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}Hm? A great power is rising up in me...{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:34}Ohh! Ohh! I'm feeling more powerful...{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}What...?! Wh-What's this weird strength?{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:34}Hm? This feeling... What could it be, I wonder.{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}Hm? My strength is growing...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}But...what...? Why do I feel this strange power welling up in me...?{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:30}Wh-What? There's some weird strength welling up in me...{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}What is this? This feeling of power...{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}Hm? I feel a great surge of strength...{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:34}Wh-What's this? I'm feeling more powerful...{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:34}I feel strength...{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}H-H-Hey! What's this weird power...{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:34}What on earth...? This power...{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Hey, what's with this weird power...?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:34}Oh, what's this? A strange power?{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Hm? This feeling... A strange power?{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}H-H-Hey! What's this weird power...?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:34}Wh-What is this? A strange strength rising up within me...{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:34}But what is this? I feel a bizarre power rising up in me...{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}I... What is happening to me...?{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:34}Wh-What is this...this...strange strength...?{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:34}What the...! Something's happening to me...{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}What's this...power...from...within...?{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}What's this...this strange feeling of power?{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:34}Hey! Heeey! What's this weird feeling of power?{End}
+    {C1}{End}
+  </Text>
+  <Text ID="7">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:31}Whoa! What a surge of power!{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:31}Whoa! What a surge of power!{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:31}Mwahaha! More power! I feel it...{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:31}Wow, this means I can evolve, too...! How bright the future looks!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:31}I'm feeling pretty powerful! Yes sirree!{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:31}Ah... Excellent! I will show the world how strong I truly am!{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:33}Ah... Excellent! I have grown stronger!{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:31}It looks like I've managed to find some new power from somewhere!{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:31}Excellent. It seems that my strength has been boosted.{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:31}A surge of power!{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:31}All right! I'm feeling so powerful! Things look good for the future!{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:31}Well... I seem to have gotten stronger!{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:31}Finally! True strength!{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}It seems I have grown stronger. I relish the thought of my next battle.{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:30}I feel like a whole new man!{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:31}Hmph... This ain't half bad. {End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:31}Well! I won't complain about this!{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}Ha... I feel invigorated...{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:31}Oh! I seem to have grown stronger somehow!{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:31}Wow... It's like I've reached a new level! I like it!{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}I feel a new strength within me!{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:31}Ah... Amazing! I seem to have grown stronger.{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:31}Hey, this is great! I've got some kind of new strength!{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:30}My training has borne fruit.{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:31}Hey! It's like I'm a whole new ninja!{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:31}I'm filled with a new strength!{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Excellent! I feel like I could face anything now!{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:31}Might comes to the righteous!{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}Well! It would seem that I have grown stronger still.{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:31}Now I'm gonna be invincible! Yeah!{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:31}This is great! I feel as though I'm glowing from the inside out!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:31}Wow! I feel like twice the man I was before!{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}Strange... I feel even stronger!{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:31}Oh! Never have I felt more alive!{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:30}Hey, it looks like I'm even stronger than before!{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}I knew I had it in me to reach greater heights.{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:31}Great! I'll be unstoppable now!{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:31}Hey, just look at the new me! Man, I'm the best!{End}
+    {C1}{End}
+  </Text>
+  <Text ID="8">
+    {Unk2 P:0}{C1}{NameColor:31}{CharImage:34}Huh? Something's happening to {Poke}{C1}...{End}
+    {Unk2 P:1}{C1}{NameColor:31}{CharImage:34}Huh? Something's happening to {Poke}{C1}...{End}
+    {Unk2 P:2}{C1}{NameColor:31}{CharImage:30}What is it, {Poke}{C1}?{End}
+    {Unk2 P:3}{C1}{NameColor:31}{CharImage:34}Something is happening to {Poke}{C1}!{End}
+    {Unk2 P:4}{C1}{NameColor:31}{CharImage:34}What's going on with {Poke}{C1}?{End}
+    {Unk2 P:5}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}... What's happening?{End}
+    {Unk2 P:6}{C1}{NameColor:31}{CharImage:34}What on earth is happening to {Poke}{C1}...?{End}
+    {Unk2 P:7}{C1}{NameColor:31}{CharImage:34}Huh? My {Poke}{C1}...?{End}
+    {Unk2 P:8}{C1}{NameColor:31}{CharImage:30}What's happening to you, {Poke}{C1}? Are you all right?{End}
+    {Unk2 P:9}{C1}{NameColor:31}{CharImage:30}What on earth! Something is happening to {Poke}{C1}...{End}
+    {Unk2 P:10}{C1}{NameColor:31}{CharImage:34}Hey! What's going on with {Poke}{C1}?{End}
+    {Unk2 P:11}{C1}{NameColor:31}{CharImage:30}Oh! My {Poke}{C1}...?{End}
+    {Unk2 P:12}{C1}{NameColor:31}{CharImage:30}What? What's with my {Poke}{C1}...?{End}
+    {Unk2 P:13}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}...? What is...?{End}
+    {Unk2 P:14}{C1}{NameColor:31}{CharImage:34}Ohh! Something is happening to {Poke}{C1}...{End}
+    {Unk2 P:15}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}...? What's going on?{End}
+    {Unk2 P:16}{C1}{NameColor:31}{CharImage:34}But what is happening to {Poke}{C1}...?{End}
+    {Unk2 P:17}{C1}{NameColor:31}{CharImage:31}My {Poke}{C1}...? What is...?{End}
+    {Unk2 P:18}{C1}{NameColor:31}{CharImage:30}Wh-What? What's happening to my {Poke}{C1}?{End}
+    {Unk2 P:19}{C1}{NameColor:31}{CharImage:30}Huh? What's going on with my {Poke}{C1}?{End}
+    {Unk2 P:20}{C1}{NameColor:31}{CharImage:30}Hm? What is happening to my {Poke}{C1}...?{End}
+    {Unk2 P:21}{C1}{NameColor:31}{CharImage:30}What's happening to {Poke}{C1}...?{End}
+    {Unk2 P:22}{C1}{NameColor:31}{CharImage:34}Huh? Something's happening to my {Poke}{C1}...{End}
+    {Unk2 P:23}{C1}{NameColor:31}{CharImage:34}{Poke}{C1}...?{End}
+    {Unk2 P:24}{C1}{NameColor:31}{CharImage:30}Hey, hey... What's going on with my {Poke}{C1}?{End}
+    {Unk2 P:25}{C1}{NameColor:31}{CharImage:34}{Poke}{C1}... What is happening to you?{End}
+    {Unk2 P:26}{C1}{NameColor:31}{CharImage:30}Huh? What's happening to my {Poke}{C1}...?{End}
+    {Unk2 P:27}{C1}{NameColor:31}{CharImage:34}But...what? What is happening to {Poke}{C1}...?{End}
+    {Unk2 P:28}{C1}{NameColor:31}{CharImage:30}But what is happening to {Poke}{C1}...?{End}
+    {Unk2 P:29}{C1}{NameColor:31}{CharImage:30}Hey, hey... What's happening to {Poke}{C1}?{End}
+    {Unk2 P:30}{C1}{NameColor:31}{CharImage:34}Heavens, something is happening to {Poke}{C1}!{End}
+    {Unk2 P:31}{C1}{NameColor:31}{CharImage:34}But...! What's happening to you, {Poke}{C1}?{End}
+    {Unk2 P:32}{C1}{NameColor:31}{CharImage:30}Hm? What is happening to my {Poke}{C1}...?{End}
+    {Unk2 P:33}{C1}{NameColor:31}{CharImage:34}Oh! What is happening to {Poke}{C1}?{End}
+    {Unk2 P:34}{C1}{NameColor:31}{CharImage:34}Huh? What's going on with {Poke}{C1}?{End}
+    {Unk2 P:35}{C1}{NameColor:31}{CharImage:30}What...? What's with {Poke}{C1}...?{End}
+    {Unk2 P:36}{C1}{NameColor:31}{CharImage:30}What...? What's happening to {Poke}{C1}...?{End}
+    {Unk2 P:37}{C1}{NameColor:31}{CharImage:34}Hey, {Poke}{C1}...? What's with you?{End}
+    {Unk2 P:100}{C1}{NameColor:31}{CharImage:30}Well, look at this! What's happening to {Poke}{C1}?{End}
+    {Unk2 P:101}{C1}{NameColor:31}{CharImage:30}What is happening to {Poke}{C1}?{End}
+    {Unk2 P:102}{C1}{NameColor:31}{CharImage:30}{Poke}{C1}?! What's happening to you?!{End}
+    {Unk2 P:103}{C1}{NameColor:31}{CharImage:30}Hm? What's happening to {Poke}{C1}?{End}
+    {Unk2 P:104}{C1}{NameColor:31}{CharImage:30}Hm? My {Poke}{C1}...?{End}
+    {Unk2 P:105}{C1}{NameColor:31}{CharImage:30}Hm? My {Poke}{C1}...?{End}
+    {Unk2 P:106}{C1}{NameColor:31}{CharImage:30}Hm? My {Poke}{C1}...?!{End}
+    {Unk2 P:107}{C1}{NameColor:31}{CharImage:30}What's that, {Poke}{C1}? You feel strange...?{End}
+    {Unk2 P:108}{C1}{NameColor:31}{CharImage:30}Hm? My {Poke}{C1} appears to be...?{End}
+    {Unk2 P:109}{C1}{NameColor:31}{CharImage:30}Well now, what on earth is happening to {Poke}{C1}?{End}
+    {Unk2 P:110}{C1}{NameColor:31}{CharImage:30}Hey! What's happening to {Poke}{C1}?{End}
+    {Unk2 P:111}{C1}{NameColor:31}{CharImage:30}B-But...{Poke}{C1}... Wh-What's happening to you?{End}
+    {Unk2 P:112}{C1}{NameColor:31}{CharImage:30}Well now, what's going on? {Poke}{C1}?{End}
+    {Unk2 P:113}{C1}{NameColor:31}{CharImage:30}Hm? What's going on with {Poke}{C1}?!{End}
+    {Unk2 P:114}{C1}{NameColor:31}{CharImage:30}Oh! What's happening to {Poke}{C1}?{End}
+    {Unk2 P:116}{C1}{NameColor:31}{CharImage:30}Hm? {Poke}{C1}...?!{End}
+    {Unk2 P:117}{C1}{NameColor:31}{CharImage:30}Hm? {Poke}{C1}...?!{End}
+    {Unk2 P:118}{C1}{NameColor:31}{CharImage:30}Well! What on earth is happening to {Poke}{C1}?{End}
+    {Unk2 P:119}{C1}{NameColor:31}{CharImage:30}Oh! What's happening to {Poke}{C1}?{End}
+    {Unk2 P:121}{C1}{NameColor:31}{CharImage:30}Well I never! What's happening to {Poke}{C1}?{End}
+    {Unk2 P:122}{C1}{NameColor:31}{CharImage:30}What is happening to {Poke}{C1}...?{End}
+    {Unk2 P:123}{C1}{NameColor:31}{CharImage:30}My {Poke}{C1}...? What...?{End}
+    {Unk2 P:124}{C1}{NameColor:31}{CharImage:30}What! My very own {Poke}{C1} is... What's happening...?{End}
+    {Unk2 P:125}{C1}{NameColor:31}{CharImage:30}Hm? What is happening to {Poke}{C1}?{End}
+    {Unk2 P:126}{C1}{NameColor:31}{CharImage:30}Hm? What's happening to my little {Poke}{C1}?!{End}
+    {Unk2 P:128}{C1}{NameColor:31}{CharImage:30}Well now! What is with my {Poke}{C1}...?{End}
+    {Unk2 P:129}{C1}{NameColor:31}{CharImage:30}Oh! My {Poke}{C1}...?{End}
+    {C1}{End}
+  </Text>
+</Block>
